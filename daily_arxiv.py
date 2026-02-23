@@ -108,69 +108,79 @@ def get_daily_papers(topic,query="slam", max_results=2):
     content_to_web = dict()
     
     # Use Client instead of Search to avoid deprecation warning
-    client = arxiv.Client()
+    client = arxiv.Client(
+        page_size = 50,
+        delay_seconds = 5.,
+        num_retries = 5,
+    )
     search = arxiv.Search(
         query = query,
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in client.results(search):
+    try:
+        for result in client.results(search):
 
-        paper_id            = result.get_short_id()
-        paper_title         = result.title
-        paper_url           = result.entry_id
-        code_url            = base_url + paper_id #TODO
-        paper_abstract      = result.summary.replace("\n"," ")
-        paper_authors       = get_authors(result.authors)
-        paper_first_author  = get_authors(result.authors,first_author = True)
-        primary_category    = result.primary_category
-        publish_time        = result.published.date()
-        update_time         = result.updated.date()
-        comments            = result.comment
+            paper_id            = result.get_short_id()
+            paper_title         = result.title
+            paper_url           = result.entry_id
+            code_url            = base_url + paper_id #TODO
+            paper_abstract      = result.summary.replace("\n"," ")
+            paper_authors       = get_authors(result.authors)
+            paper_first_author  = get_authors(result.authors,first_author = True)
+            primary_category    = result.primary_category
+            publish_time        = result.published.date()
+            update_time         = result.updated.date()
+            comments            = result.comment
 
-        logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
+            logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 
-        # eg: 2108.09112v1 -> 2108.09112
-        ver_pos = paper_id.find('v')
-        if ver_pos == -1:
-            paper_key = paper_id
-        else:
-            paper_key = paper_id[0:ver_pos]    
-        paper_url = arxiv_url + 'abs/' + paper_key
-        
-        try:
-            # source code link - 暂时跳过paperswithcode请求，避免SSL错误
-            repo_url = None
-            # r = requests.get(code_url, verify=False).json()
-            # if "official" in r and r["official"]:
-            #     repo_url = r["official"]["url"]
-            # TODO: not found, two more chances  
-            # else: 
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
-            if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
-
+            # eg: 2108.09112v1 -> 2108.09112
+            ver_pos = paper_id.find('v')
+            if ver_pos == -1:
+                paper_key = paper_id
             else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url)
+                paper_key = paper_id[0:ver_pos]    
+            paper_url = arxiv_url + 'abs/' + paper_key
+            
+            try:
+                # source code link - 暂时跳过paperswithcode请求，避免SSL错误
+                repo_url = None
+                # r = requests.get(code_url, verify=False).json()
+                # if "official" in r and r["official"]:
+                #     repo_url = r["official"]["url"]
+                # TODO: not found, two more chances  
+                # else: 
+                #    repo_url = get_code_link(paper_title)
+                #    if repo_url is None:
+                #        repo_url = get_code_link(paper_key)
+                if repo_url is not None:
+                    content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
+                        update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
+                    content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
+                        update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
 
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
-            else:
-                content_to_web[paper_key] += f"\n"
+                else:
+                    content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
+                        update_time,paper_title,paper_first_author,paper_key,paper_url)
+                    content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
+                        update_time,paper_title,paper_first_author,paper_url,paper_url)
 
-        except Exception as e:
-            logging.error(f"exception: {e} with id: {paper_key}")
+                # TODO: select useful comments
+                comments = None
+                if comments != None:
+                    content_to_web[paper_key] += f", {comments}\n"
+                else:
+                    content_to_web[paper_key] += f"\n"
+
+            except Exception as e:
+                logging.error(f"exception: {e} with id: {paper_key}")
+
+    except arxiv.HTTPError as e:
+        logging.error(f"ArXiv API Error: {e}. Try increasing delay_seconds or waiting a few hours.")
+    except Exception as e:
+        logging.error(f"Unexpected exception: {e}")
 
     data = {topic:content}
     data_web = {topic:content_to_web}
