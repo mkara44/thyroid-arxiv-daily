@@ -18,6 +18,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
     <li><a href=#image-animation>Image Animation</a></li>
+    <li><a href=#thyroid-analysis>Thyroid Analysis</a></li>
   </ol>
 </details>
 
@@ -1135,6 +1136,23 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 |**2015-02-04**|**Multimedia-Video for Learning**|Kah Hean Chua et.al.|[1502.01090](http://arxiv.org/abs/1502.01090)|null|
 |**2013-01-25**|**Measurements of Martian Dust Devil Winds with HiRISE**|David S. Choi et.al.|[1301.6130](http://arxiv.org/abs/1301.6130)|null|
 |**2010-01-04**|**Tutoring System for Dance Learning**|Rajkumar Kannan et.al.|[1001.0440](http://arxiv.org/abs/1001.0440)|null|
+
+<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+
+## Thyroid Analysis
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2026-02-01**|**Effectiveness of Automatically Curated Dataset in Thyroid Nodules Classification Algorithms Using Deep Learning**|Jichen Yang et.al.|[2602.01020](http://arxiv.org/abs/2602.01020)|null|
+|**2026-02-01**|**Diagnostic Impact of Cine Clips for Thyroid Nodule Assessment on Ultrasound**|Jichen Yang et.al.|[2602.00990](http://arxiv.org/abs/2602.00990)|null|
+|**2026-01-05**|**Prior-Guided DETR for Ultrasound Nodule Detection**|Jingjing Wang et.al.|[2601.02212](http://arxiv.org/abs/2601.02212)|null|
+|**2026-01-05**|**Nodule-DETR: A Novel DETR Architecture with Frequency-Channel Attention for Ultrasound Thyroid Nodule Detection**|Jingjing Wang et.al.|[2601.01908](http://arxiv.org/abs/2601.01908)|null|
+|**2025-12-17**|**Tracking spatial temporal details in ultrasound long video via wavelet analysis and memory bank**|Chenxiao Zhang et.al.|[2512.15066](http://arxiv.org/abs/2512.15066)|null|
+|**2025-12-14**|**Anatomy-Guided Representation Learning Using a Transformer-Based Network for Thyroid Nodule Segmentation in Ultrasound Images**|Muhammad Umar Farooq et.al.|[2512.12662](http://arxiv.org/abs/2512.12662)|null|
+|**2025-11-29**|**Doppler-Enhanced Deep Learning: Improving Thyroid Nodule Segmentation with YOLOv5 Instance Segmentation**|Mahmoud El Hussieni et.al.|[2512.00639](http://arxiv.org/abs/2512.00639)|null|
+|**2025-11-14**|**A Deep Learning Framework for Thyroid Nodule Segmentation and Malignancy Classification from Ultrasound Images**|Omar Abdelrazik et.al.|[2511.11937](http://arxiv.org/abs/2511.11937)|null|
+|**2025-10-30**|**Artificial Intelligence-Enabled Analysis of Radiology Reports: Epidemiology and Consequences of Incidental Thyroid Findings**|Felipe Larios et.al.|[2510.26032](http://arxiv.org/abs/2510.26032)|null|
+|**2025-10-27**|**ProfileXAI: User-Adaptive Explainable AI**|Gilber A. Corrales et.al.|[2510.22998](http://arxiv.org/abs/2510.22998)|null|
 
 <p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
 
