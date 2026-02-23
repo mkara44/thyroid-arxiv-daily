@@ -1145,6 +1145,21 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 |**2025-10-30**|**Artificial Intelligence-Enabled Analysis of Radiology Reports: Epidemiology and Consequences of Incidental Thyroid Findings**|Felipe Larios et.al.|[2510.26032](http://arxiv.org/abs/2510.26032)|null|
 |**2025-10-27**|**ProfileXAI: User-Adaptive Explainable AI**|Gilber A. Corrales et.al.|[2510.22998](http://arxiv.org/abs/2510.22998)|null|
 
+## Medical Ultrasound AI
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**RefineFormer3D: Efficient 3D Medical Image Segmentation via Adaptive Multi-Scale Transformer with Cross Attention Fusion**|Kavyansh Tyagi et.al.|[2602.16320](http://arxiv.org/abs/2602.16320)|null|
+|**2026-02-14**|**Optimized Certainty Equivalent Risk-Controlling Prediction Sets**|Jiayi Huang et.al.|[2602.13660](http://arxiv.org/abs/2602.13660)|null|
+|**2026-02-12**|**PLESS: Pseudo-Label Enhancement with Spreading Scribbles for Weakly Supervised Segmentation**|Yeva Gabrielyan et.al.|[2602.11628](http://arxiv.org/abs/2602.11628)|null|
+|**2026-02-11**|**Med-SegLens: Latent-Level Model Diffing for Interpretable Medical Image Segmentation**|Salma J. Ahmed et.al.|[2602.10508](http://arxiv.org/abs/2602.10508)|null|
+|**2026-02-10**|**Fully Differentiable Bidirectional Dual-Task Synergistic Learning for Semi-Supervised 3D Medical Image Segmentation**|Jun Li et.al.|[2602.09378](http://arxiv.org/abs/2602.09378)|null|
+|**2026-02-08**|**DINO-Mix: Distilling Foundational Knowledge with Cross-Domain CutMix for Semi-supervised Class-imbalanced Medical Image Segmentation**|Xinyu Liu et.al.|[2602.07819](http://arxiv.org/abs/2602.07819)|null|
+|**2026-02-07**|**A hybrid Kolmogorov-Arnold network for medical image segmentation**|Deep Bhattacharyya et.al.|[2602.07702](http://arxiv.org/abs/2602.07702)|null|
+|**2026-02-05**|**Multi-Scale Global-Instance Prompt Tuning for Continual Test-time Adaptation in Medical Image Segmentation**|Lingrui Li et.al.|[2602.05937](http://arxiv.org/abs/2602.05937)|null|
+|**2026-02-04**|**An Intuitionistic Fuzzy Logic Driven UNet architecture: Application to Brain Image segmentation**|Hanuman Verma et.al.|[2602.04227](http://arxiv.org/abs/2602.04227)|null|
+|**2026-02-03**|**MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning**|Shengyuan Liu et.al.|[2602.03320](http://arxiv.org/abs/2602.03320)|null|
+
 Notes: 
 
 * We have modified the `sorting rule` of the above table to prioritize papers based on the time of their latest update rather than their initial publication date. If an article has been recently modified, it will appear earlier in the list. 
