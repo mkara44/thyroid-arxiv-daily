@@ -1,6 +1,6 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "liutaocode"
+user_name: "mkara44"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
@@ -9,7 +9,7 @@ max_results: 10
 
 publish_readme: True
 publish_gitpage: True
-publish_wechat: True
+publish_wechat: False
 
 # file paths
 black_list_path: 'blacklists.txt'
@@ -25,7 +25,9 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Talking Face": 
-        filters: ["Talking Face", "Talking Head", "Talking Avatar",  "Animate Portrait", "Visual Dubbing", "Face Genertation", "Lip Sync", "Talker", "Portrait", "Talking Video", "Head Synthesis", "Face Reenactment", "Wav2lip", "Talking Avatar", "Lip Generation", "Lip Synchronization", "Portrait Animation", "Facial Animation", "Lip Expert"]
-    "Image Animation":
-        filters: ["Image Animator", "Image Animation"]
+    "Thyroid Analysis": 
+        filters: ["Thyroid", "Thyroid Nodule", "Thyroid Cancer", "TI-RADS", "TIRADS", "Thyroid Ultrasound", "TIRADS Classification", "TIRADS Category Classification", "TIRADS Scoring", "TIRADS Score", "Thyroid Nodule Classification"]
+    "Medical Ultrasound AI":
+        filters: ["Ultrasound Imaging", "US Images", "Sonography", "Medical Image Segmentation", "Nodule Classification"]
+    "Deep Learning in Radiology":
+        filters: ["Computer-Aided Diagnosis", "Radiomics", "Deep Learning Thyroid"]
