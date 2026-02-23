@@ -26,8 +26,6 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Thyroid Analysis": 
-        filters: ["Thyroid", "Thyroid Nodule", "Thyroid Cancer", "TI-RADS", "TIRADS", "Thyroid Ultrasound", "TIRADS Classification", "TIRADS Category Classification", "TIRADS Scoring", "TIRADS Score", "Thyroid Nodule Classification"]
+        filters: ["Thyroid Nodule", "TI-RADS", "TIRADS", "Thyroid Ultrasound", "Thyroid Cancer"]
     "Medical Ultrasound AI":
-        filters: ["Ultrasound Imaging", "US Images", "Sonography", "Medical Image Segmentation", "Nodule Classification"]
-    "Deep Learning in Radiology":
-        filters: ["Computer-Aided Diagnosis", "Radiomics", "Deep Learning Thyroid"]
+        filters: ["Medical Image Segmentation", "Ultrasound AI", "Radiomics"]
