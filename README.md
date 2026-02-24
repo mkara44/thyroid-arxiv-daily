@@ -36,6 +36,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-22**|**SegMoTE: Token-Level Mixture of Experts for Medical Image Segmentation**|Yujie Lu et.al.|[2602.19213](http://arxiv.org/abs/2602.19213)|null|
 |**2026-02-18**|**RefineFormer3D: Efficient 3D Medical Image Segmentation via Adaptive Multi-Scale Transformer with Cross Attention Fusion**|Kavyansh Tyagi et.al.|[2602.16320](http://arxiv.org/abs/2602.16320)|null|
 |**2026-02-14**|**Optimized Certainty Equivalent Risk-Controlling Prediction Sets**|Jiayi Huang et.al.|[2602.13660](http://arxiv.org/abs/2602.13660)|null|
 |**2026-02-12**|**PLESS: Pseudo-Label Enhancement with Spreading Scribbles for Weakly Supervised Segmentation**|Yeva Gabrielyan et.al.|[2602.11628](http://arxiv.org/abs/2602.11628)|null|
