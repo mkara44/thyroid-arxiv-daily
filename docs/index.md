@@ -30,6 +30,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Mask-HybridGNet: Graph-based segmentation with emergent anatomical correspondence from pixel-level supervision**|Nicolás Gaggion et.al.|[2602.21179](http://arxiv.org/abs/2602.21179)|null|
+|**2026-02-24**|**Federated Learning for Cross-Modality Medical Image Segmentation via Augmentation-Driven Generalization**|Sachin Dudda Nagaraju et.al.|[2602.20773](http://arxiv.org/abs/2602.20773)|null|
+|**2026-02-24**|**Leveraging Causal Reasoning Method for Explaining Medical Image Segmentation Models**|Limai Jiang et.al.|[2602.20511](http://arxiv.org/abs/2602.20511)|null|
+|**2026-02-23**|**MedCLIPSeg: Probabilistic Vision-Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation**|Taha Koleilat et.al.|[2602.20423](http://arxiv.org/abs/2602.20423)|null|
 |**2026-02-22**|**SegMoTE: Token-Level Mixture of Experts for Medical Image Segmentation**|Yujie Lu et.al.|[2602.19213](http://arxiv.org/abs/2602.19213)|null|
 |**2026-02-18**|**RefineFormer3D: Efficient 3D Medical Image Segmentation via Adaptive Multi-Scale Transformer with Cross Attention Fusion**|Kavyansh Tyagi et.al.|[2602.16320](http://arxiv.org/abs/2602.16320)|null|
 |**2026-02-14**|**Optimized Certainty Equivalent Risk-Controlling Prediction Sets**|Jiayi Huang et.al.|[2602.13660](http://arxiv.org/abs/2602.13660)|null|
