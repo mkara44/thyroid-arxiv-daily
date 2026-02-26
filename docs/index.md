@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**Adversarial Robustness of Deep Learning-Based Thyroid Nodule Segmentation in Ultrasound**|Nicholas Dietrich et.al.|[2602.21452](http://arxiv.org/abs/2602.21452)|null|
 |**2026-02-01**|**Effectiveness of Automatically Curated Dataset in Thyroid Nodules Classification Algorithms Using Deep Learning**|Jichen Yang et.al.|[2602.01020](http://arxiv.org/abs/2602.01020)|null|
 |**2026-02-01**|**Diagnostic Impact of Cine Clips for Thyroid Nodule Assessment on Ultrasound**|Jichen Yang et.al.|[2602.00990](http://arxiv.org/abs/2602.00990)|null|
 |**2026-01-05**|**Prior-Guided DETR for Ultrasound Nodule Detection**|Jingjing Wang et.al.|[2601.02212](http://arxiv.org/abs/2601.02212)|null|
