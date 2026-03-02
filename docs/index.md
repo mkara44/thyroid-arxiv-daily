@@ -31,6 +31,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**SegMate: Asymmetric Attention-Based Lightweight Architecture for Efficient Multi-Organ Segmentation**|Andrei-Alexandru Bunea et.al.|[2602.23903](http://arxiv.org/abs/2602.23903)|null|
+|**2026-02-26**|**SegReg: Latent Space Regularization for Improved Medical Image Segmentation**|Puru Vaish et.al.|[2602.23509](http://arxiv.org/abs/2602.23509)|null|
+|**2026-02-26**|**SGDC: Structurally-Guided Dynamic Convolution for Medical Image Segmentation**|Bo Shi et.al.|[2602.23496](http://arxiv.org/abs/2602.23496)|null|
 |**2026-02-26**|**SpectralMamba-UNet: Frequency-Disentangled State Space Modeling for Texture-Structure Consistent Medical Image Segmentation**|Fuhao Zhang et.al.|[2602.23103](http://arxiv.org/abs/2602.23103)|null|
 |**2026-02-25**|**Optimizing Neural Network Architecture for Medical Image Segmentation Using Monte Carlo Tree Search**|Liping Meng et.al.|[2602.22361](http://arxiv.org/abs/2602.22361)|null|
 |**2026-02-24**|**Mask-HybridGNet: Graph-based segmentation with emergent anatomical correspondence from pixel-level supervision**|Nicolás Gaggion et.al.|[2602.21179](http://arxiv.org/abs/2602.21179)|null|
