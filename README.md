@@ -37,6 +37,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**Skill-Evolving Grounded Reasoning for Free-Text Promptable 3D Medical Image Segmentation**|Tongrui Zhang et.al.|[2603.08215](http://arxiv.org/abs/2603.08215)|null|
+|**2026-03-09**|**Structure and Progress Aware Diffusion for Medical Image Segmentation**|Siyuan Song et.al.|[2603.07889](http://arxiv.org/abs/2603.07889)|null|
+|**2026-03-07**|**LightMedSeg: Lightweight 3D Medical Image Segmentation with Learned Spatial Anchors**|Kavyansh Tyagi et.al.|[2603.07228](http://arxiv.org/abs/2603.07228)|null|
 |**2026-03-06**|**Prompt Group-Aware Training for Robust Text-Guided Nuclei Segmentation**|Yonghuang Wu et.al.|[2603.06384](http://arxiv.org/abs/2603.06384)|null|
 |**2026-03-06**|**A Semi-Supervised Framework for Breast Ultrasound Segmentation with Training-Free Pseudo-Label Generation and Label Refinement**|Ruili Li et.al.|[2603.06167](http://arxiv.org/abs/2603.06167)|null|
 |**2026-03-06**|**CORE-Seg: Reasoning-Driven Segmentation for Complex Lesions via Reinforcement Learning**|Yuxin Xie et.al.|[2603.05911](http://arxiv.org/abs/2603.05911)|null|
