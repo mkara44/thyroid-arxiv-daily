@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Multi-Kernel Gated Decoder Adapters for Robust Multi-Task Thyroid Ultrasound under Cross-Center Shift**|Maziar Sabouri et.al.|[2603.08906](http://arxiv.org/abs/2603.08906)|null|
 |**2026-02-25**|**Adversarial Robustness of Deep Learning-Based Thyroid Nodule Segmentation in Ultrasound**|Nicholas Dietrich et.al.|[2602.21452](http://arxiv.org/abs/2602.21452)|null|
 |**2026-02-01**|**Effectiveness of Automatically Curated Dataset in Thyroid Nodules Classification Algorithms Using Deep Learning**|Jichen Yang et.al.|[2602.01020](http://arxiv.org/abs/2602.01020)|null|
 |**2026-02-01**|**Diagnostic Impact of Cine Clips for Thyroid Nodule Assessment on Ultrasound**|Jichen Yang et.al.|[2602.00990](http://arxiv.org/abs/2602.00990)|null|
@@ -31,6 +32,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**DCAU-Net: Differential Cross Attention and Channel-Spatial Feature Fusion for Medical Image Segmentation**|Yanxin Li et.al.|[2603.09530](http://arxiv.org/abs/2603.09530)|null|
+|**2026-03-10**|**CLoE: Expert Consistency Learning for Missing Modality Segmentation**|Xinyu Tong et.al.|[2603.09316](http://arxiv.org/abs/2603.09316)|null|
 |**2026-03-09**|**Skill-Evolving Grounded Reasoning for Free-Text Promptable 3D Medical Image Segmentation**|Tongrui Zhang et.al.|[2603.08215](http://arxiv.org/abs/2603.08215)|null|
 |**2026-03-09**|**Structure and Progress Aware Diffusion for Medical Image Segmentation**|Siyuan Song et.al.|[2603.07889](http://arxiv.org/abs/2603.07889)|null|
 |**2026-03-07**|**LightMedSeg: Lightweight 3D Medical Image Segmentation with Learned Spatial Anchors**|Kavyansh Tyagi et.al.|[2603.07228](http://arxiv.org/abs/2603.07228)|null|
