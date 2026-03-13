@@ -32,6 +32,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**FL-MedSegBench: A Comprehensive Benchmark for Federated Learning on Medical Image Segmentation**|Meilu Zhu et.al.|[2603.11659](http://arxiv.org/abs/2603.11659)|null|
+|**2026-03-12**|**PCA-Enhanced Probabilistic U-Net for Effective Ambiguous Medical Image Segmentation**|Xiangyu Li et.al.|[2603.11550](http://arxiv.org/abs/2603.11550)|null|
+|**2026-03-12**|**SPEGC: Continual Test-Time Adaptation via Semantic-Prompt-Enhanced Graph Clustering for Medical Image Segmentation**|Xiaogang Du et.al.|[2603.11492](http://arxiv.org/abs/2603.11492)|null|
 |**2026-03-11**|**Prompting with the human-touch: evaluating model-sensitivity of foundation models for musculoskeletal CT segmentation**|Caroline Magg et.al.|[2603.10541](http://arxiv.org/abs/2603.10541)|null|
 |**2026-03-10**|**DCAU-Net: Differential Cross Attention and Channel-Spatial Feature Fusion for Medical Image Segmentation**|Yanxin Li et.al.|[2603.09530](http://arxiv.org/abs/2603.09530)|null|
 |**2026-03-10**|**CLoE: Expert Consistency Learning for Missing Modality Segmentation**|Xinyu Tong et.al.|[2603.09316](http://arxiv.org/abs/2603.09316)|null|
