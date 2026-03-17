@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 #  Thyroid & Ultrasound AI ArXiv Daily
-### Automatically Updated on 2026.03.16
+### Automatically Updated on 2026.03.17
  
 
 ## Thyroid Analysis
@@ -32,6 +32,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Personalized Federated Learning with Residual Fisher Information for Medical Image Segmentation**|Meilu Zhu et.al.|[2603.14848](http://arxiv.org/abs/2603.14848)|null|
+|**2026-03-15**|**EviATTA: Evidential Active Test-Time Adaptation for Medical Segment Anything Models**|Jiayi Chen et.al.|[2603.14666](http://arxiv.org/abs/2603.14666)|null|
+|**2026-03-15**|**CATFA-Net: A Trans-Convolutional Approach for Accurate Medical Image Segmentation**|Siddhartha Mallick et.al.|[2603.14461](http://arxiv.org/abs/2603.14461)|null|
+|**2026-03-13**|**SAIF: A Stability-Aware Inference Framework for Medical Image Segmentation with Segment Anything Model**|Ke Wu et.al.|[2603.13533](http://arxiv.org/abs/2603.13533)|null|
 |**2026-03-13**|**Are General-Purpose Vision Models All We Need for 2D Medical Image Segmentation? A Cross-Dataset Empirical Study**|Vanessa Borst et.al.|[2603.13044](http://arxiv.org/abs/2603.13044)|null|
 |**2026-03-13**|**Decoding Matters: Efficient Mamba-Based Decoder with Distribution-Aware Deep Supervision for Medical Image Segmentation**|Fares Bougourzi et.al.|[2603.12547](http://arxiv.org/abs/2603.12547)|null|
 |**2026-03-13**|**PCA-Enhanced Probabilistic U-Net for Effective Ambiguous Medical Image Segmentation**|Xiangyu Li et.al.|[2603.11550](http://arxiv.org/abs/2603.11550)|null|
