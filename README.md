@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 #  Thyroid & Ultrasound AI ArXiv Daily
-### Automatically Updated on 2026.03.18
+### Automatically Updated on 2026.03.19
  
 
 <details>
@@ -32,12 +32,14 @@
 |**2025-10-30**|**Artificial Intelligence-Enabled Analysis of Radiology Reports: Epidemiology and Consequences of Incidental Thyroid Findings**|Felipe Larios et.al.|[2510.26032](http://arxiv.org/abs/2510.26032)|null|
 |**2025-10-27**|**ProfileXAI: User-Adaptive Explainable AI**|Gilber A. Corrales et.al.|[2510.22998](http://arxiv.org/abs/2510.22998)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 ## Medical Ultrasound AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Concept-to-Pixel: Prompt-Free Universal Medical Image Segmentation**|Haoyun Chen et.al.|[2603.17746](http://arxiv.org/abs/2603.17746)|null|
+|**2026-03-17**|**Pixel-level Counterfactual Contrastive Learning for Medical Image Segmentation**|Marceau Lafargue-Hauret et.al.|[2603.17110](http://arxiv.org/abs/2603.17110)|null|
 |**2026-03-16**|**Personalized Federated Learning with Residual Fisher Information for Medical Image Segmentation**|Meilu Zhu et.al.|[2603.14848](http://arxiv.org/abs/2603.14848)|null|
 |**2026-03-15**|**EviATTA: Evidential Active Test-Time Adaptation for Medical Segment Anything Models**|Jiayi Chen et.al.|[2603.14666](http://arxiv.org/abs/2603.14666)|null|
 |**2026-03-15**|**CATFA-Net: A Trans-Convolutional Approach for Accurate Medical Image Segmentation**|Siddhartha Mallick et.al.|[2603.14461](http://arxiv.org/abs/2603.14461)|null|
@@ -89,7 +91,7 @@
 |**2026-02-04**|**An Intuitionistic Fuzzy Logic Driven UNet architecture: Application to Brain Image segmentation**|Hanuman Verma et.al.|[2602.04227](http://arxiv.org/abs/2602.04227)|null|
 |**2026-02-03**|**MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning**|Shengyuan Liu et.al.|[2602.03320](http://arxiv.org/abs/2602.03320)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 Notes: 
 
