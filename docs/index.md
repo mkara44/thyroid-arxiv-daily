@@ -8,13 +8,14 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 #  Thyroid & Ultrasound AI ArXiv Daily
-### Automatically Updated on 2026.03.19
+### Automatically Updated on 2026.03.20
  
 
 ## Thyroid Analysis
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Multiscale Switch for Semi-Supervised and Contrastive Learning in Medical Ultrasound Image Segmentation**|Jingguo Qu et.al.|[2603.18655](http://arxiv.org/abs/2603.18655)|null|
 |**2026-03-09**|**Multi-Kernel Gated Decoder Adapters for Robust Multi-Task Thyroid Ultrasound under Cross-Center Shift**|Maziar Sabouri et.al.|[2603.08906](http://arxiv.org/abs/2603.08906)|null|
 |**2026-02-25**|**Adversarial Robustness of Deep Learning-Based Thyroid Nodule Segmentation in Ultrasound**|Nicholas Dietrich et.al.|[2602.21452](http://arxiv.org/abs/2602.21452)|null|
 |**2026-02-01**|**Effectiveness of Automatically Curated Dataset in Thyroid Nodules Classification Algorithms Using Deep Learning**|Jichen Yang et.al.|[2602.01020](http://arxiv.org/abs/2602.01020)|null|
@@ -32,6 +33,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Rethinking Uncertainty Quantification and Entanglement in Image Segmentation**|Jakob Lønborg Christensen et.al.|[2603.18792](http://arxiv.org/abs/2603.18792)|null|
+|**2026-03-19**|**Benchmarking CNN-based Models against Transformer-based Models for Abdominal Multi-Organ Segmentation on the RATIC Dataset**|Lukas Bayer et.al.|[2603.18616](http://arxiv.org/abs/2603.18616)|null|
 |**2026-03-18**|**Concept-to-Pixel: Prompt-Free Universal Medical Image Segmentation**|Haoyun Chen et.al.|[2603.17746](http://arxiv.org/abs/2603.17746)|null|
 |**2026-03-17**|**Pixel-level Counterfactual Contrastive Learning for Medical Image Segmentation**|Marceau Lafargue-Hauret et.al.|[2603.17110](http://arxiv.org/abs/2603.17110)|null|
 |**2026-03-16**|**Personalized Federated Learning with Residual Fisher Information for Medical Image Segmentation**|Meilu Zhu et.al.|[2603.14848](http://arxiv.org/abs/2603.14848)|null|
