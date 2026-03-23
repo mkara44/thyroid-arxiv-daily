@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 #  Thyroid & Ultrasound AI ArXiv Daily
-### Automatically Updated on 2026.03.22
+### Automatically Updated on 2026.03.23
  
 
 ## Thyroid Analysis
@@ -33,6 +33,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Deterministic Mode Proposals: An Efficient Alternative to Generative Sampling for Ambiguous Segmentation**|Sebastian Gerard et.al.|[2603.20191](http://arxiv.org/abs/2603.20191)|null|
+|**2026-03-20**|**Hyper-Connections for Adaptive Multi-Modal MRI Brain Tumor Segmentation**|Lokendra Kumar et.al.|[2603.19844](http://arxiv.org/abs/2603.19844)|null|
 |**2026-03-19**|**Rethinking Uncertainty Quantification and Entanglement in Image Segmentation**|Jakob Lønborg Christensen et.al.|[2603.18792](http://arxiv.org/abs/2603.18792)|null|
 |**2026-03-19**|**Benchmarking CNN-based Models against Transformer-based Models for Abdominal Multi-Organ Segmentation on the RATIC Dataset**|Lukas Bayer et.al.|[2603.18616](http://arxiv.org/abs/2603.18616)|null|
 |**2026-03-18**|**Concept-to-Pixel: Prompt-Free Universal Medical Image Segmentation**|Haoyun Chen et.al.|[2603.17746](http://arxiv.org/abs/2603.17746)|null|
