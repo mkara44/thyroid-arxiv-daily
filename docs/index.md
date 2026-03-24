@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-22**|**Representation-Level Adversarial Regularization for Clinically Aligned Multitask Thyroid Ultrasound Assessment**|Dina Salama et.al.|[2603.21095](http://arxiv.org/abs/2603.21095)|null|
 |**2026-03-19**|**Multiscale Switch for Semi-Supervised and Contrastive Learning in Medical Ultrasound Image Segmentation**|Jingguo Qu et.al.|[2603.18655](http://arxiv.org/abs/2603.18655)|null|
 |**2026-03-09**|**Multi-Kernel Gated Decoder Adapters for Robust Multi-Task Thyroid Ultrasound under Cross-Center Shift**|Maziar Sabouri et.al.|[2603.08906](http://arxiv.org/abs/2603.08906)|null|
 |**2026-02-25**|**Adversarial Robustness of Deep Learning-Based Thyroid Nodule Segmentation in Ultrasound**|Nicholas Dietrich et.al.|[2602.21452](http://arxiv.org/abs/2602.21452)|null|
@@ -33,6 +34,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**SegMaFormer: A Hybrid State-Space and Transformer Model for Efficient Segmentation**|Duy D. Nguyen et.al.|[2603.22002](http://arxiv.org/abs/2603.22002)|null|
+|**2026-03-23**|**SHAPE: Structure-aware Hierarchical Unsupervised Domain Adaptation with Plausibility Evaluation for Medical Image Segmentation**|Linkuan Zhou et.al.|[2603.21904](http://arxiv.org/abs/2603.21904)|null|
+|**2026-03-22**|**Focus on Background: Exploring SAM's Potential in Few-shot Medical Image Segmentation with Background-centric Prompting**|Yuntian Bo et.al.|[2603.21287](http://arxiv.org/abs/2603.21287)|null|
 |**2026-03-20**|**Deterministic Mode Proposals: An Efficient Alternative to Generative Sampling for Ambiguous Segmentation**|Sebastian Gerard et.al.|[2603.20191](http://arxiv.org/abs/2603.20191)|null|
 |**2026-03-20**|**Hyper-Connections for Adaptive Multi-Modal MRI Brain Tumor Segmentation**|Lokendra Kumar et.al.|[2603.19844](http://arxiv.org/abs/2603.19844)|null|
 |**2026-03-19**|**Rethinking Uncertainty Quantification and Entanglement in Image Segmentation**|Jakob Lønborg Christensen et.al.|[2603.18792](http://arxiv.org/abs/2603.18792)|null|
