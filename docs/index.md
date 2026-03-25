@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**A Clinically Anchored Radiomics Dictionary for Explainable TI-RADS-Based Thyroid Nodule Classification in Ultrasound; Dictionary Version TU1.0**|Mohammad Salmanpour et.al.|[2603.22692](http://arxiv.org/abs/2603.22692)|null|
 |**2026-03-22**|**Representation-Level Adversarial Regularization for Clinically Aligned Multitask Thyroid Ultrasound Assessment**|Dina Salama et.al.|[2603.21095](http://arxiv.org/abs/2603.21095)|null|
 |**2026-03-19**|**Multiscale Switch for Semi-Supervised and Contrastive Learning in Medical Ultrasound Image Segmentation**|Jingguo Qu et.al.|[2603.18655](http://arxiv.org/abs/2603.18655)|null|
 |**2026-03-09**|**Multi-Kernel Gated Decoder Adapters for Robust Multi-Task Thyroid Ultrasound under Cross-Center Shift**|Maziar Sabouri et.al.|[2603.08906](http://arxiv.org/abs/2603.08906)|null|
@@ -34,6 +35,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Harnessing Lightweight Transformer with Contextual Synergic Enhancement for Efficient 3D Medical Image Segmentation**|Xinyu Liu et.al.|[2603.23390](http://arxiv.org/abs/2603.23390)|null|
+|**2026-03-24**|**FDIF: Formula-Driven supervised Learning with Implicit Functions for 3D Medical Image Segmentation**|Yukinori Yamamoto et.al.|[2603.23199](http://arxiv.org/abs/2603.23199)|null|
+|**2026-03-24**|**Automatic Segmentation of 3D CT scans with SAM2 using a zero-shot approach**|Miquel Lopez Escoriza et.al.|[2603.23116](http://arxiv.org/abs/2603.23116)|null|
 |**2026-03-23**|**SegMaFormer: A Hybrid State-Space and Transformer Model for Efficient Segmentation**|Duy D. Nguyen et.al.|[2603.22002](http://arxiv.org/abs/2603.22002)|null|
 |**2026-03-23**|**SHAPE: Structure-aware Hierarchical Unsupervised Domain Adaptation with Plausibility Evaluation for Medical Image Segmentation**|Linkuan Zhou et.al.|[2603.21904](http://arxiv.org/abs/2603.21904)|null|
 |**2026-03-22**|**Focus on Background: Exploring SAM's Potential in Few-shot Medical Image Segmentation with Background-centric Prompting**|Yuntian Bo et.al.|[2603.21287](http://arxiv.org/abs/2603.21287)|null|
