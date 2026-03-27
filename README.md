@@ -41,6 +41,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**Hyper-Connections for Adaptive Multi-Modal MRI Brain Tumor Segmentation**|Lokendra Kumar et.al.|[2603.19844](http://arxiv.org/abs/2603.19844)|null|
+|**2026-03-25**|**BCMDA: Bidirectional Correlation Maps Domain Adaptation for Mixed Domain Semi-Supervised Medical Image Segmentation**|Bentao Song et.al.|[2603.24691](http://arxiv.org/abs/2603.24691)|null|
 |**2026-03-24**|**Harnessing Lightweight Transformer with Contextual Synergic Enhancement for Efficient 3D Medical Image Segmentation**|Xinyu Liu et.al.|[2603.23390](http://arxiv.org/abs/2603.23390)|null|
 |**2026-03-24**|**FDIF: Formula-Driven supervised Learning with Implicit Functions for 3D Medical Image Segmentation**|Yukinori Yamamoto et.al.|[2603.23199](http://arxiv.org/abs/2603.23199)|null|
 |**2026-03-24**|**Automatic Segmentation of 3D CT scans with SAM2 using a zero-shot approach**|Miquel Lopez Escoriza et.al.|[2603.23116](http://arxiv.org/abs/2603.23116)|null|
@@ -48,7 +50,6 @@
 |**2026-03-23**|**SHAPE: Structure-aware Hierarchical Unsupervised Domain Adaptation with Plausibility Evaluation for Medical Image Segmentation**|Linkuan Zhou et.al.|[2603.21904](http://arxiv.org/abs/2603.21904)|null|
 |**2026-03-22**|**Focus on Background: Exploring SAM's Potential in Few-shot Medical Image Segmentation with Background-centric Prompting**|Yuntian Bo et.al.|[2603.21287](http://arxiv.org/abs/2603.21287)|null|
 |**2026-03-20**|**Deterministic Mode Proposals: An Efficient Alternative to Generative Sampling for Ambiguous Segmentation**|Sebastian Gerard et.al.|[2603.20191](http://arxiv.org/abs/2603.20191)|null|
-|**2026-03-20**|**Hyper-Connections for Adaptive Multi-Modal MRI Brain Tumor Segmentation**|Lokendra Kumar et.al.|[2603.19844](http://arxiv.org/abs/2603.19844)|null|
 |**2026-03-19**|**Rethinking Uncertainty Quantification and Entanglement in Image Segmentation**|Jakob Lønborg Christensen et.al.|[2603.18792](http://arxiv.org/abs/2603.18792)|null|
 |**2026-03-19**|**Benchmarking CNN-based Models against Transformer-based Models for Abdominal Multi-Organ Segmentation on the RATIC Dataset**|Lukas Bayer et.al.|[2603.18616](http://arxiv.org/abs/2603.18616)|null|
 |**2026-03-18**|**Concept-to-Pixel: Prompt-Free Universal Medical Image Segmentation**|Haoyun Chen et.al.|[2603.17746](http://arxiv.org/abs/2603.17746)|null|
