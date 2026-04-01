@@ -36,6 +36,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Rich-U-Net: A medical image segmentation model for fusing spatial depth features and capturing minute structural details**|Zhuoyi Fang et.al.|[2603.29404](http://arxiv.org/abs/2603.29404)|null|
+|**2026-03-31**|**FOSCU: Feasibility of Synthetic MRI Generation via Duo-Diffusion Models for Enhancement of 3D U-Nets in Hepatic Segmentation**|Youngung Han et.al.|[2603.29343](http://arxiv.org/abs/2603.29343)|null|
+|**2026-03-31**|**Segmentation of Gray Matters and White Matters from Brain MRI data**|Chang Sun et.al.|[2603.29171](http://arxiv.org/abs/2603.29171)|null|
 |**2026-03-30**|**LDDMM stochastic interpolants: an application to domain uncertainty quantification in hemodynamics**|Sarah Katz et.al.|[2603.28324](http://arxiv.org/abs/2603.28324)|null|
 |**2026-03-29**|**RAP: Retrieve, Adapt, and Prompt-Fit for Training-Free Few-Shot Medical Image Segmentation**|Zhihao Mao et.al.|[2603.27705](http://arxiv.org/abs/2603.27705)|null|
 |**2026-03-29**|**BCMDA: Bidirectional Correlation Maps Domain Adaptation for Mixed Domain Semi-Supervised Medical Image Segmentation**|Bentao Song et.al.|[2603.24691](http://arxiv.org/abs/2603.24691)|null|
