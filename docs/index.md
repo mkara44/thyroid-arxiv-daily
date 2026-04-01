@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 #  Thyroid & Ultrasound AI ArXiv Daily
-### Automatically Updated on 2026.03.31
+### Automatically Updated on 2026.04.01
  
 
 ## Thyroid Analysis
@@ -36,9 +36,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**LDDMM stochastic interpolants: an application to domain uncertainty quantification in hemodynamics**|Sarah Katz et.al.|[2603.28324](http://arxiv.org/abs/2603.28324)|null|
+|**2026-03-29**|**RAP: Retrieve, Adapt, and Prompt-Fit for Training-Free Few-Shot Medical Image Segmentation**|Zhihao Mao et.al.|[2603.27705](http://arxiv.org/abs/2603.27705)|null|
+|**2026-03-29**|**BCMDA: Bidirectional Correlation Maps Domain Adaptation for Mixed Domain Semi-Supervised Medical Image Segmentation**|Bentao Song et.al.|[2603.24691](http://arxiv.org/abs/2603.24691)|null|
 |**2026-03-26**|**Adapting Segment Anything Model 3 for Concept-Driven Lesion Segmentation in Medical Images: An Experimental Study**|Guoping Xu et.al.|[2603.25945](http://arxiv.org/abs/2603.25945)|null|
 |**2026-03-26**|**Hyper-Connections for Adaptive Multi-Modal MRI Brain Tumor Segmentation**|Lokendra Kumar et.al.|[2603.19844](http://arxiv.org/abs/2603.19844)|null|
-|**2026-03-25**|**BCMDA: Bidirectional Correlation Maps Domain Adaptation for Mixed Domain Semi-Supervised Medical Image Segmentation**|Bentao Song et.al.|[2603.24691](http://arxiv.org/abs/2603.24691)|null|
 |**2026-03-24**|**Harnessing Lightweight Transformer with Contextual Synergic Enhancement for Efficient 3D Medical Image Segmentation**|Xinyu Liu et.al.|[2603.23390](http://arxiv.org/abs/2603.23390)|null|
 |**2026-03-24**|**FDIF: Formula-Driven supervised Learning with Implicit Functions for 3D Medical Image Segmentation**|Yukinori Yamamoto et.al.|[2603.23199](http://arxiv.org/abs/2603.23199)|null|
 |**2026-03-24**|**Automatic Segmentation of 3D CT scans with SAM2 using a zero-shot approach**|Miquel Lopez Escoriza et.al.|[2603.23116](http://arxiv.org/abs/2603.23116)|null|
