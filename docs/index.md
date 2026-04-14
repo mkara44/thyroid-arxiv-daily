@@ -36,6 +36,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Efficient KernelSHAP Explanations for Patch-based 3D Medical Image Segmentation**|Ricardo Coimbra Brioso et.al.|[2604.11775](http://arxiv.org/abs/2604.11775)|null|
+|**2026-04-13**|**RADA: Region-Aware Dual-encoder Auxiliary learning for Barely-supervised Medical Image Segmentation**|Shuang Zeng et.al.|[2604.11164](http://arxiv.org/abs/2604.11164)|null|
+|**2026-04-13**|**Delving Aleatoric Uncertainty in Medical Image Segmentation via Vision Foundation Models**|Ruiyang Li et.al.|[2604.10963](http://arxiv.org/abs/2604.10963)|null|
+|**2026-04-13**|**TAMISeg: Text-Aligned Multi-scale Medical Image Segmentation with Semantic Encoder Distillation**|Qiang Gao et.al.|[2604.10912](http://arxiv.org/abs/2604.10912)|null|
+|**2026-04-12**|**Human Gaze-based Dual Teacher Guidance Learning for Semi-Supervised Medical Image Segmentation**|Rongjun Ge et.al.|[2604.10754](http://arxiv.org/abs/2604.10754)|null|
+|**2026-04-12**|**Camyla: Scaling Autonomous Research in Medical Image Segmentation**|Yifan Gao et.al.|[2604.10696](http://arxiv.org/abs/2604.10696)|null|
+|**2026-04-12**|**FGML-DG: Feynman-Inspired Cognitive Science Paradigm for Cross-Domain Medical Image Segmentation**|Yucheng Song et.al.|[2604.10524](http://arxiv.org/abs/2604.10524)|null|
+|**2026-04-11**|**MedVeriSeg: Teaching MLLM-Based Medical Segmentation Models to Verify Query Validity Without Extra Training**|Ziqian Lu et.al.|[2604.10242](http://arxiv.org/abs/2604.10242)|null|
+|**2026-04-11**|**SwinTextUNet: Integrating CLIP-Based Text Guidance into Swin Transformer U-Nets for Medical Image Segmentation**|Ashfak Yeafi et.al.|[2604.10000](http://arxiv.org/abs/2604.10000)|null|
+|**2026-04-10**|**RobustMedSAM: Degradation-Resilient Medical Image Segmentation via Robust Foundation Model Adaptation**|Jieru Li et.al.|[2604.09814](http://arxiv.org/abs/2604.09814)|null|
 |**2026-04-09**|**Weakly-Supervised Lung Nodule Segmentation via Training-Free Guidance of 3D Rectified Flow**|Richard Petersen et.al.|[2604.08313](http://arxiv.org/abs/2604.08313)|null|
 |**2026-04-09**|**T-Gated Adapter: A Lightweight Temporal Adapter for Vision-Language Medical Segmentation**|Pranjal Khadka et.al.|[2604.08167](http://arxiv.org/abs/2604.08167)|null|
 |**2026-04-09**|**Adapting Foundation Models for Annotation-Efficient Adnexal Mass Segmentation in Cine Images**|Francesca Fati et.al.|[2604.08045](http://arxiv.org/abs/2604.08045)|null|
