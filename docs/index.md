@@ -36,6 +36,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Detecting and refurbishing ground truth errors during training of deep learning-based echocardiography segmentation models**|Iman Islam et.al.|[2604.12832](http://arxiv.org/abs/2604.12832)|null|
+|**2026-04-14**|**Scaling In-Context Segmentation with Hierarchical Supervision**|T. Camaret Ndir et.al.|[2604.12752](http://arxiv.org/abs/2604.12752)|null|
+|**2026-04-14**|**DeferredSeg: A Multi-Expert Deferral Framework for Trustworthy Medical Image Segmentation**|Qiuyu Tian et.al.|[2604.12411](http://arxiv.org/abs/2604.12411)|null|
 |**2026-04-13**|**Efficient KernelSHAP Explanations for Patch-based 3D Medical Image Segmentation**|Ricardo Coimbra Brioso et.al.|[2604.11775](http://arxiv.org/abs/2604.11775)|null|
 |**2026-04-13**|**RADA: Region-Aware Dual-encoder Auxiliary learning for Barely-supervised Medical Image Segmentation**|Shuang Zeng et.al.|[2604.11164](http://arxiv.org/abs/2604.11164)|null|
 |**2026-04-13**|**Delving Aleatoric Uncertainty in Medical Image Segmentation via Vision Foundation Models**|Ruiyang Li et.al.|[2604.10963](http://arxiv.org/abs/2604.10963)|null|
