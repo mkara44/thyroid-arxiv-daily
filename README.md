@@ -42,8 +42,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-19**|**From Adaptation to Generalization: Adaptive Visual Prompting for Medical Image Segmentation**|Evren Çetinkaya et.al.|[2604.17455](http://arxiv.org/abs/2604.17455)|null|
+|**2026-04-19**|**SegTTA: Training-Free Test-Time Augmentation for Zero-Shot Medical Imaging Segmentation**|Yihong Yao et.al.|[2604.17451](http://arxiv.org/abs/2604.17451)|null|
 |**2026-04-17**|**TwinTrack: Post-hoc Multi-Rater Calibration for Medical Image Segmentation**|Tristan Kirscher et.al.|[2604.15950](http://arxiv.org/abs/2604.15950)|null|
-|**2026-04-16**|**SegWithU: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation**|Tianhao Fu et.al.|[2604.15271](http://arxiv.org/abs/2604.15271)|null|
+|**2026-04-17**|**SegWithU: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation**|Tianhao Fu et.al.|[2604.15271](http://arxiv.org/abs/2604.15271)|null|
 |**2026-04-16**|**Efficient Search of Implantable Adaptive Cells for Medical Image Segmentation**|Emil Benedykciuk et.al.|[2604.14849](http://arxiv.org/abs/2604.14849)|null|
 |**2026-04-15**|**Making AI Compliance Evidence Machine-Readable**|Rodrigo Cilla Ugarte et.al.|[2604.13767](http://arxiv.org/abs/2604.13767)|null|
 |**2026-04-14**|**Rethinking Uncertainty in Segmentation: From Estimation to Decision**|Saket Maganti et.al.|[2604.13262](http://arxiv.org/abs/2604.13262)|null|
