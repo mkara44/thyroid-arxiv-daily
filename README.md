@@ -42,6 +42,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-27**|**DiffuSAM: Diffusion-Based Prompt-Free SAM2 for Few-Shot and Source-Free Medical Image Segmentation**|Tal Grossman et.al.|[2604.24719](http://arxiv.org/abs/2604.24719)|null|
+|**2026-04-27**|**SemiSAM-O1: How far can we push the boundary of annotation-efficient medical image segmentation?**|Yichi Zhang et.al.|[2604.24109](http://arxiv.org/abs/2604.24109)|null|
+|**2026-04-25**|**SemiGDA: Generative Dual-distribution Alignment for Semi-Supervised Medical Image Segmentation**|Kaiwen Huang et.al.|[2604.23274](http://arxiv.org/abs/2604.23274)|null|
+|**2026-04-25**|**DyABD: The Abdominal Muscle Segmentation in Dynamic MRI Benchmark**|Niamh Belton et.al.|[2604.23187](http://arxiv.org/abs/2604.23187)|null|
+|**2026-04-22**|**MAE-Based Self-Supervised Pretraining for Data-Efficient Medical Image Segmentation Using nnFormer**|R. M. Krishna Sureddi et.al.|[2604.22854](http://arxiv.org/abs/2604.22854)|null|
 |**2026-04-21**|**MedFlowSeg: Flow Matching for Medical Image Segmentation with Frequency-Aware Attention**|Zhi Chen et.al.|[2604.19675](http://arxiv.org/abs/2604.19675)|null|
 |**2026-04-21**|**RF-HiT: Rectified Flow Hierarchical Transformer for General Medical Image Segmentation**|Ahmed Marouane Djouama et.al.|[2604.19570](http://arxiv.org/abs/2604.19570)|null|
 |**2026-04-19**|**From Adaptation to Generalization: Adaptive Visual Prompting for Medical Image Segmentation**|Evren Çetinkaya et.al.|[2604.17455](http://arxiv.org/abs/2604.17455)|null|
