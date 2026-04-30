@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 #  Thyroid & Ultrasound AI ArXiv Daily
-### Automatically Updated on 2026.04.29
+### Automatically Updated on 2026.04.30
  
 
 <details>
@@ -36,12 +36,15 @@
 |**2025-10-30**|**Artificial Intelligence-Enabled Analysis of Radiology Reports: Epidemiology and Consequences of Incidental Thyroid Findings**|Felipe Larios et.al.|[2510.26032](http://arxiv.org/abs/2510.26032)|null|
 |**2025-10-27**|**ProfileXAI: User-Adaptive Explainable AI**|Gilber A. Corrales et.al.|[2510.22998](http://arxiv.org/abs/2510.22998)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 ## Medical Ultrasound AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-28**|**Robustness Evaluation of a Foundation Segmentation Model Under Simulated Domain Shifts in Abdominal CT: Implications for Health Digital Twin Deployment**|Sanghati Basu et.al.|[2604.25685](http://arxiv.org/abs/2604.25685)|null|
+|**2026-04-28**|**TopoMamba: Topology-Aware Scanning and Fusion for Segmenting Heterogeneous Medical Visual Media**|Fuchen Zheng et.al.|[2604.25545](http://arxiv.org/abs/2604.25545)|null|
+|**2026-04-27**|**ESICA: A Scalable Framework for Text-Guided 3D Medical Image Segmentation**|Yu Xin et.al.|[2604.24876](http://arxiv.org/abs/2604.24876)|null|
 |**2026-04-27**|**DiffuSAM: Diffusion-Based Prompt-Free SAM2 for Few-Shot and Source-Free Medical Image Segmentation**|Tal Grossman et.al.|[2604.24719](http://arxiv.org/abs/2604.24719)|null|
 |**2026-04-27**|**SemiSAM-O1: How far can we push the boundary of annotation-efficient medical image segmentation?**|Yichi Zhang et.al.|[2604.24109](http://arxiv.org/abs/2604.24109)|null|
 |**2026-04-25**|**SemiGDA: Generative Dual-distribution Alignment for Semi-Supervised Medical Image Segmentation**|Kaiwen Huang et.al.|[2604.23274](http://arxiv.org/abs/2604.23274)|null|
@@ -152,7 +155,7 @@
 |**2026-02-04**|**An Intuitionistic Fuzzy Logic Driven UNet architecture: Application to Brain Image segmentation**|Hanuman Verma et.al.|[2602.04227](http://arxiv.org/abs/2602.04227)|null|
 |**2026-02-03**|**MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning**|Shengyuan Liu et.al.|[2602.03320](http://arxiv.org/abs/2602.03320)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 Notes: 
 
