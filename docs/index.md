@@ -36,6 +36,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**UHR-Net: An Uncertainty-Aware Hypergraph Refinement Network for Medical Image Segmentation**|Shuokun Cheng et.al.|[2604.28095](http://arxiv.org/abs/2604.28095)|null|
+|**2026-04-30**|**Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation**|Jing Zhang et.al.|[2604.28011](http://arxiv.org/abs/2604.28011)|null|
 |**2026-04-29**|**TopoMamba: Topology-Aware Scanning and Fusion for Segmenting Heterogeneous Medical Visual Media**|Fuchen Zheng et.al.|[2604.25545](http://arxiv.org/abs/2604.25545)|null|
 |**2026-04-28**|**Robustness Evaluation of a Foundation Segmentation Model Under Simulated Domain Shifts in Abdominal CT: Implications for Health Digital Twin Deployment**|Sanghati Basu et.al.|[2604.25685](http://arxiv.org/abs/2604.25685)|null|
 |**2026-04-27**|**ESICA: A Scalable Framework for Text-Guided 3D Medical Image Segmentation**|Yu Xin et.al.|[2604.24876](http://arxiv.org/abs/2604.24876)|null|
