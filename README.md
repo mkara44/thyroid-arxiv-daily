@@ -42,6 +42,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-04**|**Multi-Rater Calibrated Segmentation Models**|Meritxell Riera-Marín et.al.|[2605.02437](http://arxiv.org/abs/2605.02437)|null|
+|**2026-05-03**|**Exploring Entropy-based Active Learning for Fair Brain Segmentation**|Ghazal Danaee et.al.|[2605.01706](http://arxiv.org/abs/2605.01706)|null|
+|**2026-05-02**|**Multi-Dataset Cross-Domain Knowledge Distillation for Unified Medical Image Segmentation, Classification, and Detection**|Ceausescu Ciprian-Mihai et.al.|[2605.01563](http://arxiv.org/abs/2605.01563)|null|
 |**2026-04-30**|**UHR-Net: An Uncertainty-Aware Hypergraph Refinement Network for Medical Image Segmentation**|Shuokun Cheng et.al.|[2604.28095](http://arxiv.org/abs/2604.28095)|null|
 |**2026-04-30**|**Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation**|Jing Zhang et.al.|[2604.28011](http://arxiv.org/abs/2604.28011)|null|
 |**2026-04-29**|**TopoMamba: Topology-Aware Scanning and Fusion for Segmenting Heterogeneous Medical Visual Media**|Fuchen Zheng et.al.|[2604.25545](http://arxiv.org/abs/2604.25545)|null|
