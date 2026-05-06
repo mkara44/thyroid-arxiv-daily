@@ -36,6 +36,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Dante: An Open Source Model Pre-Training and Fine-Tuning Tool for the Dafne Federated Framework for Medical Image Segmentation**|Giuseppe Timpano et.al.|[2605.03602](http://arxiv.org/abs/2605.03602)|null|
+|**2026-05-04**|**One Sequence to Segment Them All: Efficient Data Augmentation for CT and MRI Cross-Domain 3D Spine Segmentation**|Nathan Molinier et.al.|[2605.03098](http://arxiv.org/abs/2605.03098)|null|
 |**2026-05-04**|**Multi-Rater Calibrated Segmentation Models**|Meritxell Riera-Marín et.al.|[2605.02437](http://arxiv.org/abs/2605.02437)|null|
 |**2026-05-03**|**Exploring Entropy-based Active Learning for Fair Brain Segmentation**|Ghazal Danaee et.al.|[2605.01706](http://arxiv.org/abs/2605.01706)|null|
 |**2026-05-02**|**Multi-Dataset Cross-Domain Knowledge Distillation for Unified Medical Image Segmentation, Classification, and Detection**|Ceausescu Ciprian-Mihai et.al.|[2605.01563](http://arxiv.org/abs/2605.01563)|null|
