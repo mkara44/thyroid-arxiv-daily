@@ -42,6 +42,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**ZScribbleSeg: A comprehensive segmentation framework with modeling of efficient annotation and maximization of scribble supervision**|Ke Zhang et.al.|[2605.06266](http://arxiv.org/abs/2605.06266)|null|
+|**2026-05-07**|**Beyond Forgetting in Continual Medical Image Segmentation: A Comprehensive Benchmark Study**|Bomin Wang et.al.|[2605.06160](http://arxiv.org/abs/2605.06160)|null|
 |**2026-05-05**|**Topology-Constrained Quantized nnUNet for Efficient and Anatomically Accurate 3D Tooth Segmentation**|Paarth Prasad et.al.|[2605.04201](http://arxiv.org/abs/2605.04201)|null|
 |**2026-05-05**|**Dante: An Open Source Model Pre-Training and Fine-Tuning Tool for the Dafne Federated Framework for Medical Image Segmentation**|Giuseppe Timpano et.al.|[2605.03602](http://arxiv.org/abs/2605.03602)|null|
 |**2026-05-04**|**MuCALD-SplitFed: Causal-Latent Diffusion for Privacy-Preserving Multi-Task Split-Federated Medical Image Segmentation**|Chamani Shiranthika et.al.|[2605.04108](http://arxiv.org/abs/2605.04108)|null|
