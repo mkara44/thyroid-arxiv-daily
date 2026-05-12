@@ -36,8 +36,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Geometry-aware Prototype Learning for Cross-domain Few-shot Medical Image Segmentation**|Feifan Song et.al.|[2605.10885](http://arxiv.org/abs/2605.10885)|null|
+|**2026-05-11**|**GenMed: A Pairwise Generative Reformulation of Medical Diagnostic Tasks**|Hantao Zhang et.al.|[2605.10645](http://arxiv.org/abs/2605.10645)|null|
+|**2026-05-11**|**DuetFair: Coupling Inter- and Intra-Subgroup Robustness for Fair Medical Image Segmentation**|Yiqi Tian et.al.|[2605.10521](http://arxiv.org/abs/2605.10521)|null|
+|**2026-05-11**|**Frequency Adapter with SAM for Generalized Medical Image Segmentation**|Phuoc-Nguyen Bui et.al.|[2605.09925](http://arxiv.org/abs/2605.09925)|null|
+|**2026-05-10**|**XTinyU-Net: Training-Free U-Net Scaling via Initialization-Time Sensitivity**|Alvin Kimbowa et.al.|[2605.09639](http://arxiv.org/abs/2605.09639)|null|
 |**2026-05-07**|**ZScribbleSeg: A comprehensive segmentation framework with modeling of efficient annotation and maximization of scribble supervision**|Ke Zhang et.al.|[2605.06266](http://arxiv.org/abs/2605.06266)|null|
 |**2026-05-07**|**Beyond Forgetting in Continual Medical Image Segmentation: A Comprehensive Benchmark Study**|Bomin Wang et.al.|[2605.06160](http://arxiv.org/abs/2605.06160)|null|
+|**2026-05-06**|**Harmonized Feature Conditioning and Frequency-Prompt Personalization for Multi-Rater Medical Segmentation**|Sanaz Karimijafarbigloo et.al.|[2605.08210](http://arxiv.org/abs/2605.08210)|null|
 |**2026-05-05**|**Topology-Constrained Quantized nnUNet for Efficient and Anatomically Accurate 3D Tooth Segmentation**|Paarth Prasad et.al.|[2605.04201](http://arxiv.org/abs/2605.04201)|null|
 |**2026-05-05**|**Dante: An Open Source Model Pre-Training and Fine-Tuning Tool for the Dafne Federated Framework for Medical Image Segmentation**|Giuseppe Timpano et.al.|[2605.03602](http://arxiv.org/abs/2605.03602)|null|
 |**2026-05-04**|**MuCALD-SplitFed: Causal-Latent Diffusion for Privacy-Preserving Multi-Task Split-Federated Medical Image Segmentation**|Chamani Shiranthika et.al.|[2605.04108](http://arxiv.org/abs/2605.04108)|null|
