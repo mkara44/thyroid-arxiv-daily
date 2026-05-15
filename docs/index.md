@@ -36,6 +36,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Med-DisSeg: Dispersion-Driven Representation Learning for Fine-Grained Medical Image Segmentation**|Zhiquan Chen et.al.|[2605.14579](http://arxiv.org/abs/2605.14579)|null|
+|**2026-05-14**|**SpectraFlow: Unifying Structural Pretraining and Frequency Adaptation for Medical Image Segmentation**|Zhiquan Chen et.al.|[2605.14566](http://arxiv.org/abs/2605.14566)|null|
+|**2026-05-13**|**XTinyU-Net: Training-Free U-Net Scaling via Initialization-Time Sensitivity**|Alvin Kimbowa et.al.|[2605.09639](http://arxiv.org/abs/2605.09639)|null|
 |**2026-05-12**|**FEFormer: Frequency-enhanced Vision Transformer for Generic Knowledge Extraction and Adaptive Feature Fusion in Volumetric Medical Image Segmentation**|Jin Yang et.al.|[2605.11434](http://arxiv.org/abs/2605.11434)|null|
 |**2026-05-11**|**USEMA: a Scalable Efficient Mamba Like Attention for Medical Image Segmentation**|Elisha Dayag et.al.|[2605.11131](http://arxiv.org/abs/2605.11131)|null|
 |**2026-05-11**|**SplitFed-CL: A Split Federated Co-Learning Framework for Medical Image Segmentation with Inaccurate Labels**|Zahra Hafezi Kafshgari et.al.|[2605.11060](http://arxiv.org/abs/2605.11060)|null|
@@ -43,7 +46,6 @@ layout: default
 |**2026-05-11**|**GenMed: A Pairwise Generative Reformulation of Medical Diagnostic Tasks**|Hantao Zhang et.al.|[2605.10645](http://arxiv.org/abs/2605.10645)|null|
 |**2026-05-11**|**DuetFair: Coupling Inter- and Intra-Subgroup Robustness for Fair Medical Image Segmentation**|Yiqi Tian et.al.|[2605.10521](http://arxiv.org/abs/2605.10521)|null|
 |**2026-05-11**|**Frequency Adapter with SAM for Generalized Medical Image Segmentation**|Phuoc-Nguyen Bui et.al.|[2605.09925](http://arxiv.org/abs/2605.09925)|null|
-|**2026-05-10**|**XTinyU-Net: Training-Free U-Net Scaling via Initialization-Time Sensitivity**|Alvin Kimbowa et.al.|[2605.09639](http://arxiv.org/abs/2605.09639)|null|
 |**2026-05-09**|**Principle-Guided Supervision for Interpretable Uncertainty in Medical Image Segmentation**|An Sui et.al.|[2605.10984](http://arxiv.org/abs/2605.10984)|null|
 |**2026-05-07**|**ZScribbleSeg: A comprehensive segmentation framework with modeling of efficient annotation and maximization of scribble supervision**|Ke Zhang et.al.|[2605.06266](http://arxiv.org/abs/2605.06266)|null|
 |**2026-05-07**|**Beyond Forgetting in Continual Medical Image Segmentation: A Comprehensive Benchmark Study**|Bomin Wang et.al.|[2605.06160](http://arxiv.org/abs/2605.06160)|null|
