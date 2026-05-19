@@ -36,6 +36,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-18**|**Lost in the Folds: When Cross-Validation Is Not a Deep Ensemble for Uncertainty Estimation**|Kirscher Tristan et.al.|[2605.18329](http://arxiv.org/abs/2605.18329)|null|
+|**2026-05-18**|**Rad-VLSM: A Cross-Modal Framework with Semantics-Assisted Prompting for Medical Segmentation and Diagnosis**|Fengyi Zhang et.al.|[2605.18130](http://arxiv.org/abs/2605.18130)|null|
+|**2026-05-18**|**Beyond Euclidean Prototypes: Spectral Disentanglement and Geodesic Matching for Few-Shot Medical Image Segmentation**|Penghao Jia et.al.|[2605.17904](http://arxiv.org/abs/2605.17904)|null|
+|**2026-05-18**|**Patch-MoE Mamba: A Patch-Ordered Mixture-of-Experts State Space Architecture for Medical Image Segmentation**|Diego Adame et.al.|[2605.17719](http://arxiv.org/abs/2605.17719)|null|
+|**2026-05-17**|**RadGenome-Anatomy: A Large-Scale Anatomy-Labeled Chest Radiograph Dataset via Physically Grounded Volumetric Projection**|Shuchang Ye et.al.|[2605.17368](http://arxiv.org/abs/2605.17368)|null|
+|**2026-05-17**|**VoxShield: Protecting 3D Medical Datasets from Unauthorized Training via Frequency-Aware Inter-Slice Disruption**|Xinyao Liu et.al.|[2605.17345](http://arxiv.org/abs/2605.17345)|null|
 |**2026-05-14**|**Med-DisSeg: Dispersion-Driven Representation Learning for Fine-Grained Medical Image Segmentation**|Zhiquan Chen et.al.|[2605.14579](http://arxiv.org/abs/2605.14579)|null|
 |**2026-05-14**|**SpectraFlow: Unifying Structural Pretraining and Frequency Adaptation for Medical Image Segmentation**|Zhiquan Chen et.al.|[2605.14566](http://arxiv.org/abs/2605.14566)|null|
 |**2026-05-13**|**XTinyU-Net: Training-Free U-Net Scaling via Initialization-Time Sensitivity**|Alvin Kimbowa et.al.|[2605.09639](http://arxiv.org/abs/2605.09639)|null|
