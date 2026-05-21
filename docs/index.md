@@ -36,6 +36,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-19**|**Pixel Wised Lesion Prediction on COVID-19 CT Imagery: A Comparative Analysis of Automated Image Segmentation Architectures**|Sarmad Khan et.al.|[2605.20459](http://arxiv.org/abs/2605.20459)|null|
+|**2026-05-19**|**Disentangling Sampling from Training Budget in Class-Imbalanced CT Body Composition Segmentation**|Iason Skylitsis et.al.|[2605.20405](http://arxiv.org/abs/2605.20405)|null|
+|**2026-05-19**|**MedCRP-CL: Continual Medical Image Segmentation via Bayesian Nonparametric Semantic Modality Discovery**|Ziyuan Gao et.al.|[2605.20297](http://arxiv.org/abs/2605.20297)|null|
 |**2026-05-18**|**Lost in the Folds: When Cross-Validation Is Not a Deep Ensemble for Uncertainty Estimation**|Kirscher Tristan et.al.|[2605.18329](http://arxiv.org/abs/2605.18329)|null|
 |**2026-05-18**|**Rad-VLSM: A Cross-Modal Framework with Semantics-Assisted Prompting for Medical Segmentation and Diagnosis**|Fengyi Zhang et.al.|[2605.18130](http://arxiv.org/abs/2605.18130)|null|
 |**2026-05-18**|**Beyond Euclidean Prototypes: Spectral Disentanglement and Geodesic Matching for Few-Shot Medical Image Segmentation**|Penghao Jia et.al.|[2605.17904](http://arxiv.org/abs/2605.17904)|null|
