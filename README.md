@@ -43,6 +43,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-26**|**Cesarean Scar Defect Segmentation in Transvaginal Ultrasound Images: a Dataset and Benchmark**|Yuan Tian et.al.|[2605.26774](http://arxiv.org/abs/2605.26774)|null|
+|**2026-05-26**|**Measuring Prediction Uncertainty in Neural Cellular Automata**|Ario Sadafi et.al.|[2605.26726](http://arxiv.org/abs/2605.26726)|null|
+|**2026-05-25**|**Detail Consistent Stage-Wise Distillation for Efficient 3D MRI Segmentation**|Mengchen Fan et.al.|[2605.26382](http://arxiv.org/abs/2605.26382)|null|
 |**2026-05-25**|**Are We Overconfident in Models and Results for Semi-Supervised 3D Medical Image Segmentation?**|Jun Li et.al.|[2605.25561](http://arxiv.org/abs/2605.25561)|null|
 |**2026-05-21**|**Lost in the Folds: When Cross-Validation Is Not a Deep Ensemble for Uncertainty Estimation**|Tristan Kirscher et.al.|[2605.18329](http://arxiv.org/abs/2605.18329)|null|
 |**2026-05-19**|**Pixel Wised Lesion Prediction on COVID-19 CT Imagery: A Comparative Analysis of Automated Image Segmentation Architectures**|Sarmad Khan et.al.|[2605.20459](http://arxiv.org/abs/2605.20459)|null|
