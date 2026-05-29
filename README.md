@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-28**|**An Approach for Thyroid Nodule Analysis Using Thermographic Images**|J. R. González et.al.|[2605.29221](http://arxiv.org/abs/2605.29221)|null|
 |**2026-05-21**|**ConvNeXt-FD: A Fractal-Based Deep Model for Robust Biomedical Image Segmentation**|Joao Batista Florindo et.al.|[2605.22002](http://arxiv.org/abs/2605.22002)|null|
 |**2026-03-30**|**Prototype-Enhanced Multi-View Learning for Thyroid Nodule Ultrasound Classification**|Yangmei Chen et.al.|[2603.28315](http://arxiv.org/abs/2603.28315)|null|
 |**2026-03-24**|**A Clinically Anchored Radiomics Dictionary for Explainable TI-RADS-Based Thyroid Nodule Classification in Ultrasound; Dictionary Version TU1.0**|Mohammad Salmanpour et.al.|[2603.22692](http://arxiv.org/abs/2603.22692)|null|
@@ -43,6 +44,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-27**|**Robust Cross-Domain Generalization Using Unlabeled Target Data with Source-Domain Supervision**|Yuyue Zhou et.al.|[2605.29122](http://arxiv.org/abs/2605.29122)|null|
 |**2026-05-26**|**Cesarean Scar Defect Segmentation in Transvaginal Ultrasound Images: a Dataset and Benchmark**|Yuan Tian et.al.|[2605.26774](http://arxiv.org/abs/2605.26774)|null|
 |**2026-05-26**|**Measuring Prediction Uncertainty in Neural Cellular Automata**|Ario Sadafi et.al.|[2605.26726](http://arxiv.org/abs/2605.26726)|null|
 |**2026-05-25**|**Detail Consistent Stage-Wise Distillation for Efficient 3D MRI Segmentation**|Mengchen Fan et.al.|[2605.26382](http://arxiv.org/abs/2605.26382)|null|
