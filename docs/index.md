@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-03**|**Implicit Fuzzification via Bounded Noise Injection for Robust Medical Image Segmentation**|Bisheng Tang et.al.|[2606.04427](http://arxiv.org/abs/2606.04427)|null|
 |**2026-05-28**|**An Approach for Thyroid Nodule Analysis Using Thermographic Images**|J. R. González et.al.|[2605.29221](http://arxiv.org/abs/2605.29221)|null|
 |**2026-05-21**|**ConvNeXt-FD: A Fractal-Based Deep Model for Robust Biomedical Image Segmentation**|Joao Batista Florindo et.al.|[2605.22002](http://arxiv.org/abs/2605.22002)|null|
 |**2026-03-30**|**Prototype-Enhanced Multi-View Learning for Thyroid Nodule Ultrasound Classification**|Yangmei Chen et.al.|[2603.28315](http://arxiv.org/abs/2603.28315)|null|
@@ -38,11 +39,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-03**|**Enhancing MedSAM with a Lightweight Box Predictor for Medical Image Segmentation**|Amirhossein Movahedisefat et.al.|[2606.04705](http://arxiv.org/abs/2606.04705)|null|
+|**2026-06-03**|**Implicit Fuzzification via Bounded Noise Injection for Robust Medical Image Segmentation**|Bisheng Tang et.al.|[2606.04427](http://arxiv.org/abs/2606.04427)|null|
+|**2026-06-03**|**XSSR: Cross-Domain Self-Supervised Representative Selection for Efficient Annotation in Medical Image Segmentation**|Byunghyun Ko et.al.|[2606.04301](http://arxiv.org/abs/2606.04301)|null|
+|**2026-06-02**|**Cesarean Scar Defect Segmentation in Transvaginal Ultrasound Images: a Dataset and Benchmark**|Yuan Tian et.al.|[2605.26774](http://arxiv.org/abs/2605.26774)|null|
 |**2026-06-01**|**Quality-Guided Semi-Supervised Learning for Medical Image Segmentation**|Kumar Abhishek et.al.|[2606.01753](http://arxiv.org/abs/2606.01753)|null|
 |**2026-05-31**|**SWARD: Stochastic Window-Attention-Based Relational Distillation for Cross-Architectural Semantic Segmentation**|Aditya Makineni et.al.|[2606.00999](http://arxiv.org/abs/2606.00999)|null|
 |**2026-05-29**|**BiSegMamba: Efficient Bidirectional Tri-Oriented Mamba for 3D Medical Image Segmentation**|Bakht Zada et.al.|[2605.30972](http://arxiv.org/abs/2605.30972)|null|
 |**2026-05-27**|**Robust Cross-Domain Generalization Using Unlabeled Target Data with Source-Domain Supervision**|Yuyue Zhou et.al.|[2605.29122](http://arxiv.org/abs/2605.29122)|null|
-|**2026-05-26**|**Cesarean Scar Defect Segmentation in Transvaginal Ultrasound Images: a Dataset and Benchmark**|Yuan Tian et.al.|[2605.26774](http://arxiv.org/abs/2605.26774)|null|
 |**2026-05-26**|**Measuring Prediction Uncertainty in Neural Cellular Automata**|Ario Sadafi et.al.|[2605.26726](http://arxiv.org/abs/2605.26726)|null|
 |**2026-05-25**|**Detail Consistent Stage-Wise Distillation for Efficient 3D MRI Segmentation**|Mengchen Fan et.al.|[2605.26382](http://arxiv.org/abs/2605.26382)|null|
 |**2026-05-25**|**Are We Overconfident in Models and Results for Semi-Supervised 3D Medical Image Segmentation?**|Jun Li et.al.|[2605.25561](http://arxiv.org/abs/2605.25561)|null|
