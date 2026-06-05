@@ -39,6 +39,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-04**|**SC-MFJ: A Simple Haptic Quality Metric for Medical Image Segmentation**|Souraj Adhikary et.al.|[2606.06199](http://arxiv.org/abs/2606.06199)|null|
+|**2026-06-04**|**MS-DKC: A Dataset Knowledge Card Framework for Designing and Adapting Medical Image Segmentation Models**|Tariq M. Khan et.al.|[2606.06103](http://arxiv.org/abs/2606.06103)|null|
 |**2026-06-03**|**Enhancing MedSAM with a Lightweight Box Predictor for Medical Image Segmentation**|Amirhossein Movahedisefat et.al.|[2606.04705](http://arxiv.org/abs/2606.04705)|null|
 |**2026-06-03**|**Implicit Fuzzification via Bounded Noise Injection for Robust Medical Image Segmentation**|Bisheng Tang et.al.|[2606.04427](http://arxiv.org/abs/2606.04427)|null|
 |**2026-06-03**|**XSSR: Cross-Domain Self-Supervised Representative Selection for Efficient Annotation in Medical Image Segmentation**|Byunghyun Ko et.al.|[2606.04301](http://arxiv.org/abs/2606.04301)|null|
