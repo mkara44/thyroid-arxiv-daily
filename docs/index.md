@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 #  Thyroid & Ultrasound AI ArXiv Daily
-### Automatically Updated on 2026.06.07
+### Automatically Updated on 2026.06.08
  
 
 ## Thyroid Analysis
@@ -39,6 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-04**|**MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models**|Aofei Chang et.al.|[2606.06760](http://arxiv.org/abs/2606.06760)|null|
 |**2026-06-04**|**SC-MFJ: A Simple Haptic Quality Metric for Medical Image Segmentation**|Souraj Adhikary et.al.|[2606.06199](http://arxiv.org/abs/2606.06199)|null|
 |**2026-06-04**|**MS-DKC: A Dataset Knowledge Card Framework for Designing and Adapting Medical Image Segmentation Models**|Tariq M. Khan et.al.|[2606.06103](http://arxiv.org/abs/2606.06103)|null|
 |**2026-06-03**|**Enhancing MedSAM with a Lightweight Box Predictor for Medical Image Segmentation**|Amirhossein Movahedisefat et.al.|[2606.04705](http://arxiv.org/abs/2606.04705)|null|
