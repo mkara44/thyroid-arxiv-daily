@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 #  Thyroid & Ultrasound AI ArXiv Daily
-### Automatically Updated on 2026.06.10
+### Automatically Updated on 2026.06.11
  
 
 ## Thyroid Analysis
