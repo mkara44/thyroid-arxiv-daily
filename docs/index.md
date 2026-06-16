@@ -39,6 +39,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**Federated Medical Image Segmentation under Real-World Label Noise: A Benchmark Suite for Noisy Label Learning Method Selection**|Markus Bujotzek et.al.|[2606.16868](http://arxiv.org/abs/2606.16868)|null|
+|**2026-06-15**|**Attention-Based Prototype Calibration for Multi-Rater Few-Shot Medical Image Segmentation**|Truong Vu et.al.|[2606.16325](http://arxiv.org/abs/2606.16325)|null|
+|**2026-06-15**|**To forget is to preserve: Machine Unlearning for 3D medical image segmentation**|Nitesh Kumar Singh et.al.|[2606.16180](http://arxiv.org/abs/2606.16180)|null|
+|**2026-06-15**|**A Comprehensive Survey of Medical Image Segmentation: Challenges, Benchmarks, and Beyond**|Pengyu Zhu et.al.|[2606.16153](http://arxiv.org/abs/2606.16153)|null|
+|**2026-06-13**|**MNet++: Extended 2D/3D Networks for Anisotropic Medical Image Segmentation**|Kirsten Odendaal et.al.|[2606.15370](http://arxiv.org/abs/2606.15370)|null|
 |**2026-06-07**|**Active Source-free Domain Adaptation in Open-set Medical Image Segmentation via Decomposed Uncertainty and Prototype Discrepancy**|Jin Yang et.al.|[2606.08749](http://arxiv.org/abs/2606.08749)|null|
 |**2026-06-04**|**MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models**|Aofei Chang et.al.|[2606.06760](http://arxiv.org/abs/2606.06760)|null|
 |**2026-06-04**|**SC-MFJ: A Simple Haptic Quality Metric for Medical Image Segmentation**|Souraj Adhikary et.al.|[2606.06199](http://arxiv.org/abs/2606.06199)|null|
