@@ -45,6 +45,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-16**|**SegDINO: Introducing Multi-Scale Structure into DINO for Efficient Medical Image Segmentation**|Sicheng Yang et.al.|[2606.17972](http://arxiv.org/abs/2606.17972)|null|
+|**2026-06-16**|**Beyond Visual Cues: CoT-Enhanced Reasoning for Semi-supervised Medical Image Segmentation**|Yuming Chen et.al.|[2606.17958](http://arxiv.org/abs/2606.17958)|null|
 |**2026-06-15**|**Federated Medical Image Segmentation under Real-World Label Noise: A Benchmark Suite for Noisy Label Learning Method Selection**|Markus Bujotzek et.al.|[2606.16868](http://arxiv.org/abs/2606.16868)|null|
 |**2026-06-15**|**Attention-Based Prototype Calibration for Multi-Rater Few-Shot Medical Image Segmentation**|Truong Vu et.al.|[2606.16325](http://arxiv.org/abs/2606.16325)|null|
 |**2026-06-15**|**To forget is to preserve: Machine Unlearning for 3D medical image segmentation**|Nitesh Kumar Singh et.al.|[2606.16180](http://arxiv.org/abs/2606.16180)|null|
