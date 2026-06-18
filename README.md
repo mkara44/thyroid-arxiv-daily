@@ -45,6 +45,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-17**|**A Clinician-Centered Pipeline for Annotation and Evaluation in Ultrasound AI Studies**|Fangyijie Wang et.al.|[2606.19174](http://arxiv.org/abs/2606.19174)|null|
 |**2026-06-17**|**Quantification of Uncertainty with Adversarial Models in Medical Image Segmentation**|Hana Jebril et.al.|[2606.18860](http://arxiv.org/abs/2606.18860)|null|
 |**2026-06-16**|**SegDINO: Introducing Multi-Scale Structure into DINO for Efficient Medical Image Segmentation**|Sicheng Yang et.al.|[2606.17972](http://arxiv.org/abs/2606.17972)|null|
 |**2026-06-16**|**Beyond Visual Cues: CoT-Enhanced Reasoning for Semi-supervised Medical Image Segmentation**|Yuming Chen et.al.|[2606.17958](http://arxiv.org/abs/2606.17958)|null|
