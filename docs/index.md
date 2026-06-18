@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 #  Thyroid & Ultrasound AI ArXiv Daily
-### Automatically Updated on 2026.06.17
+### Automatically Updated on 2026.06.18
  
 
 ## Thyroid Analysis
@@ -39,6 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**Quantification of Uncertainty with Adversarial Models in Medical Image Segmentation**|Hana Jebril et.al.|[2606.18860](http://arxiv.org/abs/2606.18860)|null|
 |**2026-06-16**|**SegDINO: Introducing Multi-Scale Structure into DINO for Efficient Medical Image Segmentation**|Sicheng Yang et.al.|[2606.17972](http://arxiv.org/abs/2606.17972)|null|
 |**2026-06-16**|**Beyond Visual Cues: CoT-Enhanced Reasoning for Semi-supervised Medical Image Segmentation**|Yuming Chen et.al.|[2606.17958](http://arxiv.org/abs/2606.17958)|null|
 |**2026-06-15**|**Federated Medical Image Segmentation under Real-World Label Noise: A Benchmark Suite for Noisy Label Learning Method Selection**|Markus Bujotzek et.al.|[2606.16868](http://arxiv.org/abs/2606.16868)|null|
