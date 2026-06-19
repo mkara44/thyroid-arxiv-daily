@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 #  Thyroid & Ultrasound AI ArXiv Daily
-### Automatically Updated on 2026.06.18
+### Automatically Updated on 2026.06.19
  
 
 ## Thyroid Analysis
@@ -39,6 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**PU-UNet: Stable Multiplicative Interactions for Medical Image Segmentation**|Ziyuan Li et.al.|[2606.20035](http://arxiv.org/abs/2606.20035)|null|
 |**2026-06-17**|**A Clinician-Centered Pipeline for Annotation and Evaluation in Ultrasound AI Studies**|Fangyijie Wang et.al.|[2606.19174](http://arxiv.org/abs/2606.19174)|null|
 |**2026-06-17**|**Quantification of Uncertainty with Adversarial Models in Medical Image Segmentation**|Hana Jebril et.al.|[2606.18860](http://arxiv.org/abs/2606.18860)|null|
 |**2026-06-16**|**SegDINO: Introducing Multi-Scale Structure into DINO for Efficient Medical Image Segmentation**|Sicheng Yang et.al.|[2606.17972](http://arxiv.org/abs/2606.17972)|null|
