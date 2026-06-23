@@ -45,6 +45,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**Polynomial Dice Loss for Medical Image Segmentation**|Hiroaki Aizawa et.al.|[2606.23373](http://arxiv.org/abs/2606.23373)|null|
+|**2026-06-22**|**Interpretable Probabilistic Medical Image Segmentation via Gaussian Process with Explicit Modelling of Annotation Bias and Variability**|Qi Li et.al.|[2606.23177](http://arxiv.org/abs/2606.23177)|null|
+|**2026-06-22**|**Concept Alignment Contrast and Long-Short Prompt Memory for Test-Time Adaptation of SAM3 in Medical Image Segmentation**|Yubo Zhou et.al.|[2606.22963](http://arxiv.org/abs/2606.22963)|null|
+|**2026-06-20**|**From Convolution to Transformer: A Comparative Study of U-Net Variants for Brain Tumor and Retinal Vessel Segmentation**|Khoa Pham et.al.|[2606.22168](http://arxiv.org/abs/2606.22168)|null|
+|**2026-06-19**|**From Gradient Clipping to Structural Refinement: Improving DPSGD for Medical Image Segmentation**|Shiva Parsarad et.al.|[2606.21763](http://arxiv.org/abs/2606.21763)|null|
+|**2026-06-19**|**One Size does not Fit All: Heterogeneous Latent Space Alignment for Unsupervised Domain Adaptation**|Evangelia Koskinioti et.al.|[2606.21415](http://arxiv.org/abs/2606.21415)|null|
+|**2026-06-18**|**Dataset-Aware Cold-Start Active Learning for Annotation-Efficient 3D Medical Image Segmentation**|Rémi Hattat et.al.|[2606.20765](http://arxiv.org/abs/2606.20765)|null|
 |**2026-06-18**|**PU-UNet: Stable Multiplicative Interactions for Medical Image Segmentation**|Ziyuan Li et.al.|[2606.20035](http://arxiv.org/abs/2606.20035)|null|
 |**2026-06-17**|**A Clinician-Centered Pipeline for Annotation and Evaluation in Ultrasound AI Studies**|Fangyijie Wang et.al.|[2606.19174](http://arxiv.org/abs/2606.19174)|null|
 |**2026-06-17**|**Quantification of Uncertainty with Adversarial Models in Medical Image Segmentation**|Hana Jebril et.al.|[2606.18860](http://arxiv.org/abs/2606.18860)|null|
