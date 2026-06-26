@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 #  Thyroid & Ultrasound AI ArXiv Daily
-### Automatically Updated on 2026.06.25
+### Automatically Updated on 2026.06.26
  
 
 <details>
@@ -39,12 +39,13 @@
 |**2025-10-30**|**Artificial Intelligence-Enabled Analysis of Radiology Reports: Epidemiology and Consequences of Incidental Thyroid Findings**|Felipe Larios et.al.|[2510.26032](http://arxiv.org/abs/2510.26032)|null|
 |**2025-10-27**|**ProfileXAI: User-Adaptive Explainable AI**|Gilber A. Corrales et.al.|[2510.22998](http://arxiv.org/abs/2510.22998)|null|
 
-<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
 
 ## Medical Ultrasound AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-25**|**MLFFM-SegDiff: A Multi-Level Feature Fusion Diffusion Model for Skin Lesion Segmentation**|Jingjun Gu et.al.|[2606.26712](http://arxiv.org/abs/2606.26712)|null|
 |**2026-06-22**|**Polynomial Dice Loss for Medical Image Segmentation**|Hiroaki Aizawa et.al.|[2606.23373](http://arxiv.org/abs/2606.23373)|null|
 |**2026-06-22**|**Interpretable Probabilistic Medical Image Segmentation via Gaussian Process with Explicit Modelling of Annotation Bias and Variability**|Qi Li et.al.|[2606.23177](http://arxiv.org/abs/2606.23177)|null|
 |**2026-06-22**|**Concept Alignment Contrast and Long-Short Prompt Memory for Test-Time Adaptation of SAM3 in Medical Image Segmentation**|Yubo Zhou et.al.|[2606.22963](http://arxiv.org/abs/2606.22963)|null|
@@ -222,7 +223,7 @@
 |**2026-02-04**|**An Intuitionistic Fuzzy Logic Driven UNet architecture: Application to Brain Image segmentation**|Hanuman Verma et.al.|[2602.04227](http://arxiv.org/abs/2602.04227)|null|
 |**2026-02-03**|**MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning**|Shengyuan Liu et.al.|[2602.03320](http://arxiv.org/abs/2602.03320)|null|
 
-<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
 
 Notes: 
 

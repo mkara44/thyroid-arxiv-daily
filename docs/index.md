@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 #  Thyroid & Ultrasound AI ArXiv Daily
-### Automatically Updated on 2026.06.25
+### Automatically Updated on 2026.06.26
  
 
 ## Thyroid Analysis
@@ -39,6 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**MLFFM-SegDiff: A Multi-Level Feature Fusion Diffusion Model for Skin Lesion Segmentation**|Jingjun Gu et.al.|[2606.26712](http://arxiv.org/abs/2606.26712)|null|
 |**2026-06-22**|**Polynomial Dice Loss for Medical Image Segmentation**|Hiroaki Aizawa et.al.|[2606.23373](http://arxiv.org/abs/2606.23373)|null|
 |**2026-06-22**|**Interpretable Probabilistic Medical Image Segmentation via Gaussian Process with Explicit Modelling of Annotation Bias and Variability**|Qi Li et.al.|[2606.23177](http://arxiv.org/abs/2606.23177)|null|
 |**2026-06-22**|**Concept Alignment Contrast and Long-Short Prompt Memory for Test-Time Adaptation of SAM3 in Medical Image Segmentation**|Yubo Zhou et.al.|[2606.22963](http://arxiv.org/abs/2606.22963)|null|
