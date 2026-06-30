@@ -45,8 +45,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-29**|**APRIL-MedSeg: A Modular Medical Image Segmentation Toolbox Embracing Modern Paradigms**|Juntao Jiang et.al.|[2606.30577](http://arxiv.org/abs/2606.30577)|null|
+|**2026-06-27**|**PSP: Harnessing Position and Shape Priors for Cross-Domain Few-Shot Medical Image Segmentation**|Bin Xu et.al.|[2606.28799](http://arxiv.org/abs/2606.28799)|null|
 |**2026-06-26**|**Text as Illumination: Spatial Contrastive Retinex Learning for Language-guided Medical Image Segmentation**|Jian Shi et.al.|[2606.27794](http://arxiv.org/abs/2606.27794)|null|
 |**2026-06-25**|**MLFFM-SegDiff: A Multi-Level Feature Fusion Diffusion Model for Skin Lesion Segmentation**|Jingjun Gu et.al.|[2606.26712](http://arxiv.org/abs/2606.26712)|null|
+|**2026-06-24**|**Enhancing Layer Interaction Using Key-Correlated Layer Attention**|Jianlong Xiong et.al.|[2606.28405](http://arxiv.org/abs/2606.28405)|null|
 |**2026-06-22**|**Polynomial Dice Loss for Medical Image Segmentation**|Hiroaki Aizawa et.al.|[2606.23373](http://arxiv.org/abs/2606.23373)|null|
 |**2026-06-22**|**Interpretable Probabilistic Medical Image Segmentation via Gaussian Process with Explicit Modelling of Annotation Bias and Variability**|Qi Li et.al.|[2606.23177](http://arxiv.org/abs/2606.23177)|null|
 |**2026-06-22**|**Concept Alignment Contrast and Long-Short Prompt Memory for Test-Time Adaptation of SAM3 in Medical Image Segmentation**|Yubo Zhou et.al.|[2606.22963](http://arxiv.org/abs/2606.22963)|null|
