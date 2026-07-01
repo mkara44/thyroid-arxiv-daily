@@ -45,7 +45,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-06-29**|**APRIL-MedSeg: A Modular Medical Image Segmentation Toolbox Embracing Modern Paradigms**|Juntao Jiang et.al.|[2606.30577](http://arxiv.org/abs/2606.30577)|null|
+|**2026-06-30**|**Towards Voxel Spacing Consistency for Medical Image Segmentation**|Xin You et.al.|[2606.31839](http://arxiv.org/abs/2606.31839)|null|
+|**2026-06-30**|**APRIL-MedSeg: A Modular Medical Image Segmentation Toolbox Embracing Modern Paradigms**|Juntao Jiang et.al.|[2606.30577](http://arxiv.org/abs/2606.30577)|null|
 |**2026-06-27**|**PSP: Harnessing Position and Shape Priors for Cross-Domain Few-Shot Medical Image Segmentation**|Bin Xu et.al.|[2606.28799](http://arxiv.org/abs/2606.28799)|null|
 |**2026-06-26**|**Text as Illumination: Spatial Contrastive Retinex Learning for Language-guided Medical Image Segmentation**|Jian Shi et.al.|[2606.27794](http://arxiv.org/abs/2606.27794)|null|
 |**2026-06-25**|**MLFFM-SegDiff: A Multi-Level Feature Fusion Diffusion Model for Skin Lesion Segmentation**|Jingjun Gu et.al.|[2606.26712](http://arxiv.org/abs/2606.26712)|null|
