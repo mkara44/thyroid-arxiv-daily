@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**MedSaab-US: A Backpropagation-Free Multi-Scale Wavelet-Saab Framework for Thyroid Nodule Segmentation in Ultrasound Images**|Mohammad Amanour Rahman et.al.|[2607.02209](http://arxiv.org/abs/2607.02209)|null|
 |**2026-06-03**|**Implicit Fuzzification via Bounded Noise Injection for Robust Medical Image Segmentation**|Bisheng Tang et.al.|[2606.04427](http://arxiv.org/abs/2606.04427)|null|
 |**2026-05-28**|**An Approach for Thyroid Nodule Analysis Using Thermographic Images**|J. R. González et.al.|[2605.29221](http://arxiv.org/abs/2605.29221)|null|
 |**2026-05-21**|**ConvNeXt-FD: A Fractal-Based Deep Model for Robust Biomedical Image Segmentation**|Joao Batista Florindo et.al.|[2605.22002](http://arxiv.org/abs/2605.22002)|null|
@@ -39,6 +40,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**RadiomicNet: A Hybrid Radiomics-Guided Lightweight Architecture for Interpretable Medical Image Segmentation**|Mohammad Amanour Rahman et.al.|[2607.02185](http://arxiv.org/abs/2607.02185)|null|
+|**2026-07-02**|**Embracing Intra-Class Heterogeneity for Semi-Supervised Medical Image Segmentation: From Diversity to Precision**|Yuqi Liu et.al.|[2607.02051](http://arxiv.org/abs/2607.02051)|null|
 |**2026-07-01**|**MedCAGD: Context-Aware Gated Decoder for Efficient Medical Image Segmentation**|Saad Wazir et.al.|[2607.00409](http://arxiv.org/abs/2607.00409)|null|
 |**2026-06-30**|**Does Your ViT Still Need U-Net for Segmentation?**|Xin Li et.al.|[2607.00223](http://arxiv.org/abs/2607.00223)|null|
 |**2026-06-30**|**Towards Voxel Spacing Consistency for Medical Image Segmentation**|Xin You et.al.|[2606.31839](http://arxiv.org/abs/2606.31839)|null|
