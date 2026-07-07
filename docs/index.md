@@ -40,9 +40,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-06**|**RUFNet: Query-Guided Support Mask Refinement and Uncertainty Fusion based on Hybrid Mamba for Few-Shot Brain Tumor Segmentation**|Dongyi He et.al.|[2607.05035](http://arxiv.org/abs/2607.05035)|null|
+|**2026-07-05**|**Beyond Random Sampling: Distribution-Aware Alignment for Semi-Supervised Medical Image Segmentation**|Weihao Yan et.al.|[2607.04249](http://arxiv.org/abs/2607.04249)|null|
+|**2026-07-03**|**SNR-Adaptive Unified Diffusion for Multi-Task Medical Image Segmentation**|Jiahao Liu et.al.|[2607.03103](http://arxiv.org/abs/2607.03103)|null|
 |**2026-07-02**|**RadiomicNet: A Hybrid Radiomics-Guided Lightweight Architecture for Interpretable Medical Image Segmentation**|Mohammad Amanour Rahman et.al.|[2607.02185](http://arxiv.org/abs/2607.02185)|null|
 |**2026-07-02**|**Embracing Intra-Class Heterogeneity for Semi-Supervised Medical Image Segmentation: From Diversity to Precision**|Yuqi Liu et.al.|[2607.02051](http://arxiv.org/abs/2607.02051)|null|
 |**2026-07-01**|**MedCAGD: Context-Aware Gated Decoder for Efficient Medical Image Segmentation**|Saad Wazir et.al.|[2607.00409](http://arxiv.org/abs/2607.00409)|null|
+|**2026-06-30**|**Dual-Adaptive SAM3: Hierarchical Routing over Low-Rank Expert Layers for Parameter-Efficient Medical Image Segmentation**|Ying Chen et.al.|[2607.02571](http://arxiv.org/abs/2607.02571)|null|
 |**2026-06-30**|**Does Your ViT Still Need U-Net for Segmentation?**|Xin Li et.al.|[2607.00223](http://arxiv.org/abs/2607.00223)|null|
 |**2026-06-30**|**Towards Voxel Spacing Consistency for Medical Image Segmentation**|Xin You et.al.|[2606.31839](http://arxiv.org/abs/2606.31839)|null|
 |**2026-06-30**|**APRIL-MedSeg: A Modular Medical Image Segmentation Toolbox Embracing Modern Paradigms**|Juntao Jiang et.al.|[2606.30577](http://arxiv.org/abs/2606.30577)|null|
