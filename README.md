@@ -46,6 +46,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-07**|**OBBSeg: Irregular Lesion Segmentation under Oriented Bounding Box Annotations**|Jun Wei et.al.|[2607.06007](http://arxiv.org/abs/2607.06007)|null|
 |**2026-07-06**|**RUFNet: Query-Guided Support Mask Refinement and Uncertainty Fusion based on Hybrid Mamba for Few-Shot Brain Tumor Segmentation**|Dongyi He et.al.|[2607.05035](http://arxiv.org/abs/2607.05035)|null|
 |**2026-07-05**|**Beyond Random Sampling: Distribution-Aware Alignment for Semi-Supervised Medical Image Segmentation**|Weihao Yan et.al.|[2607.04249](http://arxiv.org/abs/2607.04249)|null|
 |**2026-07-03**|**SNR-Adaptive Unified Diffusion for Multi-Task Medical Image Segmentation**|Jiahao Liu et.al.|[2607.03103](http://arxiv.org/abs/2607.03103)|null|
