@@ -40,6 +40,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**VCDP: Variation-Conditioned Distributional Proxy Learning for Semi-Supervised Medical Image Segmentation**|Zimu Zhang et.al.|[2607.07416](http://arxiv.org/abs/2607.07416)|null|
+|**2026-07-08**|**TRACE-Seg3D: Counterfactual Context Auditing For Robust 3D Glioma Segmentation Under Institutional Shift**|Nguyen Linh Dan Le et.al.|[2607.07038](http://arxiv.org/abs/2607.07038)|null|
+|**2026-07-08**|**SHTA: Semantic Hard Token Correction and Center Alignment for Semi-Supervised Medical Image Segmentation**|Zhuoru Zhang et.al.|[2607.07019](http://arxiv.org/abs/2607.07019)|null|
+|**2026-07-08**|**HPR-SAM: Hierarchical Probabilistic Representation Learning for Prompt-free SAM-based Medical Image Segmentation**|Yingzhen Hu et.al.|[2607.06972](http://arxiv.org/abs/2607.06972)|null|
 |**2026-07-07**|**OBBSeg: Irregular Lesion Segmentation under Oriented Bounding Box Annotations**|Jun Wei et.al.|[2607.06007](http://arxiv.org/abs/2607.06007)|null|
 |**2026-07-06**|**RUFNet: Query-Guided Support Mask Refinement and Uncertainty Fusion based on Hybrid Mamba for Few-Shot Brain Tumor Segmentation**|Dongyi He et.al.|[2607.05035](http://arxiv.org/abs/2607.05035)|null|
 |**2026-07-05**|**Beyond Random Sampling: Distribution-Aware Alignment for Semi-Supervised Medical Image Segmentation**|Weihao Yan et.al.|[2607.04249](http://arxiv.org/abs/2607.04249)|null|
