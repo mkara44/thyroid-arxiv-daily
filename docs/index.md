@@ -40,6 +40,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**Difference-Driven Gating: Adaptive Feature Fusion for U-Net Decoder**|Kai Li et.al.|[2607.11096](http://arxiv.org/abs/2607.11096)|null|
 |**2026-07-10**|**Decoupling Language Guidance from Backbones for Text-Guided Medical Segmentation**|Yungeng Liu et.al.|[2607.09481](http://arxiv.org/abs/2607.09481)|null|
 |**2026-07-08**|**VCDP: Variation-Conditioned Distributional Proxy Learning for Semi-Supervised Medical Image Segmentation**|Zimu Zhang et.al.|[2607.07416](http://arxiv.org/abs/2607.07416)|null|
 |**2026-07-08**|**TRACE-Seg3D: Counterfactual Context Auditing For Robust 3D Glioma Segmentation Under Institutional Shift**|Nguyen Linh Dan Le et.al.|[2607.07038](http://arxiv.org/abs/2607.07038)|null|
