@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**Calibrated Selective Prediction Using Deep Ensembles for ROI-Based Thyroid Nodule Ultrasound Classification Under Dataset Shift: A Retrospective Evaluation**|Md. Sadibul Hasan Sadib et.al.|[2607.12075](http://arxiv.org/abs/2607.12075)|null|
 |**2026-07-02**|**MedSaab-US: A Backpropagation-Free Multi-Scale Wavelet-Saab Framework for Thyroid Nodule Segmentation in Ultrasound Images**|Mohammad Amanour Rahman et.al.|[2607.02209](http://arxiv.org/abs/2607.02209)|null|
 |**2026-06-03**|**Implicit Fuzzification via Bounded Noise Injection for Robust Medical Image Segmentation**|Bisheng Tang et.al.|[2606.04427](http://arxiv.org/abs/2606.04427)|null|
 |**2026-05-28**|**An Approach for Thyroid Nodule Analysis Using Thermographic Images**|J. R. González et.al.|[2605.29221](http://arxiv.org/abs/2605.29221)|null|
@@ -40,6 +41,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-14**|**UniMedSeg: Unified In-Context Learning for Multi-Paradigm 2D/3D Medical Image Segmentation**|Yunzhou Li et.al.|[2607.12896](http://arxiv.org/abs/2607.12896)|null|
+|**2026-07-14**|**Medical Image Segmentation based on Deep Active Contour and Mean Curvature Loss Function**|Xiao-qiang Zhai et.al.|[2607.12586](http://arxiv.org/abs/2607.12586)|null|
 |**2026-07-13**|**Difference-Driven Gating: Adaptive Feature Fusion for U-Net Decoder**|Kai Li et.al.|[2607.11096](http://arxiv.org/abs/2607.11096)|null|
 |**2026-07-10**|**Decoupling Language Guidance from Backbones for Text-Guided Medical Segmentation**|Yungeng Liu et.al.|[2607.09481](http://arxiv.org/abs/2607.09481)|null|
 |**2026-07-08**|**VCDP: Variation-Conditioned Distributional Proxy Learning for Semi-Supervised Medical Image Segmentation**|Zimu Zhang et.al.|[2607.07416](http://arxiv.org/abs/2607.07416)|null|
