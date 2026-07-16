@@ -41,6 +41,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-14**|**SARFA: Segment Anything with Radiomic Feature Alignment**|Tyler Ward et.al.|[2607.13323](http://arxiv.org/abs/2607.13323)|null|
 |**2026-07-14**|**UniMedSeg: Unified In-Context Learning for Multi-Paradigm 2D/3D Medical Image Segmentation**|Yunzhou Li et.al.|[2607.12896](http://arxiv.org/abs/2607.12896)|null|
 |**2026-07-14**|**Medical Image Segmentation based on Deep Active Contour and Mean Curvature Loss Function**|Xiao-qiang Zhai et.al.|[2607.12586](http://arxiv.org/abs/2607.12586)|null|
 |**2026-07-13**|**Difference-Driven Gating: Adaptive Feature Fusion for U-Net Decoder**|Kai Li et.al.|[2607.11096](http://arxiv.org/abs/2607.11096)|null|
