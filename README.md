@@ -47,7 +47,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-20**|**Memory-Supported Synergistic Adaptation for Training-Free Test-Time Medical Image Segmentation**|Lingrui Li et.al.|[2607.17693](http://arxiv.org/abs/2607.17693)|null|
+|**2026-07-19**|**Understanding From Human Perspective: A Multi-agent System for Interactive Egocentric Medical Image Segmentation**|Rongjun Ge et.al.|[2607.17341](http://arxiv.org/abs/2607.17341)|null|
+|**2026-07-19**|**MIS-HCC: Hierarchical Channel Clustering for Efficient Medical Image Segmentation**|Bo Zhao et.al.|[2607.17329](http://arxiv.org/abs/2607.17329)|null|
+|**2026-07-18**|**OFD-Net: Teacher-Free Reliable Semi-supervised Medical Image Segmentation with Orthogonal Feature Disentanglement Net of Foreground-Background**|Shao-feng Jiang et.al.|[2607.16705](http://arxiv.org/abs/2607.16705)|null|
 |**2026-07-16**|**CRISP: Constrained Refinement via Iterative Squeezing Process for Robust Medical Image Segmentation under Domain Shift**|Yizhou Fang et.al.|[2607.15231](http://arxiv.org/abs/2607.15231)|null|
+|**2026-07-15**|**Localization-Infused Vision-Language Semantic Fusion for Text-Guided Medical Image Segmentation**|Songyue Han et.al.|[2607.16327](http://arxiv.org/abs/2607.16327)|null|
 |**2026-07-15**|**ViPSAM: Visual Prompting Medical Image Segmentation Using Segment Anything Model**|San Lee et.al.|[2607.14328](http://arxiv.org/abs/2607.14328)|null|
 |**2026-07-14**|**SARFA: Segment Anything with Radiomic Feature Alignment**|Tyler Ward et.al.|[2607.13323](http://arxiv.org/abs/2607.13323)|null|
 |**2026-07-14**|**UniMedSeg: Unified In-Context Learning for Multi-Paradigm 2D/3D Medical Image Segmentation**|Yunzhou Li et.al.|[2607.12896](http://arxiv.org/abs/2607.12896)|null|
