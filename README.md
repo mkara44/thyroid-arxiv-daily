@@ -51,6 +51,7 @@
 |**2026-07-19**|**Understanding From Human Perspective: A Multi-agent System for Interactive Egocentric Medical Image Segmentation**|Rongjun Ge et.al.|[2607.17341](http://arxiv.org/abs/2607.17341)|null|
 |**2026-07-19**|**MIS-HCC: Hierarchical Channel Clustering for Efficient Medical Image Segmentation**|Bo Zhao et.al.|[2607.17329](http://arxiv.org/abs/2607.17329)|null|
 |**2026-07-18**|**OFD-Net: Teacher-Free Reliable Semi-supervised Medical Image Segmentation with Orthogonal Feature Disentanglement Net of Foreground-Background**|Shao-feng Jiang et.al.|[2607.16705](http://arxiv.org/abs/2607.16705)|null|
+|**2026-07-17**|**Monkey King Bang: A Unified Scientific Multimodal Foundation Model**|Hesen Chen et.al.|[2607.20557](http://arxiv.org/abs/2607.20557)|null|
 |**2026-07-16**|**CRISP: Constrained Refinement via Iterative Squeezing Process for Robust Medical Image Segmentation under Domain Shift**|Yizhou Fang et.al.|[2607.15231](http://arxiv.org/abs/2607.15231)|null|
 |**2026-07-15**|**Localization-Infused Vision-Language Semantic Fusion for Text-Guided Medical Image Segmentation**|Songyue Han et.al.|[2607.16327](http://arxiv.org/abs/2607.16327)|null|
 |**2026-07-15**|**ViPSAM: Visual Prompting Medical Image Segmentation Using Segment Anything Model**|San Lee et.al.|[2607.14328](http://arxiv.org/abs/2607.14328)|null|
