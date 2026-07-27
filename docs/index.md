@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**Risk-Routed Implicit Boundary Refinement for Robust Ultrasound Image Segmentation**|Jingguo Qu et.al.|[2607.21787](http://arxiv.org/abs/2607.21787)|null|
 |**2026-07-13**|**Calibrated Selective Prediction Using Deep Ensembles for ROI-Based Thyroid Nodule Ultrasound Classification Under Dataset Shift: A Retrospective Evaluation**|Md. Sadibul Hasan Sadib et.al.|[2607.12075](http://arxiv.org/abs/2607.12075)|null|
 |**2026-07-02**|**MedSaab-US: A Backpropagation-Free Multi-Scale Wavelet-Saab Framework for Thyroid Nodule Segmentation in Ultrasound Images**|Mohammad Amanour Rahman et.al.|[2607.02209](http://arxiv.org/abs/2607.02209)|null|
 |**2026-06-03**|**Implicit Fuzzification via Bounded Noise Injection for Robust Medical Image Segmentation**|Bisheng Tang et.al.|[2606.04427](http://arxiv.org/abs/2606.04427)|null|
@@ -41,6 +42,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-24**|**Active few-shot segmentation by reinforcing data selection**|Chenlan Zhao et.al.|[2607.22371](http://arxiv.org/abs/2607.22371)|null|
+|**2026-07-24**|**SLIP: Segmentation with Low-latency Interactive Prompting for 3D Medical Images**|Baptiste Podvin et.al.|[2607.22332](http://arxiv.org/abs/2607.22332)|null|
 |**2026-07-20**|**Memory-Supported Synergistic Adaptation for Training-Free Test-Time Medical Image Segmentation**|Lingrui Li et.al.|[2607.17693](http://arxiv.org/abs/2607.17693)|null|
 |**2026-07-19**|**Understanding From Human Perspective: A Multi-agent System for Interactive Egocentric Medical Image Segmentation**|Rongjun Ge et.al.|[2607.17341](http://arxiv.org/abs/2607.17341)|null|
 |**2026-07-19**|**MIS-HCC: Hierarchical Channel Clustering for Efficient Medical Image Segmentation**|Bo Zhao et.al.|[2607.17329](http://arxiv.org/abs/2607.17329)|null|
