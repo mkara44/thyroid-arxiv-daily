@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 #  Thyroid & Ultrasound AI ArXiv Daily
-### Automatically Updated on 2026.07.28
+### Automatically Updated on 2026.07.29
  
 
 <details>
@@ -42,14 +42,18 @@
 |**2025-10-30**|**Artificial Intelligence-Enabled Analysis of Radiology Reports: Epidemiology and Consequences of Incidental Thyroid Findings**|Felipe Larios et.al.|[2510.26032](http://arxiv.org/abs/2510.26032)|null|
 |**2025-10-27**|**ProfileXAI: User-Adaptive Explainable AI**|Gilber A. Corrales et.al.|[2510.22998](http://arxiv.org/abs/2510.22998)|null|
 
-<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
 
 ## Medical Ultrasound AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-27**|**Superpixel-Based QUBO for Scalable Quantum-Enhanced Medical Image Segmentation**|Mohammad Chalhoub et.al.|[2607.24288](http://arxiv.org/abs/2607.24288)|null|
+|**2026-07-24**|**AdaKAN: A dual-branch adaptive Kolmogorov-Arnold network for medical image segmentation**|Dalia Alzu'bi et.al.|[2607.22891](http://arxiv.org/abs/2607.22891)|null|
 |**2026-07-24**|**Active few-shot segmentation by reinforcing data selection**|Chenlan Zhao et.al.|[2607.22371](http://arxiv.org/abs/2607.22371)|null|
 |**2026-07-24**|**SLIP: Segmentation with Low-latency Interactive Prompting for 3D Medical Images**|Baptiste Podvin et.al.|[2607.22332](http://arxiv.org/abs/2607.22332)|null|
+|**2026-07-22**|**Trustworthy Medical Segmentation: Uncertainty-Aware U-Net Evaluation Under Clinical Image Degradation**|Pranav Kaliaperumal et.al.|[2607.22727](http://arxiv.org/abs/2607.22727)|null|
+|**2026-07-21**|**DAMamba-UNet3D: A Parameter-Efficient Mamba State Space U-Net with Dynamic Adaptive Scan for 3D Medical Image Segmentation**|Mohammad Arafat Hussain et.al.|[2607.22718](http://arxiv.org/abs/2607.22718)|null|
 |**2026-07-20**|**Memory-Supported Synergistic Adaptation for Training-Free Test-Time Medical Image Segmentation**|Lingrui Li et.al.|[2607.17693](http://arxiv.org/abs/2607.17693)|null|
 |**2026-07-19**|**Understanding From Human Perspective: A Multi-agent System for Interactive Egocentric Medical Image Segmentation**|Rongjun Ge et.al.|[2607.17341](http://arxiv.org/abs/2607.17341)|null|
 |**2026-07-19**|**MIS-HCC: Hierarchical Channel Clustering for Efficient Medical Image Segmentation**|Bo Zhao et.al.|[2607.17329](http://arxiv.org/abs/2607.17329)|null|
@@ -259,7 +263,7 @@
 |**2026-02-04**|**An Intuitionistic Fuzzy Logic Driven UNet architecture: Application to Brain Image segmentation**|Hanuman Verma et.al.|[2602.04227](http://arxiv.org/abs/2602.04227)|null|
 |**2026-02-03**|**MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning**|Shengyuan Liu et.al.|[2602.03320](http://arxiv.org/abs/2602.03320)|null|
 
-<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
 
 Notes: 
 
