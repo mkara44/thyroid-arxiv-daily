@@ -42,6 +42,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**Bi-Level Collaborative Learning for Few-Shot Scribble-Supervised Medical Image Segmentation**|Xiang-Xiang Su et.al.|[2607.25432](http://arxiv.org/abs/2607.25432)|null|
+|**2026-07-27**|**Unifying Active Learning and Semi-Supervised Learning for Medical Image Segmentation**|Bahram Jafrasteh et.al.|[2607.25014](http://arxiv.org/abs/2607.25014)|null|
 |**2026-07-27**|**Superpixel-Based QUBO for Scalable Quantum-Enhanced Medical Image Segmentation**|Mohammad Chalhoub et.al.|[2607.24288](http://arxiv.org/abs/2607.24288)|null|
 |**2026-07-24**|**AdaKAN: A dual-branch adaptive Kolmogorov-Arnold network for medical image segmentation**|Dalia Alzu'bi et.al.|[2607.22891](http://arxiv.org/abs/2607.22891)|null|
 |**2026-07-24**|**Active few-shot segmentation by reinforcing data selection**|Chenlan Zhao et.al.|[2607.22371](http://arxiv.org/abs/2607.22371)|null|
