@@ -42,6 +42,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**BATS: Resource-Efficient Volumetric Segmentation with Boundary-Aware Mixed-Resolution Tokens**|David Hagerman et.al.|[2607.26829](http://arxiv.org/abs/2607.26829)|null|
+|**2026-07-29**|**From Spatial Semantics to Temporal Context: Leveraging Gaze Trajectory for Weakly Supervised Medical Image Segmentation**|Shaoxuan Wu et.al.|[2607.26542](http://arxiv.org/abs/2607.26542)|null|
 |**2026-07-28**|**Bi-Level Collaborative Learning for Few-Shot Scribble-Supervised Medical Image Segmentation**|Xiang-Xiang Su et.al.|[2607.25432](http://arxiv.org/abs/2607.25432)|null|
 |**2026-07-27**|**Unifying Active Learning and Semi-Supervised Learning for Medical Image Segmentation**|Bahram Jafrasteh et.al.|[2607.25014](http://arxiv.org/abs/2607.25014)|null|
 |**2026-07-27**|**Superpixel-Based QUBO for Scalable Quantum-Enhanced Medical Image Segmentation**|Mohammad Chalhoub et.al.|[2607.24288](http://arxiv.org/abs/2607.24288)|null|
