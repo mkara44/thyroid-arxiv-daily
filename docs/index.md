@@ -42,6 +42,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**AuricularWorld: Hierarchical Action-Guided World Modeling for Fine-Grained Auricular Structure Segmentation from CT Scans**|Jingwen Yang et.al.|[2607.28487](http://arxiv.org/abs/2607.28487)|null|
+|**2026-07-30**|**Benchmarking Foundation and Large Language Models for Few-Shot Medical Image Segmentation**|Jinghong Liu et.al.|[2607.27856](http://arxiv.org/abs/2607.27856)|null|
 |**2026-07-29**|**BATS: Resource-Efficient Volumetric Segmentation with Boundary-Aware Mixed-Resolution Tokens**|David Hagerman et.al.|[2607.26829](http://arxiv.org/abs/2607.26829)|null|
 |**2026-07-29**|**From Spatial Semantics to Temporal Context: Leveraging Gaze Trajectory for Weakly Supervised Medical Image Segmentation**|Shaoxuan Wu et.al.|[2607.26542](http://arxiv.org/abs/2607.26542)|null|
 |**2026-07-28**|**Bi-Level Collaborative Learning for Few-Shot Scribble-Supervised Medical Image Segmentation**|Xiang-Xiang Su et.al.|[2607.25432](http://arxiv.org/abs/2607.25432)|null|
