@@ -42,6 +42,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-31**|**DynoDINO: Harnessing Dynamic Latent Information from DINO Features for Multi-Phase Medical Image Segmentation**|Yu-Pu Hsu et.al.|[2607.29568](http://arxiv.org/abs/2607.29568)|null|
 |**2026-07-30**|**AuricularWorld: Hierarchical Action-Guided World Modeling for Fine-Grained Auricular Structure Segmentation from CT Scans**|Jingwen Yang et.al.|[2607.28487](http://arxiv.org/abs/2607.28487)|null|
 |**2026-07-30**|**Benchmarking Foundation and Large Language Models for Few-Shot Medical Image Segmentation**|Jinghong Liu et.al.|[2607.27856](http://arxiv.org/abs/2607.27856)|null|
 |**2026-07-29**|**BATS: Resource-Efficient Volumetric Segmentation with Boundary-Aware Mixed-Resolution Tokens**|David Hagerman et.al.|[2607.26829](http://arxiv.org/abs/2607.26829)|null|
