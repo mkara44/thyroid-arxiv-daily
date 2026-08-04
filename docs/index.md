@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-02**|**UCBound-Net: Uncertainty-Guided Boundary-Aware Continual Learning for Domain-Incremental Ultrasound Segmentation**|Mohammad Amanour Rahman et.al.|[2608.01518](http://arxiv.org/abs/2608.01518)|null|
 |**2026-07-23**|**Risk-Routed Implicit Boundary Refinement for Robust Ultrasound Image Segmentation**|Jingguo Qu et.al.|[2607.21787](http://arxiv.org/abs/2607.21787)|null|
 |**2026-07-13**|**Calibrated Selective Prediction Using Deep Ensembles for ROI-Based Thyroid Nodule Ultrasound Classification Under Dataset Shift: A Retrospective Evaluation**|Md. Sadibul Hasan Sadib et.al.|[2607.12075](http://arxiv.org/abs/2607.12075)|null|
 |**2026-07-02**|**MedSaab-US: A Backpropagation-Free Multi-Scale Wavelet-Saab Framework for Thyroid Nodule Segmentation in Ultrasound Images**|Mohammad Amanour Rahman et.al.|[2607.02209](http://arxiv.org/abs/2607.02209)|null|
