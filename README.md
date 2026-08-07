@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 #  Thyroid & Ultrasound AI ArXiv Daily
-### Automatically Updated on 2026.08.06
+### Automatically Updated on 2026.08.07
  
 
 <details>
@@ -43,12 +43,16 @@
 |**2025-10-30**|**Artificial Intelligence-Enabled Analysis of Radiology Reports: Epidemiology and Consequences of Incidental Thyroid Findings**|Felipe Larios et.al.|[2510.26032](http://arxiv.org/abs/2510.26032)|null|
 |**2025-10-27**|**ProfileXAI: User-Adaptive Explainable AI**|Gilber A. Corrales et.al.|[2510.22998](http://arxiv.org/abs/2510.22998)|null|
 
-<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260807>back to top</a>)</p>
 
 ## Medical Ultrasound AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**OTLesMix: Wasserstein Barycenter and Optimal Transport Map for Synthetic Lesion Generation with Diverse Shapes and Locations**|Robin Trombetta et.al.|[2608.06264](http://arxiv.org/abs/2608.06264)|null|
+|**2026-08-06**|**Curia-MAE: Multi-Modal Multi-Anatomy MAE Pre-Training for 3D Medical Image Segmentation**|Théo Danielou et.al.|[2608.05844](http://arxiv.org/abs/2608.05844)|null|
+|**2026-08-06**|**DistMedVL: Distributional Vision-Language Alignment for Uncertainty-Aware Medical Image Segmentation**|Jiaxuan Li et.al.|[2608.05683](http://arxiv.org/abs/2608.05683)|null|
+|**2026-08-05**|**Context Matters: Support Set Selection and Failure Detection for In-Context Medical Image Segmentation**|Youssef Gehad et.al.|[2608.05333](http://arxiv.org/abs/2608.05333)|null|
 |**2026-07-31**|**DynoDINO: Harnessing Dynamic Latent Information from DINO Features for Multi-Phase Medical Image Segmentation**|Yu-Pu Hsu et.al.|[2607.29568](http://arxiv.org/abs/2607.29568)|null|
 |**2026-07-30**|**AuricularWorld: Hierarchical Action-Guided World Modeling for Fine-Grained Auricular Structure Segmentation from CT Scans**|Jingwen Yang et.al.|[2607.28487](http://arxiv.org/abs/2607.28487)|null|
 |**2026-07-30**|**Benchmarking Foundation and Large Language Models for Few-Shot Medical Image Segmentation**|Jinghong Liu et.al.|[2607.27856](http://arxiv.org/abs/2607.27856)|null|
@@ -271,7 +275,7 @@
 |**2026-02-04**|**An Intuitionistic Fuzzy Logic Driven UNet architecture: Application to Brain Image segmentation**|Hanuman Verma et.al.|[2602.04227](http://arxiv.org/abs/2602.04227)|null|
 |**2026-02-03**|**MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning**|Shengyuan Liu et.al.|[2602.03320](http://arxiv.org/abs/2602.03320)|null|
 
-<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260807>back to top</a>)</p>
 
 Notes: 
 
