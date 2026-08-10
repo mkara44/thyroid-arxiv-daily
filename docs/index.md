@@ -43,8 +43,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**H2AL: Hyperbolic Hierarchy-aware Aggregative Learning for Registration-based Few-shot Medical Image Segmentation**|Jia Wang et.al.|[2608.07340](http://arxiv.org/abs/2608.07340)|null|
+|**2026-08-07**|**Curia-MAE: Multi-Modal Multi-Anatomy MAE Pre-Training for 3D Medical Image Segmentation**|Théo Danielou et.al.|[2608.05844](http://arxiv.org/abs/2608.05844)|null|
 |**2026-08-06**|**OTLesMix: Wasserstein Barycenter and Optimal Transport Map for Synthetic Lesion Generation with Diverse Shapes and Locations**|Robin Trombetta et.al.|[2608.06264](http://arxiv.org/abs/2608.06264)|null|
-|**2026-08-06**|**Curia-MAE: Multi-Modal Multi-Anatomy MAE Pre-Training for 3D Medical Image Segmentation**|Théo Danielou et.al.|[2608.05844](http://arxiv.org/abs/2608.05844)|null|
 |**2026-08-06**|**DistMedVL: Distributional Vision-Language Alignment for Uncertainty-Aware Medical Image Segmentation**|Jiaxuan Li et.al.|[2608.05683](http://arxiv.org/abs/2608.05683)|null|
 |**2026-08-05**|**Context Matters: Support Set Selection and Failure Detection for In-Context Medical Image Segmentation**|Youssef Gehad et.al.|[2608.05333](http://arxiv.org/abs/2608.05333)|null|
 |**2026-07-31**|**DynoDINO: Harnessing Dynamic Latent Information from DINO Features for Multi-Phase Medical Image Segmentation**|Yu-Pu Hsu et.al.|[2607.29568](http://arxiv.org/abs/2607.29568)|null|
