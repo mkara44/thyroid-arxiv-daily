@@ -49,6 +49,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-12**|**M-Net: Integrating Spectral Features and Physical Field Operators into Deep Learning for Medical Image Segmentation**|Jing Zhu et.al.|[2608.12196](http://arxiv.org/abs/2608.12196)|null|
+|**2026-08-12**|**Predicting Functions, Not Features: KANs with Function-Space Joint-Embedding Predictive Learning for Medical Image Segmentation**|Yungeng Liu et.al.|[2608.12050](http://arxiv.org/abs/2608.12050)|null|
+|**2026-08-12**|**KANResDiff: Learning Local Residual Diffusion via Kolmogorov-Arnold Network for Ambiguous Medical Image Segmentation**|Fanding Li et.al.|[2608.11617](http://arxiv.org/abs/2608.11617)|null|
+|**2026-08-11**|**Dual-Domain Cross-Modal Decoding for Clinical Text-Guided Medical Image Segmentation**|Md Maklachur Rahman et.al.|[2608.11335](http://arxiv.org/abs/2608.11335)|null|
 |**2026-08-09**|**CDGC-Net: 3D Medical Image Segmentation with Cooperative Dual-Scale Self-Attention and Grouped Channel Modeling**|Zheyang Jing et.al.|[2608.08575](http://arxiv.org/abs/2608.08575)|null|
 |**2026-08-07**|**H2AL: Hyperbolic Hierarchy-aware Aggregative Learning for Registration-based Few-shot Medical Image Segmentation**|Jia Wang et.al.|[2608.07340](http://arxiv.org/abs/2608.07340)|null|
 |**2026-08-07**|**Curia-MAE: Multi-Modal Multi-Anatomy MAE Pre-Training for 3D Medical Image Segmentation**|Théo Danielou et.al.|[2608.05844](http://arxiv.org/abs/2608.05844)|null|
