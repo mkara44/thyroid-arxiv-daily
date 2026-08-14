@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-12**|**Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting**|Haifan Gong et.al.|[2608.12590](http://arxiv.org/abs/2608.12590)|null|
 |**2026-08-02**|**UCBound-Net: Uncertainty-Guided Boundary-Aware Continual Learning for Domain-Incremental Ultrasound Segmentation**|Mohammad Amanour Rahman et.al.|[2608.01518](http://arxiv.org/abs/2608.01518)|null|
 |**2026-07-23**|**Risk-Routed Implicit Boundary Refinement for Robust Ultrasound Image Segmentation**|Jingguo Qu et.al.|[2607.21787](http://arxiv.org/abs/2607.21787)|null|
 |**2026-07-13**|**Calibrated Selective Prediction Using Deep Ensembles for ROI-Based Thyroid Nodule Ultrasound Classification Under Dataset Shift: A Retrospective Evaluation**|Md. Sadibul Hasan Sadib et.al.|[2607.12075](http://arxiv.org/abs/2607.12075)|null|
@@ -43,6 +44,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-12**|**Inference-Time Orthogonal Seeding Enables Geometry-Aligned 3D Organ Segmentation for Slice-Propagation Methods**|Md Rakibul Haque et.al.|[2608.12658](http://arxiv.org/abs/2608.12658)|null|
 |**2026-08-12**|**M-Net: Integrating Spectral Features and Physical Field Operators into Deep Learning for Medical Image Segmentation**|Jing Zhu et.al.|[2608.12196](http://arxiv.org/abs/2608.12196)|null|
 |**2026-08-12**|**Predicting Functions, Not Features: KANs with Function-Space Joint-Embedding Predictive Learning for Medical Image Segmentation**|Yungeng Liu et.al.|[2608.12050](http://arxiv.org/abs/2608.12050)|null|
 |**2026-08-12**|**KANResDiff: Learning Local Residual Diffusion via Kolmogorov-Arnold Network for Ambiguous Medical Image Segmentation**|Fanding Li et.al.|[2608.11617](http://arxiv.org/abs/2608.11617)|null|
