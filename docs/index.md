@@ -45,6 +45,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-17**|**What Matters is the Prompt: Prompt Sensitivity and Prompt Generation in Foundation Models for Lung Nodule Segmentation**|Jorge F. Lazo et.al.|[2608.16832](http://arxiv.org/abs/2608.16832)|null|
+|**2026-08-17**|**Adaptive Post-Processing Drives Instance-Level Detection in Stroke Lesion Segmentation**|Qinghui Liu et.al.|[2608.16377](http://arxiv.org/abs/2608.16377)|null|
+|**2026-08-17**|**SUGFW+: An Uncertainty-guided Feature Weighting Framework for Cold Start Active Adaptation of SAM in Medical Image Segmentation**|Xiaochuan Ma et.al.|[2608.16110](http://arxiv.org/abs/2608.16110)|null|
+|**2026-08-16**|**EA-LiteUNet: An Edge-Adaptive and Resource-Efficient U-Net for Boundary-Sensitive Dermoscopic Image Segmentation**|Wang Jiangtao et.al.|[2608.15537](http://arxiv.org/abs/2608.15537)|null|
+|**2026-08-14**|**Beyond Boundary Noise: Aggregated Aleatoric Uncertainty Fails to Capture Presence Ambiguity in 3D Lung Nodule Segmentation**|Simon Baur et.al.|[2608.14766](http://arxiv.org/abs/2608.14766)|null|
 |**2026-08-13**|**MedPlex: Deep Vision-Language Co-Adaptation for Clinically Grounded Medical Segmentation**|Rafi Ibn Sultan et.al.|[2608.13690](http://arxiv.org/abs/2608.13690)|null|
 |**2026-08-13**|**What to Preserve, Where to Adapt: A Depth-Wise Analysis of Forgetting in Continual Gynecological Image Segmentation**|Amal Saqib et.al.|[2608.13660](http://arxiv.org/abs/2608.13660)|null|
 |**2026-08-12**|**Inference-Time Orthogonal Seeding Enables Geometry-Aligned 3D Organ Segmentation for Slice-Propagation Methods**|Md Rakibul Haque et.al.|[2608.12658](http://arxiv.org/abs/2608.12658)|null|
