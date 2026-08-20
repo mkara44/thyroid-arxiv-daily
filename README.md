@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 #  Thyroid & Ultrasound AI ArXiv Daily
-### Automatically Updated on 2026.08.19
+### Automatically Updated on 2026.08.20
  
 
 <details>
@@ -45,12 +45,14 @@
 |**2025-10-30**|**Artificial Intelligence-Enabled Analysis of Radiology Reports: Epidemiology and Consequences of Incidental Thyroid Findings**|Felipe Larios et.al.|[2510.26032](http://arxiv.org/abs/2510.26032)|null|
 |**2025-10-27**|**ProfileXAI: User-Adaptive Explainable AI**|Gilber A. Corrales et.al.|[2510.22998](http://arxiv.org/abs/2510.22998)|null|
 
-<p align=right>(<a href=#updated-on-20260819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
 
 ## Medical Ultrasound AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-18**|**MaLViL: Multi-axis Low-rank Vision-LSTM for Medical Image Segmentation**|Afshin Bozorgpour et.al.|[2608.17635](http://arxiv.org/abs/2608.17635)|null|
+|**2026-08-18**|**TEAMS: Text-prompted spatiotEmporal dual-heAd Mamba Snake**|Ruicheng Zhang et.al.|[2608.17421](http://arxiv.org/abs/2608.17421)|null|
 |**2026-08-17**|**What Matters is the Prompt: Prompt Sensitivity and Prompt Generation in Foundation Models for Lung Nodule Segmentation**|Jorge F. Lazo et.al.|[2608.16832](http://arxiv.org/abs/2608.16832)|null|
 |**2026-08-17**|**Adaptive Post-Processing Drives Instance-Level Detection in Stroke Lesion Segmentation**|Qinghui Liu et.al.|[2608.16377](http://arxiv.org/abs/2608.16377)|null|
 |**2026-08-17**|**SUGFW+: An Uncertainty-guided Feature Weighting Framework for Cold Start Active Adaptation of SAM in Medical Image Segmentation**|Xiaochuan Ma et.al.|[2608.16110](http://arxiv.org/abs/2608.16110)|null|
@@ -291,7 +293,7 @@
 |**2026-02-04**|**An Intuitionistic Fuzzy Logic Driven UNet architecture: Application to Brain Image segmentation**|Hanuman Verma et.al.|[2602.04227](http://arxiv.org/abs/2602.04227)|null|
 |**2026-02-03**|**MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning**|Shengyuan Liu et.al.|[2602.03320](http://arxiv.org/abs/2602.03320)|null|
 
-<p align=right>(<a href=#updated-on-20260819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
 
 Notes: 
 
