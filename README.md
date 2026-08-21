@@ -51,6 +51,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-20**|**Prompt-Conditioned Channel Attention for Hierarchical Feature Modulation toward Anatomy-Agnostic Segmentation**|Mosharof Hossain et.al.|[2608.20229](http://arxiv.org/abs/2608.20229)|null|
 |**2026-08-19**|**A Few Cases Are All You Need: An Empirical Study of Annotation-Efficient LoRA Fine-Tuning of MedSAM3**|Sachin Dudda Nagaraju et.al.|[2608.18731](http://arxiv.org/abs/2608.18731)|null|
 |**2026-08-18**|**MaLViL: Multi-axis Low-rank Vision-LSTM for Medical Image Segmentation**|Afshin Bozorgpour et.al.|[2608.17635](http://arxiv.org/abs/2608.17635)|null|
 |**2026-08-18**|**TEAMS: Text-prompted spatiotEmporal dual-heAd Mamba Snake**|Ruicheng Zhang et.al.|[2608.17421](http://arxiv.org/abs/2608.17421)|null|
