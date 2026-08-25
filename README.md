@@ -51,6 +51,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-23**|**GET: Generative Embedding Translation for Medical Image Segmentation**|Md Maklachur Rahman et.al.|[2608.22619](http://arxiv.org/abs/2608.22619)|null|
+|**2026-08-23**|**SymmAdapt: Symmetrical Flow Matching for Source-Free Domain Adaptation in Medical Image Segmentation**|Tal Grossman et.al.|[2608.22532](http://arxiv.org/abs/2608.22532)|null|
+|**2026-08-23**|**CiUNet: A Hybrid Swin-CNN UNet for Medical Image Segmentation**|Bin Dong et.al.|[2608.22281](http://arxiv.org/abs/2608.22281)|null|
 |**2026-08-21**|**When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning**|Marko Haralović et.al.|[2608.21300](http://arxiv.org/abs/2608.21300)|null|
 |**2026-08-21**|**LHMCF-Net: A Learned Hyperbolic Mean Curvature Flow Network for Medical Images Segmentation**|Shuangshuang Duan et.al.|[2608.20942](http://arxiv.org/abs/2608.20942)|null|
 |**2026-08-20**|**Prompt-Conditioned Channel Attention for Hierarchical Feature Modulation toward Anatomy-Agnostic Segmentation**|Mosharof Hossain et.al.|[2608.20229](http://arxiv.org/abs/2608.20229)|null|
