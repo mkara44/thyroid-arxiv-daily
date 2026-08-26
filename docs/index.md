@@ -45,6 +45,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-25**|**It depends: Incorporating correlations for joint aleatoric and epistemic uncertainties of high-dimensional output spaces**|Leonhard F. Feiner et.al.|[2608.24518](http://arxiv.org/abs/2608.24518)|null|
 |**2026-08-23**|**GET: Generative Embedding Translation for Medical Image Segmentation**|Md Maklachur Rahman et.al.|[2608.22619](http://arxiv.org/abs/2608.22619)|null|
 |**2026-08-23**|**SymmAdapt: Symmetrical Flow Matching for Source-Free Domain Adaptation in Medical Image Segmentation**|Tal Grossman et.al.|[2608.22532](http://arxiv.org/abs/2608.22532)|null|
 |**2026-08-23**|**CiUNet: A Hybrid Swin-CNN UNet for Medical Image Segmentation**|Bin Dong et.al.|[2608.22281](http://arxiv.org/abs/2608.22281)|null|
