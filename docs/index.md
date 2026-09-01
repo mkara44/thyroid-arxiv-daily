@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-28**|**Medical Foundation Model Features as Perceptual Loss for Brain MRI Contrast Dose Simulation**|Changsheng Fang et.al.|[2608.28773](http://arxiv.org/abs/2608.28773)|null|
 |**2026-08-14**|**CMCNet: Aligning Ultrasound Image Embeddings with Textual TI-RADS Representations for Fine-Grained Thyroid Classification**|Bingxin Yu et.al.|[2608.13939](http://arxiv.org/abs/2608.13939)|null|
 |**2026-08-12**|**Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting**|Haifan Gong et.al.|[2608.12590](http://arxiv.org/abs/2608.12590)|null|
 |**2026-08-02**|**UCBound-Net: Uncertainty-Guided Boundary-Aware Continual Learning for Domain-Incremental Ultrasound Segmentation**|Mohammad Amanour Rahman et.al.|[2608.01518](http://arxiv.org/abs/2608.01518)|null|
@@ -45,12 +46,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-30**|**MedSegBenchmarker: A Raw-Count-First Framework for Controlled 2D Medical Image Segmentation Benchmarks**|Vanessa Borst et.al.|[2608.29677](http://arxiv.org/abs/2608.29677)|null|
+|**2026-08-29**|**When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning**|Marko Haralović et.al.|[2608.21300](http://arxiv.org/abs/2608.21300)|null|
 |**2026-08-26**|**Unsupervised Anatomical Feature Learning via Diffusion Models: Enhanced Medical Image Segmentation with Denoising Diffusion Probabilistic Models**|Akshat G et.al.|[2608.25693](http://arxiv.org/abs/2608.25693)|null|
 |**2026-08-25**|**It depends: Incorporating correlations for joint aleatoric and epistemic uncertainties of high-dimensional output spaces**|Leonhard F. Feiner et.al.|[2608.24518](http://arxiv.org/abs/2608.24518)|null|
 |**2026-08-23**|**GET: Generative Embedding Translation for Medical Image Segmentation**|Md Maklachur Rahman et.al.|[2608.22619](http://arxiv.org/abs/2608.22619)|null|
 |**2026-08-23**|**SymmAdapt: Symmetrical Flow Matching for Source-Free Domain Adaptation in Medical Image Segmentation**|Tal Grossman et.al.|[2608.22532](http://arxiv.org/abs/2608.22532)|null|
 |**2026-08-23**|**CiUNet: A Hybrid Swin-CNN UNet for Medical Image Segmentation**|Bin Dong et.al.|[2608.22281](http://arxiv.org/abs/2608.22281)|null|
-|**2026-08-21**|**When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning**|Marko Haralović et.al.|[2608.21300](http://arxiv.org/abs/2608.21300)|null|
 |**2026-08-21**|**LHMCF-Net: A Learned Hyperbolic Mean Curvature Flow Network for Medical Images Segmentation**|Shuangshuang Duan et.al.|[2608.20942](http://arxiv.org/abs/2608.20942)|null|
 |**2026-08-20**|**Prompt-Conditioned Channel Attention for Hierarchical Feature Modulation toward Anatomy-Agnostic Segmentation**|Mosharof Hossain et.al.|[2608.20229](http://arxiv.org/abs/2608.20229)|null|
 |**2026-08-19**|**A Few Cases Are All You Need: An Empirical Study of Annotation-Efficient LoRA Fine-Tuning of MedSAM3**|Sachin Dudda Nagaraju et.al.|[2608.18731](http://arxiv.org/abs/2608.18731)|null|
