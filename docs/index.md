@@ -46,6 +46,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**Feature Reconfiguration With Visual Prior for Medical Lesion Segmentation**|Yinan Liu et.al.|[2609.03535](http://arxiv.org/abs/2609.03535)|null|
+|**2026-09-02**|**Improving Clinical Target Volume Segmentation Accuracy using Anatomical Priors and Active Learning for the AGITG TOPGEAR Clinical Trial**|Phillip Chlap et.al.|[2609.03186](http://arxiv.org/abs/2609.03186)|null|
 |**2026-09-02**|**Characterizing Text Branch Sensitivity in Medical Vision-Language Segmentation via Evidence Decoupling**|Ziquan Liu et.al.|[2609.02663](http://arxiv.org/abs/2609.02663)|null|
 |**2026-09-02**|**SAUF-Net: Structure--Appearance Representation Learning with Uncertainty Feedback for Semi-Supervised Medical Image Segmentation**|Qin Lu et.al.|[2609.02247](http://arxiv.org/abs/2609.02247)|null|
 |**2026-09-01**|**GazeRefine: Expert Gaze as a Test-Time Prompt for Training-Free Medical Image Segmentation**|Mohammed Oussama Benyahia et.al.|[2609.01310](http://arxiv.org/abs/2609.01310)|null|
