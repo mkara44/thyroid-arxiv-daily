@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-28**|**Medical Foundation Model Features as Perceptual Loss for Brain MRI Contrast Dose Simulation**|Changsheng Fang et.al.|[2608.28773](http://arxiv.org/abs/2608.28773)|null|
+|**2026-09-04**|**Medical Foundation Model Features as Perceptual Loss for Brain MRI Contrast Dose Simulation**|Changsheng Fang et.al.|[2608.28773](http://arxiv.org/abs/2608.28773)|null|
 |**2026-08-14**|**CMCNet: Aligning Ultrasound Image Embeddings with Textual TI-RADS Representations for Fine-Grained Thyroid Classification**|Bingxin Yu et.al.|[2608.13939](http://arxiv.org/abs/2608.13939)|null|
 |**2026-08-12**|**Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting**|Haifan Gong et.al.|[2608.12590](http://arxiv.org/abs/2608.12590)|null|
 |**2026-08-02**|**UCBound-Net: Uncertainty-Guided Boundary-Aware Continual Learning for Domain-Incremental Ultrasound Segmentation**|Mohammad Amanour Rahman et.al.|[2608.01518](http://arxiv.org/abs/2608.01518)|null|
@@ -52,8 +52,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-07**|**Latent-to-Latent Flow for Volumetric Stochastic Segmentation**|Omar Todd et.al.|[2609.07460](http://arxiv.org/abs/2609.07460)|null|
+|**2026-09-05**|**Feature Reconfiguration With Visual Prior for Medical Lesion Segmentation**|Yinan Liu et.al.|[2609.03535](http://arxiv.org/abs/2609.03535)|null|
 |**2026-09-04**|**CoMLP: Cooperatively-Gated MLPs for Fine-Grained Cross-Modal Information Fusion in Medical Image Segmentation**|Mingyuan Meng et.al.|[2609.04781](http://arxiv.org/abs/2609.04781)|null|
-|**2026-09-03**|**Feature Reconfiguration With Visual Prior for Medical Lesion Segmentation**|Yinan Liu et.al.|[2609.03535](http://arxiv.org/abs/2609.03535)|null|
 |**2026-09-02**|**Improving Clinical Target Volume Segmentation Accuracy using Anatomical Priors and Active Learning for the AGITG TOPGEAR Clinical Trial**|Phillip Chlap et.al.|[2609.03186](http://arxiv.org/abs/2609.03186)|null|
 |**2026-09-02**|**Characterizing Text Branch Sensitivity in Medical Vision-Language Segmentation via Evidence Decoupling**|Ziquan Liu et.al.|[2609.02663](http://arxiv.org/abs/2609.02663)|null|
 |**2026-09-02**|**SAUF-Net: Structure--Appearance Representation Learning with Uncertainty Feedback for Semi-Supervised Medical Image Segmentation**|Qin Lu et.al.|[2609.02247](http://arxiv.org/abs/2609.02247)|null|
