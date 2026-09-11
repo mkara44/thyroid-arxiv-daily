@@ -52,8 +52,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-10**|**From Few-Shot Segmentation to Clinician-in-the-Loop Medical Image Analysis**|Yazhou Zhu et.al.|[2609.10001](http://arxiv.org/abs/2609.10001)|null|
 |**2026-09-09**|**When Fusion Fails: Corruption-Aware Rebalanced Fusion for Multi-Modal Medical Image Segmentation**|Yuchen Pei et.al.|[2609.10261](http://arxiv.org/abs/2609.10261)|null|
-|**2026-09-09**|**From Few-Shot Segmentation to Clinician-in-the-Loop Medical Image Analysis**|Yazhou Zhu et.al.|[2609.10001](http://arxiv.org/abs/2609.10001)|null|
 |**2026-09-09**|**LightMedSeg-ISLES: Stroke Lesion Segmentation with 81x Fewer Parameters than nnU-Net**|Giorgi Nikvashvili et.al.|[2609.09634](http://arxiv.org/abs/2609.09634)|null|
 |**2026-09-07**|**Latent-to-Latent Flow for Volumetric Stochastic Segmentation**|Omar Todd et.al.|[2609.07460](http://arxiv.org/abs/2609.07460)|null|
 |**2026-09-05**|**Feature Reconfiguration With Visual Prior for Medical Lesion Segmentation**|Yinan Liu et.al.|[2609.03535](http://arxiv.org/abs/2609.03535)|null|
