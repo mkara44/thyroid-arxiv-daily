@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 #  Thyroid & Ultrasound AI ArXiv Daily
-### Automatically Updated on 2026.09.15
+### Automatically Updated on 2026.09.16
  
 
 <details>
@@ -46,15 +46,18 @@
 |**2025-10-30**|**Artificial Intelligence-Enabled Analysis of Radiology Reports: Epidemiology and Consequences of Incidental Thyroid Findings**|Felipe Larios et.al.|[2510.26032](http://arxiv.org/abs/2510.26032)|null|
 |**2025-10-27**|**ProfileXAI: User-Adaptive Explainable AI**|Gilber A. Corrales et.al.|[2510.22998](http://arxiv.org/abs/2510.22998)|null|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Medical Ultrasound AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-14**|**ThreshGuide: Class-Aware Labeled-Guided Thresholding for Semi-Supervised 3D Abdominal Multi-Organ Segmentation**|Hongyu Liu et.al.|[2609.14943](http://arxiv.org/abs/2609.14943)|null|
+|**2026-09-11**|**Unified CT and MRI Pancreas Segmentation for Label-Efficient Cross-Modality Subregion Transfer**|Ziliang Hong et.al.|[2609.13043](http://arxiv.org/abs/2609.13043)|null|
 |**2026-09-10**|**From Few-Shot Segmentation to Clinician-in-the-Loop Medical Image Analysis**|Yazhou Zhu et.al.|[2609.10001](http://arxiv.org/abs/2609.10001)|null|
 |**2026-09-09**|**When Fusion Fails: Corruption-Aware Rebalanced Fusion for Multi-Modal Medical Image Segmentation**|Yuchen Pei et.al.|[2609.10261](http://arxiv.org/abs/2609.10261)|null|
 |**2026-09-09**|**LightMedSeg-ISLES: Stroke Lesion Segmentation with 81x Fewer Parameters than nnU-Net**|Giorgi Nikvashvili et.al.|[2609.09634](http://arxiv.org/abs/2609.09634)|null|
+|**2026-09-07**|**CANAL: Channel-Aware Noise Allocation for Differentially Private Feature Distillation in Medical Image Segmentation**|Armaghan Butt et.al.|[2609.13271](http://arxiv.org/abs/2609.13271)|null|
 |**2026-09-07**|**Latent-to-Latent Flow for Volumetric Stochastic Segmentation**|Omar Todd et.al.|[2609.07460](http://arxiv.org/abs/2609.07460)|null|
 |**2026-09-05**|**Feature Reconfiguration With Visual Prior for Medical Lesion Segmentation**|Yinan Liu et.al.|[2609.03535](http://arxiv.org/abs/2609.03535)|null|
 |**2026-09-04**|**CoMLP: Cooperatively-Gated MLPs for Fine-Grained Cross-Modal Information Fusion in Medical Image Segmentation**|Mingyuan Meng et.al.|[2609.04781](http://arxiv.org/abs/2609.04781)|null|
@@ -314,7 +317,7 @@
 |**2026-02-04**|**An Intuitionistic Fuzzy Logic Driven UNet architecture: Application to Brain Image segmentation**|Hanuman Verma et.al.|[2602.04227](http://arxiv.org/abs/2602.04227)|null|
 |**2026-02-03**|**MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning**|Shengyuan Liu et.al.|[2602.03320](http://arxiv.org/abs/2602.03320)|null|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 Notes: 
 
