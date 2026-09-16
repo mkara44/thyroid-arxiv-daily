@@ -52,6 +52,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**De-GAN - Dynamic Parameter Tuned GAN for 3D Medical Image Segmentation: A Step Towards Generalisation**|Zoha Usama et.al.|[2609.16755](http://arxiv.org/abs/2609.16755)|null|
 |**2026-09-14**|**ThreshGuide: Class-Aware Labeled-Guided Thresholding for Semi-Supervised 3D Abdominal Multi-Organ Segmentation**|Hongyu Liu et.al.|[2609.14943](http://arxiv.org/abs/2609.14943)|null|
 |**2026-09-11**|**Unified CT and MRI Pancreas Segmentation for Label-Efficient Cross-Modality Subregion Transfer**|Ziliang Hong et.al.|[2609.13043](http://arxiv.org/abs/2609.13043)|null|
 |**2026-09-10**|**From Few-Shot Segmentation to Clinician-in-the-Loop Medical Image Analysis**|Yazhou Zhu et.al.|[2609.10001](http://arxiv.org/abs/2609.10001)|null|
