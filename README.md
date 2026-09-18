@@ -52,7 +52,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-17**|**G^2RA-NET: Graph-based Cross-Slice Relation Modeling with Attention Gating for Medical Image Segmentation**|Shengye Wang et.al.|[2609.20088](http://arxiv.org/abs/2609.20088)|null|
 |**2026-09-16**|**Evolving Error States: Failure-Aware Progressive Repair for Ultrasound Lesion Segmentation**|Ziliang Wang et.al.|[2609.18256](http://arxiv.org/abs/2609.18256)|null|
+|**2026-09-15**|**Optimal Transport Metric Learning for Feature Alignment in Partially Supervised Segmentation**|Dakini Mallam Garba et.al.|[2609.19176](http://arxiv.org/abs/2609.19176)|null|
 |**2026-09-15**|**De-GAN - Dynamic Parameter Tuned GAN for 3D Medical Image Segmentation: A Step Towards Generalisation**|Zoha Usama et.al.|[2609.16755](http://arxiv.org/abs/2609.16755)|null|
 |**2026-09-14**|**ThreshGuide: Class-Aware Labeled-Guided Thresholding for Semi-Supervised 3D Abdominal Multi-Organ Segmentation**|Hongyu Liu et.al.|[2609.14943](http://arxiv.org/abs/2609.14943)|null|
 |**2026-09-11**|**Unified CT and MRI Pancreas Segmentation for Label-Efficient Cross-Modality Subregion Transfer**|Ziliang Hong et.al.|[2609.13043](http://arxiv.org/abs/2609.13043)|null|
