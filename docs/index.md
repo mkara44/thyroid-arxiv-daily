@@ -46,6 +46,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-20**|**Confidence-Aware Teacher-Student Distillation for 3D Medical Segmentation**|Georgios Triantafyllou et.al.|[2609.23815](http://arxiv.org/abs/2609.23815)|null|
 |**2026-09-18**|**When Online Adaptation Hurts: Parameter-Frozen Test-Time Ensembling for Continual Medical Image Segmentation**|Ruijie Huang et.al.|[2609.21412](http://arxiv.org/abs/2609.21412)|null|
 |**2026-09-17**|**G^2RA-NET: Graph-based Cross-Slice Relation Modeling with Attention Gating for Medical Image Segmentation**|Shengye Wang et.al.|[2609.20088](http://arxiv.org/abs/2609.20088)|null|
 |**2026-09-16**|**Evolving Error States: Failure-Aware Progressive Repair for Ultrasound Lesion Segmentation**|Ziliang Wang et.al.|[2609.18256](http://arxiv.org/abs/2609.18256)|null|
