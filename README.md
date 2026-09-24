@@ -52,6 +52,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-23**|**LightMIS: Ultra-Lightweight Medical Image Segmentation Without a Stage-Wise Decoder**|Andrei Arhire et.al.|[2609.28327](http://arxiv.org/abs/2609.28327)|null|
+|**2026-09-23**|**Learning Spectral Allocation: A Fractional Diffusion Framework for Adaptive Volumetric Segmentation**|Yi-Hui Shen et.al.|[2609.27217](http://arxiv.org/abs/2609.27217)|null|
 |**2026-09-22**|**GAD-MambaUNet: Direction-Group Mamba with Gradient-Adaptive DINOv3 Distillation for Lightweight Medical Image Segmentation**|Fang Wang et.al.|[2609.26729](http://arxiv.org/abs/2609.26729)|null|
 |**2026-09-20**|**Confidence-Aware Teacher-Student Distillation for 3D Medical Segmentation**|Georgios Triantafyllou et.al.|[2609.23815](http://arxiv.org/abs/2609.23815)|null|
 |**2026-09-18**|**When Online Adaptation Hurts: Parameter-Frozen Test-Time Ensembling for Continual Medical Image Segmentation**|Ruijie Huang et.al.|[2609.21412](http://arxiv.org/abs/2609.21412)|null|
