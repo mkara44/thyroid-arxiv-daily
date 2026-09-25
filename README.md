@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-23**|**TAM-Chain: Multi-Scale Thyroid Cytology Classification via Absorbing Markov Chains and Shannon Entropy Uncertainty Quantification for False-Negative Suppression and Domain-Shift Adaptation**|Hai Pham Ngoc et.al.|[2609.28590](http://arxiv.org/abs/2609.28590)|null|
 |**2026-09-04**|**Medical Foundation Model Features as Perceptual Loss for Brain MRI Contrast Dose Simulation**|Changsheng Fang et.al.|[2608.28773](http://arxiv.org/abs/2608.28773)|null|
 |**2026-08-14**|**CMCNet: Aligning Ultrasound Image Embeddings with Textual TI-RADS Representations for Fine-Grained Thyroid Classification**|Bingxin Yu et.al.|[2608.13939](http://arxiv.org/abs/2608.13939)|null|
 |**2026-08-12**|**Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting**|Haifan Gong et.al.|[2608.12590](http://arxiv.org/abs/2608.12590)|null|
@@ -52,6 +53,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-24**|**Lightweight Vision Transformer-Based U-Net for Brain Tumor Segmentation from MRI**|Sheekar Banerjee et.al.|[2609.29785](http://arxiv.org/abs/2609.29785)|null|
+|**2026-09-24**|**Multimodal Routing and Region Refinement for Language-Guided Medical Image Segmentation**|Md Maklachur Rahman et.al.|[2609.28860](http://arxiv.org/abs/2609.28860)|null|
 |**2026-09-23**|**LightMIS: Ultra-Lightweight Medical Image Segmentation Without a Stage-Wise Decoder**|Andrei Arhire et.al.|[2609.28327](http://arxiv.org/abs/2609.28327)|null|
 |**2026-09-23**|**Learning Spectral Allocation: A Fractional Diffusion Framework for Adaptive Volumetric Segmentation**|Yi-Hui Shen et.al.|[2609.27217](http://arxiv.org/abs/2609.27217)|null|
 |**2026-09-22**|**GAD-MambaUNet: Direction-Group Mamba with Gradient-Adaptive DINOv3 Distillation for Lightweight Medical Image Segmentation**|Fang Wang et.al.|[2609.26729](http://arxiv.org/abs/2609.26729)|null|
