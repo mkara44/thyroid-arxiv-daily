@@ -49,7 +49,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-09-24**|**Lightweight Vision Transformer-Based U-Net for Brain Tumor Segmentation from MRI**|Sheekar Banerjee et.al.|[2609.29785](http://arxiv.org/abs/2609.29785)|null|
 |**2026-09-24**|**Multimodal Routing and Region Refinement for Language-Guided Medical Image Segmentation**|Md Maklachur Rahman et.al.|[2609.28860](http://arxiv.org/abs/2609.28860)|null|
-|**2026-09-23**|**LightMIS: Ultra-Lightweight Medical Image Segmentation Without a Stage-Wise Decoder**|Andrei Arhire et.al.|[2609.28327](http://arxiv.org/abs/2609.28327)|null|
+|**2026-09-24**|**LightMIS: Ultra-Lightweight Medical Image Segmentation Without a Stage-Wise Decoder**|Andrei Arhire et.al.|[2609.28327](http://arxiv.org/abs/2609.28327)|null|
 |**2026-09-23**|**Learning Spectral Allocation: A Fractional Diffusion Framework for Adaptive Volumetric Segmentation**|Yi-Hui Shen et.al.|[2609.27217](http://arxiv.org/abs/2609.27217)|null|
 |**2026-09-22**|**GAD-MambaUNet: Direction-Group Mamba with Gradient-Adaptive DINOv3 Distillation for Lightweight Medical Image Segmentation**|Fang Wang et.al.|[2609.26729](http://arxiv.org/abs/2609.26729)|null|
 |**2026-09-20**|**Confidence-Aware Teacher-Student Distillation for 3D Medical Segmentation**|Georgios Triantafyllou et.al.|[2609.23815](http://arxiv.org/abs/2609.23815)|null|
