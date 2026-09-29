@@ -47,6 +47,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**GR-FM: Geometrically Regularized Flow Matching for SDF-Based Medical Image Segmentation**|Yuxin Ai et.al.|[2609.35006](http://arxiv.org/abs/2609.35006)|null|
+|**2026-09-28**|**SegBanana: Steering Unified Multimodal Models into Medical Segmenters**|Xiaoye Liang et.al.|[2609.34235](http://arxiv.org/abs/2609.34235)|null|
+|**2026-09-27**|**Parameter-Efficient 3D Segmentation of Liver and Liver tumors: Depthwise factorization Scales Better Than Dense Convolution with Spatial Dimensionality**|Adham M. Alkhadrawi et.al.|[2609.33077](http://arxiv.org/abs/2609.33077)|null|
 |**2026-09-24**|**Lightweight Vision Transformer-Based U-Net for Brain Tumor Segmentation from MRI**|Sheekar Banerjee et.al.|[2609.29785](http://arxiv.org/abs/2609.29785)|null|
 |**2026-09-24**|**Multimodal Routing and Region Refinement for Language-Guided Medical Image Segmentation**|Md Maklachur Rahman et.al.|[2609.28860](http://arxiv.org/abs/2609.28860)|null|
 |**2026-09-24**|**LightMIS: Ultra-Lightweight Medical Image Segmentation Without a Stage-Wise Decoder**|Andrei Arhire et.al.|[2609.28327](http://arxiv.org/abs/2609.28327)|null|
