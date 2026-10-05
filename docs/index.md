@@ -47,6 +47,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**Fed-ADApt: Federated Anytime Depth Adaptation for Resource-Aware Medical Image Segmentation**|Abhijeet Parida et.al.|[2610.03474](http://arxiv.org/abs/2610.03474)|null|
 |**2026-10-01**|**Uncertainty-Guided Handshake: Efficient Human-in-the-Loop Refinement for Surgical-Grade Glioma Segmentation**|Samuel Hart et.al.|[2610.01452](http://arxiv.org/abs/2610.01452)|null|
 |**2026-09-28**|**GR-FM: Geometrically Regularized Flow Matching for SDF-Based Medical Image Segmentation**|Yuxin Ai et.al.|[2609.35006](http://arxiv.org/abs/2609.35006)|null|
 |**2026-09-28**|**SegBanana: Steering Unified Multimodal Models into Medical Segmenters**|Xiaoye Liang et.al.|[2609.34235](http://arxiv.org/abs/2609.34235)|null|
