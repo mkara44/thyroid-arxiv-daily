@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-03**|**ThyCLIPNet: A BiomedCLIP-Guided Lightweight Attention-Enhanced DeepLabV3+ Framework for Robust Thyroid Nodule Segmentation**|Tasnim Jahan et.al.|[2610.04743](http://arxiv.org/abs/2610.04743)|null|
 |**2026-09-23**|**TAM-Chain: Multi-Scale Thyroid Cytology Classification via Absorbing Markov Chains and Shannon Entropy Uncertainty Quantification for False-Negative Suppression and Domain-Shift Adaptation**|Hai Pham Ngoc et.al.|[2609.28590](http://arxiv.org/abs/2609.28590)|null|
 |**2026-09-04**|**Medical Foundation Model Features as Perceptual Loss for Brain MRI Contrast Dose Simulation**|Changsheng Fang et.al.|[2608.28773](http://arxiv.org/abs/2608.28773)|null|
 |**2026-08-14**|**CMCNet: Aligning Ultrasound Image Embeddings with Textual TI-RADS Representations for Fine-Grained Thyroid Classification**|Bingxin Yu et.al.|[2608.13939](http://arxiv.org/abs/2608.13939)|null|
@@ -53,6 +54,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-04**|**CoDG-Net: Structure-Guided Style Diffusion and Collaborative Learning to Mitigate Catastrophic Forgetting in Medical Image Domain Generalization**|Yucheng Song et.al.|[2610.05053](http://arxiv.org/abs/2610.05053)|null|
+|**2026-10-03**|**Active-DiNTS: Active Differentiable Network Topology Search**|Gean Trindade Pereira et.al.|[2610.04787](http://arxiv.org/abs/2610.04787)|null|
 |**2026-10-02**|**Fed-ADApt: Federated Anytime Depth Adaptation for Resource-Aware Medical Image Segmentation**|Abhijeet Parida et.al.|[2610.03474](http://arxiv.org/abs/2610.03474)|null|
 |**2026-10-01**|**Uncertainty-Guided Handshake: Efficient Human-in-the-Loop Refinement for Surgical-Grade Glioma Segmentation**|Samuel Hart et.al.|[2610.01452](http://arxiv.org/abs/2610.01452)|null|
 |**2026-09-28**|**GR-FM: Geometrically Regularized Flow Matching for SDF-Based Medical Image Segmentation**|Yuxin Ai et.al.|[2609.35006](http://arxiv.org/abs/2609.35006)|null|
