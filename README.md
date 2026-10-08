@@ -54,6 +54,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**Quantifying Volumetric Risk: Class-Aware Asymmetric Weighted Conformal Prediction for 3D Medical Image Segmentation**|Shadi Alijani et.al.|[2610.09392](http://arxiv.org/abs/2610.09392)|null|
 |**2026-10-04**|**CoDG-Net: Structure-Guided Style Diffusion and Collaborative Learning to Mitigate Catastrophic Forgetting in Medical Image Domain Generalization**|Yucheng Song et.al.|[2610.05053](http://arxiv.org/abs/2610.05053)|null|
 |**2026-10-03**|**UniPro: Unified Multi-Mode Medical Image Segmentation from 2D Images to 3D Volumes via Propagation**|Bangwei Guo et.al.|[2610.06938](http://arxiv.org/abs/2610.06938)|null|
 |**2026-10-03**|**Active-DiNTS: Active Differentiable Network Topology Search**|Gean Trindade Pereira et.al.|[2610.04787](http://arxiv.org/abs/2610.04787)|null|
