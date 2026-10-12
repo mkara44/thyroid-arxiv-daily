@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-09**|**Thyroid Nodule Segmentation in Ultrasound Images with Conformal Uncertainty Estimation**|Francesco Teodori et.al.|[2610.13604](http://arxiv.org/abs/2610.13604)|null|
+|**2026-10-09**|**Radiomics-Based Thyroid Nodule Classification with Label-Conditional Conformal Prediction**|Laura Testa et.al.|[2610.13387](http://arxiv.org/abs/2610.13387)|null|
+|**2026-10-08**|**Ultrasound and Magnetic Resonance Elastography of the Neck: Biomechanical Basis, Clinical Applications and Methodological Challenges**|Rashedul Hasan et.al.|[2610.12584](http://arxiv.org/abs/2610.12584)|null|
 |**2026-10-03**|**ThyCLIPNet: A BiomedCLIP-Guided Lightweight Attention-Enhanced DeepLabV3+ Framework for Robust Thyroid Nodule Segmentation**|Tasnim Jahan et.al.|[2610.04743](http://arxiv.org/abs/2610.04743)|null|
 |**2026-09-23**|**TAM-Chain: Multi-Scale Thyroid Cytology Classification via Absorbing Markov Chains and Shannon Entropy Uncertainty Quantification for False-Negative Suppression and Domain-Shift Adaptation**|Hai Pham Ngoc et.al.|[2609.28590](http://arxiv.org/abs/2609.28590)|null|
 |**2026-09-04**|**Medical Foundation Model Features as Perceptual Loss for Brain MRI Contrast Dose Simulation**|Changsheng Fang et.al.|[2608.28773](http://arxiv.org/abs/2608.28773)|null|
