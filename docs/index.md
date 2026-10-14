@@ -51,6 +51,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**Human-Inspired Asymmetric Collaboration for Dual-Student Semi-Supervised Medical Image Segmentation**|Huiyi Ren et.al.|[2610.18133](http://arxiv.org/abs/2610.18133)|null|
+|**2026-10-12**|**MID: Mask-Image Distributional Divergence for Evaluating Medical Image Segmentation**|Vincenzo Marcianò et.al.|[2610.17354](http://arxiv.org/abs/2610.17354)|null|
+|**2026-10-10**|**Text-Guided Medical Image Segmentation via Residual Aggregation and Dense Alignment Representations**|Jie Gui et.al.|[2610.14944](http://arxiv.org/abs/2610.14944)|null|
 |**2026-10-07**|**Quantifying Volumetric Risk: Class-Aware Asymmetric Weighted Conformal Prediction for 3D Medical Image Segmentation**|Shadi Alijani et.al.|[2610.09392](http://arxiv.org/abs/2610.09392)|null|
 |**2026-10-04**|**CoDG-Net: Structure-Guided Style Diffusion and Collaborative Learning to Mitigate Catastrophic Forgetting in Medical Image Domain Generalization**|Yucheng Song et.al.|[2610.05053](http://arxiv.org/abs/2610.05053)|null|
 |**2026-10-03**|**UniPro: Unified Multi-Mode Medical Image Segmentation from 2D Images to 3D Volumes via Propagation**|Bangwei Guo et.al.|[2610.06938](http://arxiv.org/abs/2610.06938)|null|
