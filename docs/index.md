@@ -51,6 +51,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**Adaptive Computation with Conformal Certification**|Shehtab Zaman et.al.|[2610.19189](http://arxiv.org/abs/2610.19189)|null|
 |**2026-10-13**|**Human-Inspired Asymmetric Collaboration for Dual-Student Semi-Supervised Medical Image Segmentation**|Huiyi Ren et.al.|[2610.18133](http://arxiv.org/abs/2610.18133)|null|
 |**2026-10-12**|**MID: Mask-Image Distributional Divergence for Evaluating Medical Image Segmentation**|Vincenzo Marcianò et.al.|[2610.17354](http://arxiv.org/abs/2610.17354)|null|
 |**2026-10-10**|**Text-Guided Medical Image Segmentation via Residual Aggregation and Dense Alignment Representations**|Jie Gui et.al.|[2610.14944](http://arxiv.org/abs/2610.14944)|null|
