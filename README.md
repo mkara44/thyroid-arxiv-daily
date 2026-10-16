@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**Risk-Routed Implicit Boundary Refinement for Robust Ultrasound Image Segmentation**|Jingguo Qu et.al.|[2607.21787](http://arxiv.org/abs/2607.21787)|null|
 |**2026-10-09**|**Thyroid Nodule Segmentation in Ultrasound Images with Conformal Uncertainty Estimation**|Francesco Teodori et.al.|[2610.13604](http://arxiv.org/abs/2610.13604)|null|
 |**2026-10-09**|**Radiomics-Based Thyroid Nodule Classification with Label-Conditional Conformal Prediction**|Laura Testa et.al.|[2610.13387](http://arxiv.org/abs/2610.13387)|null|
 |**2026-10-08**|**Ultrasound and Magnetic Resonance Elastography of the Neck: Biomechanical Basis, Clinical Applications and Methodological Challenges**|Rashedul Hasan et.al.|[2610.12584](http://arxiv.org/abs/2610.12584)|null|
@@ -28,7 +29,6 @@
 |**2026-08-14**|**CMCNet: Aligning Ultrasound Image Embeddings with Textual TI-RADS Representations for Fine-Grained Thyroid Classification**|Bingxin Yu et.al.|[2608.13939](http://arxiv.org/abs/2608.13939)|null|
 |**2026-08-12**|**Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting**|Haifan Gong et.al.|[2608.12590](http://arxiv.org/abs/2608.12590)|null|
 |**2026-08-02**|**UCBound-Net: Uncertainty-Guided Boundary-Aware Continual Learning for Domain-Incremental Ultrasound Segmentation**|Mohammad Amanour Rahman et.al.|[2608.01518](http://arxiv.org/abs/2608.01518)|null|
-|**2026-07-23**|**Risk-Routed Implicit Boundary Refinement for Robust Ultrasound Image Segmentation**|Jingguo Qu et.al.|[2607.21787](http://arxiv.org/abs/2607.21787)|null|
 |**2026-07-13**|**Calibrated Selective Prediction Using Deep Ensembles for ROI-Based Thyroid Nodule Ultrasound Classification Under Dataset Shift: A Retrospective Evaluation**|Md. Sadibul Hasan Sadib et.al.|[2607.12075](http://arxiv.org/abs/2607.12075)|null|
 |**2026-07-02**|**MedSaab-US: A Backpropagation-Free Multi-Scale Wavelet-Saab Framework for Thyroid Nodule Segmentation in Ultrasound Images**|Mohammad Amanour Rahman et.al.|[2607.02209](http://arxiv.org/abs/2607.02209)|null|
 |**2026-06-03**|**Implicit Fuzzification via Bounded Noise Injection for Robust Medical Image Segmentation**|Bisheng Tang et.al.|[2606.04427](http://arxiv.org/abs/2606.04427)|null|
@@ -57,9 +57,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**A Decision-Aware Evaluation Protocol for Uncertainty in Medical Image Segmentation**|Saket Maganti et.al.|[2610.21616](http://arxiv.org/abs/2610.21616)|null|
+|**2026-10-15**|**MID: Mask-Image Distributional Divergence for Evaluating Medical Image Segmentation**|Vincenzo Marcianò et.al.|[2610.17354](http://arxiv.org/abs/2610.17354)|null|
 |**2026-10-13**|**Adaptive Computation with Conformal Certification**|Shehtab Zaman et.al.|[2610.19189](http://arxiv.org/abs/2610.19189)|null|
 |**2026-10-13**|**Human-Inspired Asymmetric Collaboration for Dual-Student Semi-Supervised Medical Image Segmentation**|Huiyi Ren et.al.|[2610.18133](http://arxiv.org/abs/2610.18133)|null|
-|**2026-10-12**|**MID: Mask-Image Distributional Divergence for Evaluating Medical Image Segmentation**|Vincenzo Marcianò et.al.|[2610.17354](http://arxiv.org/abs/2610.17354)|null|
 |**2026-10-10**|**Text-Guided Medical Image Segmentation via Residual Aggregation and Dense Alignment Representations**|Jie Gui et.al.|[2610.14944](http://arxiv.org/abs/2610.14944)|null|
 |**2026-10-07**|**Quantifying Volumetric Risk: Class-Aware Asymmetric Weighted Conformal Prediction for 3D Medical Image Segmentation**|Shadi Alijani et.al.|[2610.09392](http://arxiv.org/abs/2610.09392)|null|
 |**2026-10-04**|**CoDG-Net: Structure-Guided Style Diffusion and Collaborative Learning to Mitigate Catastrophic Forgetting in Medical Image Domain Generalization**|Yucheng Song et.al.|[2610.05053](http://arxiv.org/abs/2610.05053)|null|
