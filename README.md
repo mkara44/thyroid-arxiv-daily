@@ -57,6 +57,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-18**|**SlimFormer++: Token Mixing Where It Matters for Efficient 3D Medical Image Segmentation**|Yang Hong et.al.|[2610.25488](http://arxiv.org/abs/2610.25488)|null|
+|**2026-10-18**|**Reliability-Preserving Compression for Deployable Medical Image Segmentation**|Sagar Kumar et.al.|[2610.25460](http://arxiv.org/abs/2610.25460)|null|
 |**2026-10-15**|**A Decision-Aware Evaluation Protocol for Uncertainty in Medical Image Segmentation**|Saket Maganti et.al.|[2610.21616](http://arxiv.org/abs/2610.21616)|null|
 |**2026-10-15**|**MID: Mask-Image Distributional Divergence for Evaluating Medical Image Segmentation**|Vincenzo Marcianò et.al.|[2610.17354](http://arxiv.org/abs/2610.17354)|null|
 |**2026-10-13**|**Adaptive Computation with Conformal Certification**|Shehtab Zaman et.al.|[2610.19189](http://arxiv.org/abs/2610.19189)|null|
