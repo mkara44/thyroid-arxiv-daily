@@ -57,6 +57,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**Reliability-Guided Vision-Language Decoding with Text-Aware Skip Refinement for Medical Image Segmentation**|Sivan Talaei et.al.|[2610.28118](http://arxiv.org/abs/2610.28118)|null|
+|**2026-10-20**|**LatticeRank: Spacing-Ranked Consistency for Native-Grid 3D Medical Image Segmentation**|Jingjia Yan et.al.|[2610.28091](http://arxiv.org/abs/2610.28091)|null|
+|**2026-10-18**|**Deep Auxiliary Learning via Bilevel Feature Optimization for Label-Efficient Medical Image Segmentation**|Fuping Wu et.al.|[2610.26954](http://arxiv.org/abs/2610.26954)|null|
 |**2026-10-18**|**SlimFormer++: Token Mixing Where It Matters for Efficient 3D Medical Image Segmentation**|Yang Hong et.al.|[2610.25488](http://arxiv.org/abs/2610.25488)|null|
 |**2026-10-18**|**Reliability-Preserving Compression for Deployable Medical Image Segmentation**|Sagar Kumar et.al.|[2610.25460](http://arxiv.org/abs/2610.25460)|null|
 |**2026-10-15**|**A Decision-Aware Evaluation Protocol for Uncertainty in Medical Image Segmentation**|Saket Maganti et.al.|[2610.21616](http://arxiv.org/abs/2610.21616)|null|
