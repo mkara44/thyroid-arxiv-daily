@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-21**|**Learning to Measure and Diagnose: A Clinical-Dictionary Radiomic Bottleneck Model for Thyroid Nodule Classification**|Guibin Zhang et.al.|[2610.29738](http://arxiv.org/abs/2610.29738)|null|
 |**2026-10-15**|**Risk-Routed Implicit Boundary Refinement for Robust Ultrasound Image Segmentation**|Jingguo Qu et.al.|[2607.21787](http://arxiv.org/abs/2607.21787)|null|
 |**2026-10-09**|**Thyroid Nodule Segmentation in Ultrasound Images with Conformal Uncertainty Estimation**|Francesco Teodori et.al.|[2610.13604](http://arxiv.org/abs/2610.13604)|null|
 |**2026-10-09**|**Radiomics-Based Thyroid Nodule Classification with Label-Conditional Conformal Prediction**|Laura Testa et.al.|[2610.13387](http://arxiv.org/abs/2610.13387)|null|
@@ -57,7 +58,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-20**|**Reliability-Guided Vision-Language Decoding with Text-Aware Skip Refinement for Medical Image Segmentation**|Sivan Talaei et.al.|[2610.28118](http://arxiv.org/abs/2610.28118)|null|
+|**2026-10-21**|**Reliability-Guided Vision-Language Decoding with Text-Aware Skip Refinement for Medical Image Segmentation**|Sivan Talaei et.al.|[2610.28118](http://arxiv.org/abs/2610.28118)|null|
 |**2026-10-20**|**LatticeRank: Spacing-Ranked Consistency for Native-Grid 3D Medical Image Segmentation**|Jingjia Yan et.al.|[2610.28091](http://arxiv.org/abs/2610.28091)|null|
 |**2026-10-18**|**Deep Auxiliary Learning via Bilevel Feature Optimization for Label-Efficient Medical Image Segmentation**|Fuping Wu et.al.|[2610.26954](http://arxiv.org/abs/2610.26954)|null|
 |**2026-10-18**|**SlimFormer++: Token Mixing Where It Matters for Efficient 3D Medical Image Segmentation**|Yang Hong et.al.|[2610.25488](http://arxiv.org/abs/2610.25488)|null|
