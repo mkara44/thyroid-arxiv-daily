@@ -52,6 +52,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**A General-Purpose Dual-Path Interaction Framework for Multi-View Medical Image Segmentation: Alleviating Data Volume Dependency in Small-Sample Regimes**|Shuhuan Wang et.al.|[2610.31065](http://arxiv.org/abs/2610.31065)|null|
+|**2026-10-22**|**CVP-BAA: Efficiently Adapting Segment Anything Model for Medical Image Segmentation**|Mei Wang et.al.|[2610.30672](http://arxiv.org/abs/2610.30672)|null|
 |**2026-10-21**|**Reliability-Guided Vision-Language Decoding with Text-Aware Skip Refinement for Medical Image Segmentation**|Sivan Talaei et.al.|[2610.28118](http://arxiv.org/abs/2610.28118)|null|
 |**2026-10-20**|**LatticeRank: Spacing-Ranked Consistency for Native-Grid 3D Medical Image Segmentation**|Jingjia Yan et.al.|[2610.28091](http://arxiv.org/abs/2610.28091)|null|
 |**2026-10-18**|**Deep Auxiliary Learning via Bilevel Feature Optimization for Label-Efficient Medical Image Segmentation**|Fuping Wu et.al.|[2610.26954](http://arxiv.org/abs/2610.26954)|null|
