@@ -58,6 +58,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-23**|**Sam-Correction: Fully Adaptive Label Noise Reduction for Medical Image Segmentation**|Takuro Shimaya et.al.|[2610.32377](http://arxiv.org/abs/2610.32377)|null|
+|**2026-10-23**|**Hyperparameter-Free Boundary-Interior t-vMF Dice Loss for Medical Image Segmentation**|Hinako Mitsuoka et.al.|[2610.32266](http://arxiv.org/abs/2610.32266)|null|
 |**2026-10-22**|**A General-Purpose Dual-Path Interaction Framework for Multi-View Medical Image Segmentation: Alleviating Data Volume Dependency in Small-Sample Regimes**|Shuhuan Wang et.al.|[2610.31065](http://arxiv.org/abs/2610.31065)|null|
 |**2026-10-22**|**CVP-BAA: Efficiently Adapting Segment Anything Model for Medical Image Segmentation**|Mei Wang et.al.|[2610.30672](http://arxiv.org/abs/2610.30672)|null|
 |**2026-10-21**|**Reliability-Guided Vision-Language Decoding with Text-Aware Skip Refinement for Medical Image Segmentation**|Sivan Talaei et.al.|[2610.28118](http://arxiv.org/abs/2610.28118)|null|
