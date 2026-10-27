@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-25**|**Semantic-Aware Deformable Feature Alignment for Thyroid Nodule Segmentation in Ultrasound**|Lei Zhang et.al.|[2610.34244](http://arxiv.org/abs/2610.34244)|null|
 |**2026-10-21**|**Learning to Measure and Diagnose: A Clinical-Dictionary Radiomic Bottleneck Model for Thyroid Nodule Classification**|Guibin Zhang et.al.|[2610.29738](http://arxiv.org/abs/2610.29738)|null|
 |**2026-10-15**|**Risk-Routed Implicit Boundary Refinement for Robust Ultrasound Image Segmentation**|Jingguo Qu et.al.|[2607.21787](http://arxiv.org/abs/2607.21787)|null|
 |**2026-10-09**|**Thyroid Nodule Segmentation in Ultrasound Images with Conformal Uncertainty Estimation**|Francesco Teodori et.al.|[2610.13604](http://arxiv.org/abs/2610.13604)|null|
@@ -58,6 +59,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-26**|**O2D-MedNet: An Optimization-Aware Dual-Domain Framework for Robust Medical Image Segmentation**|Shipeng Hu et.al.|[2610.35220](http://arxiv.org/abs/2610.35220)|null|
+|**2026-10-25**|**Semantic-Aware Deformable Feature Alignment for Thyroid Nodule Segmentation in Ultrasound**|Lei Zhang et.al.|[2610.34244](http://arxiv.org/abs/2610.34244)|null|
 |**2026-10-23**|**Sam-Correction: Fully Adaptive Label Noise Reduction for Medical Image Segmentation**|Takuro Shimaya et.al.|[2610.32377](http://arxiv.org/abs/2610.32377)|null|
 |**2026-10-23**|**Hyperparameter-Free Boundary-Interior t-vMF Dice Loss for Medical Image Segmentation**|Hinako Mitsuoka et.al.|[2610.32266](http://arxiv.org/abs/2610.32266)|null|
 |**2026-10-22**|**A General-Purpose Dual-Path Interaction Framework for Multi-View Medical Image Segmentation: Alleviating Data Volume Dependency in Small-Sample Regimes**|Shuhuan Wang et.al.|[2610.31065](http://arxiv.org/abs/2610.31065)|null|
