@@ -59,6 +59,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-27**|**Segmentation Confidence for Arbitrary CNNs**|Baris Oguz et.al.|[2610.37431](http://arxiv.org/abs/2610.37431)|null|
 |**2026-10-26**|**O2D-MedNet: An Optimization-Aware Dual-Domain Framework for Robust Medical Image Segmentation**|Shipeng Hu et.al.|[2610.35220](http://arxiv.org/abs/2610.35220)|null|
 |**2026-10-25**|**Semantic-Aware Deformable Feature Alignment for Thyroid Nodule Segmentation in Ultrasound**|Lei Zhang et.al.|[2610.34244](http://arxiv.org/abs/2610.34244)|null|
 |**2026-10-23**|**Sam-Correction: Fully Adaptive Label Noise Reduction for Medical Image Segmentation**|Takuro Shimaya et.al.|[2610.32377](http://arxiv.org/abs/2610.32377)|null|
