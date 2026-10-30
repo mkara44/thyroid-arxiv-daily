@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-29**|**Radiology Guideline-derived Decision Graph for Efficient Clinical Decision Support**|Xuewen Zhou et.al.|[2610.40327](http://arxiv.org/abs/2610.40327)|null|
 |**2026-10-25**|**Semantic-Aware Deformable Feature Alignment for Thyroid Nodule Segmentation in Ultrasound**|Lei Zhang et.al.|[2610.34244](http://arxiv.org/abs/2610.34244)|null|
 |**2026-10-21**|**Learning to Measure and Diagnose: A Clinical-Dictionary Radiomic Bottleneck Model for Thyroid Nodule Classification**|Guibin Zhang et.al.|[2610.29738](http://arxiv.org/abs/2610.29738)|null|
 |**2026-10-15**|**Risk-Routed Implicit Boundary Refinement for Robust Ultrasound Image Segmentation**|Jingguo Qu et.al.|[2607.21787](http://arxiv.org/abs/2607.21787)|null|
@@ -59,6 +60,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-29**|**Morphology-Aware Channel-Decoupled Mamba Network for Medical Image Segmentation**|Chenchen Wang et.al.|[2610.40085](http://arxiv.org/abs/2610.40085)|null|
+|**2026-10-29**|**Segment Anything Model Based Context Guided Mamba Unet for Medical Image Segmentation**|Chenchen Wang et.al.|[2610.40029](http://arxiv.org/abs/2610.40029)|null|
+|**2026-10-29**|**Anatomical Prior-Guided Routing for 3D Lung Tumor Segmentation**|Uihyeon Maeng et.al.|[2610.39414](http://arxiv.org/abs/2610.39414)|null|
 |**2026-10-27**|**Segmentation Confidence for Arbitrary CNNs**|Baris Oguz et.al.|[2610.37431](http://arxiv.org/abs/2610.37431)|null|
 |**2026-10-26**|**O2D-MedNet: An Optimization-Aware Dual-Domain Framework for Robust Medical Image Segmentation**|Shipeng Hu et.al.|[2610.35220](http://arxiv.org/abs/2610.35220)|null|
 |**2026-10-25**|**Semantic-Aware Deformable Feature Alignment for Thyroid Nodule Segmentation in Ultrasound**|Lei Zhang et.al.|[2610.34244](http://arxiv.org/abs/2610.34244)|null|
