@@ -60,6 +60,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-30**|**Measuring What Matters: A Causal Reliance Score for Histopathology Image Segmentation**|Samuel Thomas et.al.|[2610.41763](http://arxiv.org/abs/2610.41763)|null|
+|**2026-10-30**|**Task-Performance Routing for Multi-Teacher Distillation in CT Medical Image Segmentation**|Jiaye Yang et.al.|[2610.41362](http://arxiv.org/abs/2610.41362)|null|
 |**2026-10-29**|**Morphology-Aware Channel-Decoupled Mamba Network for Medical Image Segmentation**|Chenchen Wang et.al.|[2610.40085](http://arxiv.org/abs/2610.40085)|null|
 |**2026-10-29**|**Segment Anything Model Based Context Guided Mamba Unet for Medical Image Segmentation**|Chenchen Wang et.al.|[2610.40029](http://arxiv.org/abs/2610.40029)|null|
 |**2026-10-29**|**Anatomical Prior-Guided Routing for 3D Lung Tumor Segmentation**|Uihyeon Maeng et.al.|[2610.39414](http://arxiv.org/abs/2610.39414)|null|
