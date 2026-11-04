@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 #  Thyroid & Ultrasound AI ArXiv Daily
-### Automatically Updated on 2026.11.03
+### Automatically Updated on 2026.11.04
  
 
 <details>
@@ -54,16 +54,18 @@
 |**2025-10-30**|**Artificial Intelligence-Enabled Analysis of Radiology Reports: Epidemiology and Consequences of Incidental Thyroid Findings**|Felipe Larios et.al.|[2510.26032](http://arxiv.org/abs/2510.26032)|null|
 |**2025-10-27**|**ProfileXAI: User-Adaptive Explainable AI**|Gilber A. Corrales et.al.|[2510.22998](http://arxiv.org/abs/2510.22998)|null|
 
-<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
 
 ## Medical Ultrasound AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-01**|**Peripheral prototypical contrastive loss for supervised medical image segmentation**|Takuro Shimaya et.al.|[2611.02305](http://arxiv.org/abs/2611.02305)|null|
+|**2026-11-01**|**Morphology-Aware Channel-Decoupled Mamba Network for Medical Image Segmentation**|Chenchen Wang et.al.|[2610.40085](http://arxiv.org/abs/2610.40085)|null|
+|**2026-11-01**|**Segment Anything Model Based Context Guided Mamba Unet for Medical Image Segmentation**|Chenchen Wang et.al.|[2610.40029](http://arxiv.org/abs/2610.40029)|null|
+|**2026-10-30**|**Directional Dual-Head Supervision for Real-Time Source-Free Polyp Segmentation**|Hai-Dang Nguyen et.al.|[2611.00238](http://arxiv.org/abs/2611.00238)|null|
 |**2026-10-30**|**Measuring What Matters: A Causal Reliance Score for Histopathology Image Segmentation**|Samuel Thomas et.al.|[2610.41763](http://arxiv.org/abs/2610.41763)|null|
 |**2026-10-30**|**Task-Performance Routing for Multi-Teacher Distillation in CT Medical Image Segmentation**|Jiaye Yang et.al.|[2610.41362](http://arxiv.org/abs/2610.41362)|null|
-|**2026-10-29**|**Morphology-Aware Channel-Decoupled Mamba Network for Medical Image Segmentation**|Chenchen Wang et.al.|[2610.40085](http://arxiv.org/abs/2610.40085)|null|
-|**2026-10-29**|**Segment Anything Model Based Context Guided Mamba Unet for Medical Image Segmentation**|Chenchen Wang et.al.|[2610.40029](http://arxiv.org/abs/2610.40029)|null|
 |**2026-10-29**|**Anatomical Prior-Guided Routing for 3D Lung Tumor Segmentation**|Uihyeon Maeng et.al.|[2610.39414](http://arxiv.org/abs/2610.39414)|null|
 |**2026-10-27**|**Segmentation Confidence for Arbitrary CNNs**|Baris Oguz et.al.|[2610.37431](http://arxiv.org/abs/2610.37431)|null|
 |**2026-10-26**|**O2D-MedNet: An Optimization-Aware Dual-Domain Framework for Robust Medical Image Segmentation**|Shipeng Hu et.al.|[2610.35220](http://arxiv.org/abs/2610.35220)|null|
@@ -368,7 +370,7 @@
 |**2026-02-04**|**An Intuitionistic Fuzzy Logic Driven UNet architecture: Application to Brain Image segmentation**|Hanuman Verma et.al.|[2602.04227](http://arxiv.org/abs/2602.04227)|null|
 |**2026-02-03**|**MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning**|Shengyuan Liu et.al.|[2602.03320](http://arxiv.org/abs/2602.03320)|null|
 
-<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
 
 Notes: 
 
