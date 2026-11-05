@@ -18,6 +18,7 @@ layout: default
 |**2026-10-29**|**Radiology Guideline-derived Decision Graph for Efficient Clinical Decision Support**|Xuewen Zhou et.al.|[2610.40327](http://arxiv.org/abs/2610.40327)|null|
 |**2026-10-25**|**Semantic-Aware Deformable Feature Alignment for Thyroid Nodule Segmentation in Ultrasound**|Lei Zhang et.al.|[2610.34244](http://arxiv.org/abs/2610.34244)|null|
 |**2026-10-21**|**Learning to Measure and Diagnose: A Clinical-Dictionary Radiomic Bottleneck Model for Thyroid Nodule Classification**|Guibin Zhang et.al.|[2610.29738](http://arxiv.org/abs/2610.29738)|null|
+|**2026-10-16**|**Deep-Learning Algorithm for Indeterminate Thyroid Nodules: Comparison and Combination with Molecular Testing**|Jichen Yang et.al.|[2611.05400](http://arxiv.org/abs/2611.05400)|null|
 |**2026-10-15**|**Risk-Routed Implicit Boundary Refinement for Robust Ultrasound Image Segmentation**|Jingguo Qu et.al.|[2607.21787](http://arxiv.org/abs/2607.21787)|null|
 |**2026-10-09**|**Thyroid Nodule Segmentation in Ultrasound Images with Conformal Uncertainty Estimation**|Francesco Teodori et.al.|[2610.13604](http://arxiv.org/abs/2610.13604)|null|
 |**2026-10-09**|**Radiomics-Based Thyroid Nodule Classification with Label-Conditional Conformal Prediction**|Laura Testa et.al.|[2610.13387](http://arxiv.org/abs/2610.13387)|null|
@@ -54,6 +55,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-04**|**From Vision to Context: A Review of Prompt-Driven Target Volume Segmentation in Radiotherapy**|Bakpen Kombat et.al.|[2611.06570](http://arxiv.org/abs/2611.06570)|null|
+|**2026-11-03**|**Mitigating Spurious Invariance in Contrastive Learning: A Probabilistic Self-Supervised Learning Framework for Medical Image Analysis**|Wei Wei et.al.|[2611.05734](http://arxiv.org/abs/2611.05734)|null|
 |**2026-11-03**|**ProGeo-RC: Prototype-guided Semantic Reliability and Geometric Error Calibration for Semi-supervised Cardiac Image Segmentation**|Yunfei Zhu et.al.|[2611.04257](http://arxiv.org/abs/2611.04257)|null|
 |**2026-11-03**|**Segmentation Confidence for Arbitrary CNNs**|Baris Oguz et.al.|[2610.37431](http://arxiv.org/abs/2610.37431)|null|
 |**2026-11-01**|**Peripheral prototypical contrastive loss for supervised medical image segmentation**|Takuro Shimaya et.al.|[2611.02305](http://arxiv.org/abs/2611.02305)|null|
