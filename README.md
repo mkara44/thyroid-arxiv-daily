@@ -61,6 +61,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-06**|**The Role Of Recurrent Refinement In Medical Image Segmentation**|Joao D. S. Marques et.al.|[2611.09436](http://arxiv.org/abs/2611.09436)|null|
+|**2026-11-06**|**Finite-sample Calibration Guarantees for Binary Segmentation**|Bruno Viti et.al.|[2611.09120](http://arxiv.org/abs/2611.09120)|null|
+|**2026-11-06**|**Region-aware error triage for medical image segmentation with groupwise conformal risk control**|Nishi Kanta Paul et.al.|[2611.08962](http://arxiv.org/abs/2611.08962)|null|
 |**2026-11-04**|**From Vision to Context: A Review of Prompt-Driven Target Volume Segmentation in Radiotherapy**|Bakpen Kombat et.al.|[2611.06570](http://arxiv.org/abs/2611.06570)|null|
 |**2026-11-03**|**Mitigating Spurious Invariance in Contrastive Learning: A Probabilistic Self-Supervised Learning Framework for Medical Image Analysis**|Wei Wei et.al.|[2611.05734](http://arxiv.org/abs/2611.05734)|null|
 |**2026-11-03**|**ProGeo-RC: Prototype-guided Semantic Reliability and Geometric Error Calibration for Semi-supervised Cardiac Image Segmentation**|Yunfei Zhu et.al.|[2611.04257](http://arxiv.org/abs/2611.04257)|null|
