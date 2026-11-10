@@ -15,6 +15,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**Distinguishing thyroid nodule malignancy using digital palpation**|Brendan M. Unikewicz et.al.|[2611.12563](http://arxiv.org/abs/2611.12563)|null|
+|**2026-11-09**|**Leveraging High-Activity Post-Therapeutic I-131 Scans for Deep Learning Reconstruction of Extremely Sparse Planar Images in Differentiated Thyroid Cancer**|Boyang Pan et.al.|[2611.12044](http://arxiv.org/abs/2611.12044)|null|
 |**2026-10-29**|**Radiology Guideline-derived Decision Graph for Efficient Clinical Decision Support**|Xuewen Zhou et.al.|[2610.40327](http://arxiv.org/abs/2610.40327)|null|
 |**2026-10-25**|**Semantic-Aware Deformable Feature Alignment for Thyroid Nodule Segmentation in Ultrasound**|Lei Zhang et.al.|[2610.34244](http://arxiv.org/abs/2610.34244)|null|
 |**2026-10-21**|**Learning to Measure and Diagnose: A Clinical-Dictionary Radiomic Bottleneck Model for Thyroid Nodule Classification**|Guibin Zhang et.al.|[2610.29738](http://arxiv.org/abs/2610.29738)|null|
@@ -58,6 +60,8 @@ layout: default
 |**2026-11-06**|**The Role Of Recurrent Refinement In Medical Image Segmentation**|Joao D. S. Marques et.al.|[2611.09436](http://arxiv.org/abs/2611.09436)|null|
 |**2026-11-06**|**Finite-sample Calibration Guarantees for Binary Segmentation**|Bruno Viti et.al.|[2611.09120](http://arxiv.org/abs/2611.09120)|null|
 |**2026-11-06**|**Region-aware error triage for medical image segmentation with groupwise conformal risk control**|Nishi Kanta Paul et.al.|[2611.08962](http://arxiv.org/abs/2611.08962)|null|
+|**2026-11-05**|**Ultra-Lightweight 3D Medical Image Segmentation via Knowledge Distillation in Label-Scarce Domains**|Rahim Ullah et.al.|[2611.10033](http://arxiv.org/abs/2611.10033)|null|
+|**2026-11-05**|**GMD-Mamba: Lightweight 3D Medical Image Segmentation Using a Grouped Multi-Directional Mamba**|Rahim Ullah et.al.|[2611.10032](http://arxiv.org/abs/2611.10032)|null|
 |**2026-11-04**|**From Vision to Context: A Review of Prompt-Driven Target Volume Segmentation in Radiotherapy**|Bakpen Kombat et.al.|[2611.06570](http://arxiv.org/abs/2611.06570)|null|
 |**2026-11-03**|**Mitigating Spurious Invariance in Contrastive Learning: A Probabilistic Self-Supervised Learning Framework for Medical Image Analysis**|Wei Wei et.al.|[2611.05734](http://arxiv.org/abs/2611.05734)|null|
 |**2026-11-03**|**ProGeo-RC: Prototype-guided Semantic Reliability and Geometric Error Calibration for Semi-supervised Cardiac Image Segmentation**|Yunfei Zhu et.al.|[2611.04257](http://arxiv.org/abs/2611.04257)|null|
