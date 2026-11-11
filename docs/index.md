@@ -57,6 +57,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training**|Emre Kutlusan et.al.|[2611.14519](http://arxiv.org/abs/2611.14519)|null|
+|**2026-11-10**|**Counterfactual Analysis of Extent Leakage from Annotation-Derived Prompts in Vision-Language Medical Image Segmentation**|Niran Nataraj et.al.|[2611.13970](http://arxiv.org/abs/2611.13970)|null|
 |**2026-11-06**|**The Role Of Recurrent Refinement In Medical Image Segmentation**|Joao D. S. Marques et.al.|[2611.09436](http://arxiv.org/abs/2611.09436)|null|
 |**2026-11-06**|**Finite-sample Calibration Guarantees for Binary Segmentation**|Bruno Viti et.al.|[2611.09120](http://arxiv.org/abs/2611.09120)|null|
 |**2026-11-06**|**Region-aware error triage for medical image segmentation with groupwise conformal risk control**|Nishi Kanta Paul et.al.|[2611.08962](http://arxiv.org/abs/2611.08962)|null|
