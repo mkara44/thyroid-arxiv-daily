@@ -57,6 +57,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**Retrieval-Augmented Correction for Generalist Medical Image Segmentation**|Vincenzo Marcianò et.al.|[2611.23189](http://arxiv.org/abs/2611.23189)|null|
+|**2026-11-17**|**LeViT-UNet++: Towards Balanced Fine-Grained Details and Context for Efficient Medical Image Segmentation**|Guoping Xu et.al.|[2611.22482](http://arxiv.org/abs/2611.22482)|null|
 |**2026-11-16**|**Scribble Once, Segment the Sequence: Bidirectional Temporal Consistency for Weakly Supervised Segmentation in Echocardiography Sequences**|Vincent Li Weixin et.al.|[2611.21137](http://arxiv.org/abs/2611.21137)|null|
 |**2026-11-12**|**FGCARL: Fisher-Guided Continuously Adaptive Representation Learning for Medical Image Segmentation**|Xiaobing Yu et.al.|[2611.16210](http://arxiv.org/abs/2611.16210)|null|
 |**2026-11-10**|**Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training**|Emre Kutlusan et.al.|[2611.14519](http://arxiv.org/abs/2611.14519)|null|
