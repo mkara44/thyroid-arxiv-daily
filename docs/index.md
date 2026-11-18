@@ -8,14 +8,14 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 #  Thyroid & Ultrasound AI ArXiv Daily
-### Automatically Updated on 2026.11.17
+### Automatically Updated on 2026.11.18
  
 
 ## Thyroid Analysis
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-09**|**Distinguishing thyroid nodule malignancy using digital palpation**|Brendan M. Unikewicz et.al.|[2611.12563](http://arxiv.org/abs/2611.12563)|null|
+|**2026-11-15**|**Distinguishing thyroid nodule malignancy using digital palpation**|Brendan M. Unikewicz et.al.|[2611.12563](http://arxiv.org/abs/2611.12563)|null|
 |**2026-11-09**|**Leveraging High-Activity Post-Therapeutic I-131 Scans for Deep Learning Reconstruction of Extremely Sparse Planar Images in Differentiated Thyroid Cancer**|Boyang Pan et.al.|[2611.12044](http://arxiv.org/abs/2611.12044)|null|
 |**2026-10-29**|**Radiology Guideline-derived Decision Graph for Efficient Clinical Decision Support**|Xuewen Zhou et.al.|[2610.40327](http://arxiv.org/abs/2610.40327)|null|
 |**2026-10-25**|**Semantic-Aware Deformable Feature Alignment for Thyroid Nodule Segmentation in Ultrasound**|Lei Zhang et.al.|[2610.34244](http://arxiv.org/abs/2610.34244)|null|
@@ -57,6 +57,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**Scribble Once, Segment the Sequence: Bidirectional Temporal Consistency for Weakly Supervised Segmentation in Echocardiography Sequences**|Vincent Li Weixin et.al.|[2611.21137](http://arxiv.org/abs/2611.21137)|null|
 |**2026-11-12**|**FGCARL: Fisher-Guided Continuously Adaptive Representation Learning for Medical Image Segmentation**|Xiaobing Yu et.al.|[2611.16210](http://arxiv.org/abs/2611.16210)|null|
 |**2026-11-10**|**Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training**|Emre Kutlusan et.al.|[2611.14519](http://arxiv.org/abs/2611.14519)|null|
 |**2026-11-10**|**Counterfactual Analysis of Extent Leakage from Annotation-Derived Prompts in Vision-Language Medical Image Segmentation**|Niran Nataraj et.al.|[2611.13970](http://arxiv.org/abs/2611.13970)|null|
