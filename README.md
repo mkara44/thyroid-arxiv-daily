@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 #  Thyroid & Ultrasound AI ArXiv Daily
-### Automatically Updated on 2026.11.23
+### Automatically Updated on 2026.11.24
  
 
 <details>
@@ -57,12 +57,13 @@
 |**2025-10-30**|**Artificial Intelligence-Enabled Analysis of Radiology Reports: Epidemiology and Consequences of Incidental Thyroid Findings**|Felipe Larios et.al.|[2510.26032](http://arxiv.org/abs/2510.26032)|null|
 |**2025-10-27**|**ProfileXAI: User-Adaptive Explainable AI**|Gilber A. Corrales et.al.|[2510.22998](http://arxiv.org/abs/2510.22998)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
 
 ## Medical Ultrasound AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**Towards Text-Mask Consistency in Medical Image Segmentation**|Jie Gui et.al.|[2611.27050](http://arxiv.org/abs/2611.27050)|null|
 |**2026-11-17**|**Retrieval-Augmented Correction for Generalist Medical Image Segmentation**|Vincenzo Marcianò et.al.|[2611.23189](http://arxiv.org/abs/2611.23189)|null|
 |**2026-11-17**|**LeViT-UNet++: Towards Balanced Fine-Grained Details and Context for Efficient Medical Image Segmentation**|Guoping Xu et.al.|[2611.22482](http://arxiv.org/abs/2611.22482)|null|
 |**2026-11-16**|**Scribble Once, Segment the Sequence: Bidirectional Temporal Consistency for Weakly Supervised Segmentation in Echocardiography Sequences**|Vincent Li Weixin et.al.|[2611.21137](http://arxiv.org/abs/2611.21137)|null|
@@ -387,7 +388,7 @@
 |**2026-02-04**|**An Intuitionistic Fuzzy Logic Driven UNet architecture: Application to Brain Image segmentation**|Hanuman Verma et.al.|[2602.04227](http://arxiv.org/abs/2602.04227)|null|
 |**2026-02-03**|**MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning**|Shengyuan Liu et.al.|[2602.03320](http://arxiv.org/abs/2602.03320)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
 
 Notes: 
 
