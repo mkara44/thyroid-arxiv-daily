@@ -63,6 +63,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-23**|**Foundation Model and Radiomics Distance Scores for Post-Hoc Segmentation Failure Detection**|Simon Johannes Joham et.al.|[2611.30582](http://arxiv.org/abs/2611.30582)|null|
+|**2026-11-23**|**WaDiS: Boundary-Preserving Diffusion Segmentation via Multi-Scale Wavelet Conditioning and Frequency-Aware Gating**|Qiang Gao et.al.|[2611.30164](http://arxiv.org/abs/2611.30164)|null|
+|**2026-11-22**|**MISeg-Agent: A Human-in-the-Loop Agentic Framework for Error Diagnosis and Executable Prompt Review in 3D Medical Image Segmentation**|Delin An et.al.|[2611.29741](http://arxiv.org/abs/2611.29741)|null|
+|**2026-11-22**|**One-shot is Enough: Boosting SAM for Medical Image Segmentation through Structured Information Modeling**|Guilin Guan et.al.|[2611.29278](http://arxiv.org/abs/2611.29278)|null|
+|**2026-11-21**|**Mirrored Min-of-K Training**|Jiaru Zhang et.al.|[2611.29008](http://arxiv.org/abs/2611.29008)|null|
 |**2026-11-20**|**Towards Text-Mask Consistency in Medical Image Segmentation**|Jie Gui et.al.|[2611.27050](http://arxiv.org/abs/2611.27050)|null|
 |**2026-11-17**|**Retrieval-Augmented Correction for Generalist Medical Image Segmentation**|Vincenzo Marcianò et.al.|[2611.23189](http://arxiv.org/abs/2611.23189)|null|
 |**2026-11-17**|**LeViT-UNet++: Towards Balanced Fine-Grained Details and Context for Efficient Medical Image Segmentation**|Guoping Xu et.al.|[2611.22482](http://arxiv.org/abs/2611.22482)|null|
