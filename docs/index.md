@@ -57,6 +57,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**Can AI Design a Better nnU-Net? A Hypothesis-Driven Architecture Discovery Loop from Failures to Design Rules**|Songtao Jiang et.al.|[2611.32384](http://arxiv.org/abs/2611.32384)|null|
+|**2026-11-23**|**Medical Image Segmentation Is Now Just Another Coding Task**|Shuheng Cao et.al.|[2611.31673](http://arxiv.org/abs/2611.31673)|null|
 |**2026-11-23**|**Foundation Model and Radiomics Distance Scores for Post-Hoc Segmentation Failure Detection**|Simon Johannes Joham et.al.|[2611.30582](http://arxiv.org/abs/2611.30582)|null|
 |**2026-11-23**|**WaDiS: Boundary-Preserving Diffusion Segmentation via Multi-Scale Wavelet Conditioning and Frequency-Aware Gating**|Qiang Gao et.al.|[2611.30164](http://arxiv.org/abs/2611.30164)|null|
 |**2026-11-22**|**MISeg-Agent: A Human-in-the-Loop Agentic Framework for Error Diagnosis and Executable Prompt Review in 3D Medical Image Segmentation**|Delin An et.al.|[2611.29741](http://arxiv.org/abs/2611.29741)|null|
